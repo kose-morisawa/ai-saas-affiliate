@@ -1,0 +1,39 @@
+name: Daily Data Fetch (No AI)
+
+# GitHub Actions の役割：データ取得のみ。AI呼び出しは一切なし。
+# AI作業はClaude Code セッション内で行う。
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 毎朝9:00 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Fetch trending data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npx tsx scripts/fetch-trending.ts
+
+      - name: Commit fetched data
+        run: |
+          git config user.name "data-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/raw/
+          git diff --staged --quiet || git commit -m "data: $(date +%Y-%m-%d) trending fetch"
+          git push

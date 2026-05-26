@@ -1,0 +1,35 @@
+{
+  "_comment": "ASPアフィリエイトリンクを登録する。publisherエージェントがプレースホルダーと置換する。",
+  "links": {
+    "ASP_xserver_standard": {
+      "name": "エックスサーバー スタンダード",
+      "url": "",
+      "rel": "nofollow noopener sponsored",
+      "target": "_blank"
+    },
+    "ASP_xserver_premium": {
+      "name": "エックスサーバー プレミアム",
+      "url": "",
+      "rel": "nofollow noopener sponsored",
+      "target": "_blank"
+    },
+    "ASP_conoha_wing": {
+      "name": "ConoHa WING",
+      "url": "",
+      "rel": "nofollow noopener sponsored",
+      "target": "_blank"
+    },
+    "ASP_adobe_cc": {
+      "name": "Adobe Creative Cloud",
+      "url": "",
+      "rel": "nofollow noopener sponsored",
+      "target": "_blank"
+    },
+    "ASP_notion_plus": {
+      "name": "Notion Plus",
+      "url": "",
+      "rel": "nofollow noopener sponsored",
+      "target": "_blank"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+name: Weekly GSC Fetch (No AI)
+
+on:
+  schedule:
+    - cron: "0 1 * * 1" # 毎週月曜 10:00 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-gsc:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Fetch GSC data
+        env:
+          SITE_URL: ${{ secrets.SITE_URL }}
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+        run: npx tsx scripts/gsc-fetch.ts
+
+      - name: Commit GSC data
+        run: |
+          git config user.name "data-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/gsc/
+          git diff --staged --quiet || git commit -m "data: $(date +%Y-%m-%d) gsc fetch"
+          git push
