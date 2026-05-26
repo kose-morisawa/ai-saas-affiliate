@@ -1,6 +1,7 @@
 {
   "name": "ai-saas-affiliate",
   "version": "1.0.0",
+  "description": "AI/SaaS affiliate media",
   "type": "module",
   "scripts": {
     "dev": "astro dev",
