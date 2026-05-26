@@ -3,19 +3,19 @@
   "links": {
     "ASP_xserver_standard": {
       "name": "エックスサーバー スタンダード",
-      "url": "",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4B40F3+C506SY+CO4+61JSI",
       "rel": "nofollow noopener sponsored",
       "target": "_blank"
     },
     "ASP_xserver_premium": {
       "name": "エックスサーバー プレミアム",
-      "url": "",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4B40F3+C506SY+CO4+61JSI",
       "rel": "nofollow noopener sponsored",
       "target": "_blank"
     },
     "ASP_conoha_wing": {
       "name": "ConoHa WING",
-      "url": "",
+      "url": "https://px.a8.net/svt/ejp?a8mat=4B40F3+DRY3OY+50+5SJI2A",
       "rel": "nofollow noopener sponsored",
       "target": "_blank"
     },
@@ -25,11 +25,6 @@
       "rel": "nofollow noopener sponsored",
       "target": "_blank"
     },
-    "ASP_notion_plus": {
-      "name": "Notion Plus",
-      "url": "",
-      "rel": "nofollow noopener sponsored",
-      "target": "_blank"
-    }
+    "ASP_notion_plus": null
   }
 }
