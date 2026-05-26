@@ -12,36 +12,242 @@ const posts = (await getCollection("blog"))
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>ねこみみ先生のAIツール大学 | AI/SaaSツール比較・使い方</title>
     <meta name="description" content="AI・SaaSツールの比較・使い方・料金を実際に使って解説。エンジニア・会社員向けのAIツール情報メディア。" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600;700&display=swap" rel="stylesheet" />
     <style>
-      body { font-family: "Hiragino Sans", "Noto Sans JP", sans-serif; max-width: 900px; margin: 0 auto; padding: 1rem 1.5rem; color: #1a1a1a; }
-      h1 { font-size: 1.6rem; }
-      .post-list { list-style: none; padding: 0; }
-      .post-item { border-bottom: 1px solid #e5e7eb; padding: 1rem 0; }
-      .post-item a { text-decoration: none; color: #1a1a1a; font-weight: 600; font-size: 1.1rem; }
-      .post-item a:hover { color: #5b21b6; }
-      .post-meta { font-size: .85em; color: #6b7280; margin-top: .25rem; }
-      .post-desc { margin-top: .4rem; font-size: .95em; color: #374151; }
+      *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+      :root {
+        --purple: #7c3aed;
+        --purple-light: #ede9fe;
+        --purple-dark: #4c1d95;
+        --gray-50: #f9fafb;
+        --gray-100: #f3f4f6;
+        --gray-200: #e5e7eb;
+        --gray-500: #6b7280;
+        --gray-700: #374151;
+        --gray-900: #111827;
+      }
+
+      body {
+        font-family: "Noto Sans JP", "Hiragino Sans", sans-serif;
+        background: var(--gray-50);
+        color: var(--gray-900);
+        line-height: 1.7;
+      }
+
+      /* HEADER */
+      header {
+        background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #4c1d95 100%);
+        color: white;
+        padding: 3.5rem 1.5rem 4rem;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+      }
+      header::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Ccircle cx='30' cy='30' r='20'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+      }
+      .site-badge {
+        display: inline-block;
+        background: rgba(255,255,255,0.15);
+        border: 1px solid rgba(255,255,255,0.25);
+        border-radius: 999px;
+        padding: 0.3rem 1rem;
+        font-size: 0.8rem;
+        letter-spacing: 0.05em;
+        margin-bottom: 1rem;
+        position: relative;
+      }
+      header h1 {
+        font-size: clamp(1.6rem, 4vw, 2.4rem);
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        position: relative;
+        margin-bottom: 0.75rem;
+      }
+      header p {
+        font-size: 1rem;
+        opacity: 0.8;
+        position: relative;
+      }
+
+      /* NAV */
+      nav {
+        background: white;
+        border-bottom: 1px solid var(--gray-200);
+        padding: 0 1.5rem;
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+        height: 3rem;
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+      }
+      nav a {
+        text-decoration: none;
+        color: var(--gray-700);
+        font-size: 0.875rem;
+        font-weight: 600;
+        padding: 0.25rem 0;
+        border-bottom: 2px solid transparent;
+        transition: color 0.2s, border-color 0.2s;
+      }
+      nav a:hover, nav a.active { color: var(--purple); border-bottom-color: var(--purple); }
+
+      /* MAIN */
+      main {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 2.5rem 1.5rem 4rem;
+      }
+
+      .section-title {
+        font-size: 1rem;
+        font-weight: 700;
+        color: var(--gray-500);
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        margin-bottom: 1.5rem;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+      .section-title::after {
+        content: "";
+        flex: 1;
+        height: 1px;
+        background: var(--gray-200);
+      }
+
+      /* CARD GRID */
+      .card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        gap: 1.5rem;
+      }
+
+      .card {
+        background: white;
+        border-radius: 12px;
+        border: 1px solid var(--gray-200);
+        padding: 1.5rem;
+        text-decoration: none;
+        color: inherit;
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+        transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+      }
+      .card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 24px rgba(124, 58, 237, 0.12);
+        border-color: var(--purple);
+      }
+
+      .card-tags {
+        display: flex;
+        gap: 0.4rem;
+        flex-wrap: wrap;
+      }
+      .tag {
+        background: var(--purple-light);
+        color: var(--purple);
+        padding: 0.15rem 0.6rem;
+        border-radius: 999px;
+        font-size: 0.75rem;
+        font-weight: 600;
+      }
+
+      .card-title {
+        font-size: 1.05rem;
+        font-weight: 700;
+        line-height: 1.5;
+        color: var(--gray-900);
+      }
+
+      .card-desc {
+        font-size: 0.875rem;
+        color: var(--gray-500);
+        line-height: 1.6;
+        flex: 1;
+      }
+
+      .card-meta {
+        font-size: 0.8rem;
+        color: var(--gray-500);
+        padding-top: 0.75rem;
+        border-top: 1px solid var(--gray-100);
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+      .card-meta::before {
+        content: "📅";
+        font-size: 0.75rem;
+      }
+
+      /* EMPTY STATE */
+      .empty {
+        text-align: center;
+        color: var(--gray-500);
+        padding: 4rem 0;
+        font-size: 1rem;
+      }
+
+      /* FOOTER */
+      footer {
+        background: var(--gray-900);
+        color: var(--gray-500);
+        text-align: center;
+        padding: 2rem 1rem;
+        font-size: 0.85rem;
+      }
+      footer a { color: var(--gray-500); }
     </style>
   </head>
   <body>
     <header>
+      <div class="site-badge">AI / SaaS メディア</div>
       <h1>🐱 ねこみみ先生のAIツール大学</h1>
-      <p>AI・SaaSツールを実際に使って比較・解説するメディア</p>
+      <p>AIツール・SaaSを実際に使って比較・解説するエンジニア向けメディア</p>
     </header>
+
+    <nav>
+      <a href="/" class="active">ホーム</a>
+      <a href="/ai-saas-affiliate/">記事一覧</a>
+    </nav>
+
     <main>
-      <ul class="post-list">
-        {posts.map((post) => (
-          <li class="post-item">
-            <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
-            <div class="post-meta">
-              {post.data.pubDate.toLocaleDateString("ja-JP")}
-              {post.data.tags.map((t) => ` · ${t}`)}
-            </div>
-            <div class="post-desc">{post.data.description}</div>
-          </li>
-        ))}
-      </ul>
-      {posts.length === 0 && <p>記事を準備中です。</p>}
+      <p class="section-title">最新記事</p>
+      {posts.length > 0 ? (
+        <div class="card-grid">
+          {posts.map((post) => (
+            <a class="card" href={`/ai-saas-affiliate/blog/${post.slug}/`}>
+              <div class="card-tags">
+                {post.data.tags.map((t) => <span class="tag">{t}</span>)}
+              </div>
+              <div class="card-title">{post.data.title}</div>
+              <div class="card-desc">{post.data.description}</div>
+              <div class="card-meta">
+                {post.data.pubDate.toLocaleDateString("ja-JP", { year: "numeric", month: "long", day: "numeric" })}
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="empty">記事を準備中です。しばらくお待ちください。</p>
+      )}
     </main>
+
+    <footer>
+      <p>© {new Date().getFullYear()} ねこみみ先生のAIツール大学 &nbsp;|&nbsp; <a href="#">プライバシーポリシー</a></p>
+    </footer>
   </body>
 </html>
