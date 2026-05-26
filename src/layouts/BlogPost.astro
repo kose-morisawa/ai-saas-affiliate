@@ -31,280 +31,303 @@ const formattedUpd = updatedDate?.toLocaleDateString("ja-JP", { year: "numeric",
       :root {
         --purple: #7c3aed;
         --purple-light: #ede9fe;
-        --gray-50: #f9fafb;
-        --gray-100: #f3f4f6;
-        --gray-200: #e5e7eb;
-        --gray-500: #6b7280;
-        --gray-700: #374151;
-        --gray-900: #111827;
+        --cyan: #0ea5e9;
+        --cyan-light: #e0f2fe;
+        --orange: #f97316;
+        --orange-light: #fff7ed;
+        --green: #10b981;
+        --green-light: #d1fae5;
+        --pink: #ec4899;
+        --gray-50: #f8fafc;
+        --gray-100: #f1f5f9;
+        --gray-200: #e2e8f0;
+        --gray-400: #94a3b8;
+        --gray-500: #64748b;
+        --gray-700: #334155;
+        --gray-900: #0f172a;
       }
 
       body {
         font-family: "Noto Sans JP", "Hiragino Sans", sans-serif;
-        background: var(--gray-50);
+        background: #f0f4ff;
         color: var(--gray-900);
         line-height: 1.9;
       }
 
-      /* HEADER / NAV */
+      /* NAV */
       .site-nav {
         background: white;
-        border-bottom: 1px solid var(--gray-200);
+        border-bottom: 3px solid var(--purple);
         padding: 0 1.5rem;
         display: flex;
         align-items: center;
         gap: 1.5rem;
-        height: 3.25rem;
+        height: 3.5rem;
         position: sticky;
         top: 0;
         z-index: 100;
-        box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        box-shadow: 0 2px 12px rgba(124,58,237,0.1);
       }
       .site-nav .brand {
         font-weight: 700;
-        font-size: 0.95rem;
+        font-size: 1rem;
         color: var(--gray-900);
         text-decoration: none;
-        white-space: nowrap;
       }
-      .site-nav .brand span { color: var(--purple); }
+      .site-nav .brand em { color: var(--purple); font-style: normal; }
+      .site-nav .spacer { flex: 1; }
       .site-nav .back {
         font-size: 0.85rem;
         color: var(--gray-500);
         text-decoration: none;
-        display: flex;
-        align-items: center;
-        gap: 0.3rem;
+        background: var(--gray-100);
+        padding: 0.3rem 0.8rem;
+        border-radius: 999px;
+        transition: background 0.2s;
       }
-      .site-nav .back:hover { color: var(--purple); }
-      .site-nav .spacer { flex: 1; }
+      .site-nav .back:hover { background: var(--purple-light); color: var(--purple); }
 
       /* LAYOUT */
       .page-wrapper {
-        max-width: 1200px;
+        max-width: 1180px;
         margin: 0 auto;
         padding: 2rem 1.5rem 5rem;
         display: grid;
         grid-template-columns: 1fr 260px;
-        gap: 2.5rem;
+        gap: 2rem;
         align-items: start;
       }
-      @media (max-width: 900px) {
+      @media (max-width: 860px) {
         .page-wrapper { grid-template-columns: 1fr; }
         .toc-sidebar { display: none; }
       }
 
-      /* ARTICLE */
+      /* ARTICLE CARD */
       article {
         background: white;
-        border-radius: 16px;
-        border: 1px solid var(--gray-200);
+        border-radius: 20px;
+        box-shadow: 0 4px 24px rgba(0,0,0,0.06);
         padding: 2.5rem 3rem;
         min-width: 0;
       }
-      @media (max-width: 600px) {
-        article { padding: 1.5rem 1.25rem; }
-      }
+      @media (max-width: 600px) { article { padding: 1.5rem 1.25rem; } }
 
-      .article-header { margin-bottom: 2rem; }
-
-      .tags {
-        display: flex;
-        gap: 0.4rem;
-        flex-wrap: wrap;
-        margin-bottom: 1rem;
-      }
+      /* TAGS */
+      .tags { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 0.9rem; }
       .tag {
-        background: var(--purple-light);
-        color: var(--purple);
-        padding: 0.2rem 0.65rem;
+        padding: 0.2rem 0.7rem;
         border-radius: 999px;
-        font-size: 0.75rem;
-        font-weight: 600;
+        font-size: 0.72rem;
+        font-weight: 700;
+        letter-spacing: 0.04em;
       }
+      .tag:nth-child(3n+1) { background: var(--purple-light); color: var(--purple); }
+      .tag:nth-child(3n+2) { background: var(--cyan-light); color: var(--cyan); }
+      .tag:nth-child(3n)   { background: var(--orange-light); color: var(--orange); }
 
       article h1 {
-        font-size: clamp(1.4rem, 3vw, 1.9rem);
+        font-size: clamp(1.4rem, 3vw, 1.85rem);
         font-weight: 700;
         line-height: 1.4;
         letter-spacing: -0.02em;
-        margin-bottom: 0.75rem;
+        margin-bottom: 0.6rem;
       }
 
       .article-meta {
-        font-size: 0.83rem;
-        color: var(--gray-500);
+        font-size: 0.82rem;
+        color: var(--gray-400);
         display: flex;
         gap: 1rem;
         flex-wrap: wrap;
+        margin-bottom: 0.5rem;
+      }
+
+      /* PR NOTICE — subtle */
+      .pr-notice {
+        font-size: 0.75rem;
+        color: var(--gray-400);
+        margin-bottom: 1rem;
       }
 
       .divider {
-        height: 1px;
-        background: var(--gray-200);
-        margin: 1.75rem 0;
+        height: 2px;
+        background: linear-gradient(90deg, var(--purple), var(--cyan), var(--orange));
+        border-radius: 999px;
+        margin: 1.5rem 0 2rem;
+        opacity: 0.4;
       }
 
       /* PROSE */
       .prose h2 {
-        font-size: 1.35rem;
+        font-size: 1.3rem;
         font-weight: 700;
-        border-left: 4px solid var(--purple);
-        padding-left: 0.75rem;
-        margin: 2.5rem 0 1rem;
+        margin: 2.8rem 0 1rem;
+        padding: 0.6rem 1rem;
+        background: linear-gradient(135deg, var(--purple-light), var(--cyan-light));
+        border-left: 5px solid var(--purple);
+        border-radius: 0 10px 10px 0;
         line-height: 1.4;
       }
       .prose h3 {
-        font-size: 1.1rem;
+        font-size: 1.08rem;
         font-weight: 700;
-        margin: 2rem 0 0.75rem;
-        padding-bottom: 0.3rem;
-        border-bottom: 1px dashed var(--gray-200);
+        margin: 2rem 0 0.6rem;
+        color: var(--purple);
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+      }
+      .prose h3::before {
+        content: "▍";
+        color: var(--cyan);
+        font-size: 0.9em;
       }
       .prose h4 {
         font-size: 1rem;
         font-weight: 700;
-        margin: 1.5rem 0 0.5rem;
+        margin: 1.5rem 0 0.4rem;
         color: var(--gray-700);
       }
       .prose p { margin-bottom: 1.2rem; }
-      .prose ul, .prose ol {
-        padding-left: 1.5rem;
-        margin-bottom: 1.2rem;
-      }
-      .prose li { margin-bottom: 0.4rem; }
-      .prose strong { font-weight: 700; }
+      .prose ul, .prose ol { padding-left: 1.5rem; margin-bottom: 1.2rem; }
+      .prose li { margin-bottom: 0.45rem; }
+      .prose strong { font-weight: 700; color: var(--gray-900); }
 
-      /* BLOCKQUOTE (PR notice) */
+      /* BLOCKQUOTE — PR表記をここで上書き */
       .prose blockquote {
-        background: #fefce8;
-        border-left: 4px solid #fbbf24;
-        padding: 0.75rem 1.25rem;
-        border-radius: 0 8px 8px 0;
-        font-size: 0.9rem;
-        color: #92400e;
-        margin: 1.25rem 0;
+        display: none; /* MDX内の > **PR** ブロックはlayoutのpr-noticeで代替済み */
       }
-      .prose blockquote p { margin: 0; }
 
       /* TABLE */
       .prose table {
         width: 100%;
-        border-collapse: collapse;
-        margin: 1.5rem 0;
-        font-size: 0.9rem;
-        overflow-x: auto;
+        border-collapse: separate;
+        border-spacing: 0;
+        margin: 1.75rem 0;
+        font-size: 0.88rem;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.07);
         display: block;
+        overflow-x: auto;
       }
       .prose th {
-        background: linear-gradient(135deg, #4c1d95, #6d28d9);
+        background: linear-gradient(135deg, #4c1d95, #0369a1);
         color: white;
-        padding: 0.6rem 1rem;
+        padding: 0.7rem 1rem;
         text-align: left;
-        font-weight: 600;
+        font-weight: 700;
+        font-size: 0.85rem;
         white-space: nowrap;
+        border-right: 1px solid rgba(255,255,255,0.15);
       }
+      .prose th:last-child { border-right: none; }
       .prose td {
-        border: 1px solid var(--gray-200);
-        padding: 0.6rem 1rem;
+        padding: 0.65rem 1rem;
+        border-bottom: 1px solid var(--gray-200);
+        border-right: 1px solid var(--gray-100);
         vertical-align: top;
       }
-      .prose tr:nth-child(even) td { background: var(--gray-50); }
-      .prose tr:hover td { background: var(--purple-light); }
+      .prose td:last-child { border-right: none; }
+      .prose tr:nth-child(even) td { background: #f8f4ff; }
+      .prose tr:last-child td { border-bottom: none; }
+      .prose tr:hover td { background: var(--cyan-light); transition: background 0.15s; }
 
       /* CODE */
       .prose code {
-        background: var(--gray-100);
-        padding: 0.15rem 0.4rem;
-        border-radius: 4px;
-        font-size: 0.875em;
+        background: #fdf4ff;
+        border: 1px solid #e9d5ff;
+        padding: 0.15rem 0.45rem;
+        border-radius: 5px;
+        font-size: 0.85em;
         font-family: "Consolas", "Monaco", monospace;
-        color: #be185d;
+        color: #7e22ce;
       }
       .prose pre {
-        background: #1e1e2e;
-        color: #cdd6f4;
+        background: #1a1625;
+        color: #e2e8f0;
         padding: 1.25rem 1.5rem;
-        border-radius: 10px;
+        border-radius: 12px;
         overflow-x: auto;
         margin: 1.5rem 0;
         font-size: 0.875rem;
         line-height: 1.7;
+        box-shadow: inset 0 2px 8px rgba(0,0,0,0.3);
       }
-      .prose pre code { background: none; color: inherit; padding: 0; font-size: inherit; }
+      .prose pre code { background: none; border: none; color: inherit; padding: 0; }
 
       /* CITE */
-      .prose cite {
-        font-size: 0.8rem;
-        color: var(--gray-500);
-        font-style: normal;
+      .prose cite { font-size: 0.8rem; color: var(--gray-400); font-style: normal; }
+      .prose cite a { color: var(--cyan); }
+
+      /* CALLOUT-STYLE STRONG PARAGRAPH */
+      .prose p:has(strong:first-child:last-child) {
+        background: var(--orange-light);
+        border-left: 4px solid var(--orange);
+        padding: 0.75rem 1rem;
+        border-radius: 0 8px 8px 0;
+        margin: 1.5rem 0;
       }
-      .prose cite a { color: var(--purple); }
 
       /* TOC SIDEBAR */
       .toc-sidebar {
         position: sticky;
         top: 4.5rem;
         background: white;
-        border: 1px solid var(--gray-200);
-        border-radius: 12px;
+        border-radius: 16px;
+        box-shadow: 0 4px 24px rgba(0,0,0,0.06);
         padding: 1.25rem;
+        border-top: 4px solid var(--cyan);
       }
       .toc-sidebar h2 {
-        font-size: 0.8rem;
+        font-size: 0.75rem;
         font-weight: 700;
-        color: var(--gray-500);
-        letter-spacing: 0.08em;
+        color: var(--cyan);
+        letter-spacing: 0.1em;
         text-transform: uppercase;
-        margin-bottom: 0.75rem;
+        margin-bottom: 0.8rem;
       }
-      .toc-sidebar ul {
-        list-style: none;
-        padding: 0;
-        font-size: 0.82rem;
-        line-height: 1.5;
-      }
-      .toc-sidebar li { margin-bottom: 0.4rem; }
+      .toc-sidebar ul { list-style: none; padding: 0; font-size: 0.8rem; line-height: 1.5; }
+      .toc-sidebar li { margin-bottom: 0.3rem; }
       .toc-sidebar a {
         color: var(--gray-700);
         text-decoration: none;
         display: block;
-        padding: 0.2rem 0.4rem;
-        border-radius: 4px;
-        transition: background 0.15s, color 0.15s;
+        padding: 0.25rem 0.5rem;
+        border-radius: 6px;
+        transition: all 0.15s;
       }
-      .toc-sidebar a:hover { background: var(--purple-light); color: var(--purple); }
+      .toc-sidebar a:hover { background: var(--purple-light); color: var(--purple); padding-left: 0.8rem; }
 
       /* FOOTER */
       footer {
         background: var(--gray-900);
         color: var(--gray-500);
         text-align: center;
-        padding: 2rem 1rem;
+        padding: 2.5rem 1rem;
         font-size: 0.85rem;
-        margin-top: 2rem;
       }
+      footer a { color: var(--gray-400); text-decoration: none; }
     </style>
   </head>
   <body>
     <nav class="site-nav">
-      <a class="brand" href="/ai-saas-affiliate/">🐱 ねこみみ先生の<span>AIツール大学</span></a>
+      <a class="brand" href="/ai-saas-affiliate/">🐱 ねこみみ先生の<em>AIツール大学</em></a>
       <div class="spacer"></div>
       <a class="back" href="/ai-saas-affiliate/">← 記事一覧</a>
     </nav>
 
     <div class="page-wrapper">
       <article>
-        <div class="article-header">
-          <div class="tags">
-            {tags.map((t) => <span class="tag">{t}</span>)}
-          </div>
-          <h1>{title}</h1>
-          <div class="article-meta">
-            <span>📅 公開: {formattedPub}</span>
-            {formattedUpd && <span>🔄 更新: {formattedUpd}</span>}
-          </div>
+        <div class="tags">
+          {tags.map((t) => <span class="tag">{t}</span>)}
         </div>
+        <h1>{title}</h1>
+        <div class="article-meta">
+          <span>📅 {formattedPub}</span>
+          {formattedUpd && <span>🔄 更新: {formattedUpd}</span>}
+        </div>
+        <p class="pr-notice">※本記事にはアフィリエイト広告が含まれます</p>
         <div class="divider"></div>
         <div class="prose">
           <slot />
@@ -320,11 +343,10 @@ const formattedUpd = updatedDate?.toLocaleDateString("ja-JP", { year: "numeric",
     </div>
 
     <footer>
-      <p>© {new Date().getFullYear()} ねこみみ先生のAIツール大学</p>
+      <p>© {new Date().getFullYear()} ねこみみ先生のAIツール大学 &nbsp;|&nbsp; <a href="#">プライバシーポリシー</a></p>
     </footer>
 
     <script>
-      // 目次を自動生成
       const headings = document.querySelectorAll("article h2");
       const toc = document.getElementById("toc-list");
       if (toc && headings.length > 0) {
@@ -339,7 +361,7 @@ const formattedUpd = updatedDate?.toLocaleDateString("ja-JP", { year: "numeric",
           toc.appendChild(li);
         });
       } else if (toc) {
-        toc.innerHTML = "<li style='color:#9ca3af'>見出しなし</li>";
+        toc.innerHTML = "<li style='color:#94a3b8'>見出しなし</li>";
       }
     </script>
   </body>

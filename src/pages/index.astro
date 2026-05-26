@@ -21,82 +21,101 @@ const posts = (await getCollection("blog"))
       :root {
         --purple: #7c3aed;
         --purple-light: #ede9fe;
-        --purple-dark: #4c1d95;
-        --gray-50: #f9fafb;
-        --gray-100: #f3f4f6;
-        --gray-200: #e5e7eb;
-        --gray-500: #6b7280;
-        --gray-700: #374151;
-        --gray-900: #111827;
+        --cyan: #0ea5e9;
+        --cyan-light: #e0f2fe;
+        --orange: #f97316;
+        --orange-light: #fff7ed;
+        --gray-50: #f8fafc;
+        --gray-100: #f1f5f9;
+        --gray-200: #e2e8f0;
+        --gray-400: #94a3b8;
+        --gray-500: #64748b;
+        --gray-700: #334155;
+        --gray-900: #0f172a;
       }
 
       body {
         font-family: "Noto Sans JP", "Hiragino Sans", sans-serif;
-        background: var(--gray-50);
+        background: #f0f4ff;
         color: var(--gray-900);
-        line-height: 1.7;
       }
 
-      /* HEADER */
-      header {
-        background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #4c1d95 100%);
-        color: white;
-        padding: 3.5rem 1.5rem 4rem;
+      /* HERO */
+      .hero {
+        background: linear-gradient(135deg, #1e1b4b 0%, #312e81 40%, #0c4a6e 100%);
+        padding: 4rem 1.5rem 5rem;
         text-align: center;
         position: relative;
         overflow: hidden;
       }
-      header::before {
+      .hero::after {
         content: "";
         position: absolute;
-        inset: 0;
-        background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Ccircle cx='30' cy='30' r='20'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+        bottom: -2px;
+        left: 0;
+        right: 0;
+        height: 60px;
+        background: #f0f4ff;
+        clip-path: ellipse(55% 100% at 50% 100%);
       }
-      .site-badge {
-        display: inline-block;
-        background: rgba(255,255,255,0.15);
-        border: 1px solid rgba(255,255,255,0.25);
+      .hero-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        background: rgba(255,255,255,0.12);
+        border: 1px solid rgba(255,255,255,0.2);
         border-radius: 999px;
         padding: 0.3rem 1rem;
-        font-size: 0.8rem;
-        letter-spacing: 0.05em;
-        margin-bottom: 1rem;
-        position: relative;
+        font-size: 0.78rem;
+        color: rgba(255,255,255,0.9);
+        letter-spacing: 0.06em;
+        margin-bottom: 1.25rem;
       }
-      header h1 {
-        font-size: clamp(1.6rem, 4vw, 2.4rem);
+      .hero h1 {
+        font-size: clamp(1.7rem, 5vw, 2.6rem);
         font-weight: 700;
+        color: white;
         letter-spacing: -0.02em;
-        position: relative;
-        margin-bottom: 0.75rem;
+        margin-bottom: 0.8rem;
+        line-height: 1.3;
       }
-      header p {
+      .hero h1 span {
+        background: linear-gradient(90deg, #a78bfa, #38bdf8);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+      }
+      .hero p {
         font-size: 1rem;
-        opacity: 0.8;
-        position: relative;
+        color: rgba(255,255,255,0.7);
+        max-width: 500px;
+        margin: 0 auto;
       }
 
       /* NAV */
       nav {
         background: white;
-        border-bottom: 1px solid var(--gray-200);
+        border-bottom: 3px solid var(--purple);
         padding: 0 1.5rem;
         display: flex;
         align-items: center;
         gap: 2rem;
-        height: 3rem;
+        height: 3.25rem;
         position: sticky;
         top: 0;
         z-index: 100;
-        box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        box-shadow: 0 2px 12px rgba(124,58,237,0.1);
       }
       nav a {
         text-decoration: none;
         color: var(--gray-700);
         font-size: 0.875rem;
         font-weight: 600;
-        padding: 0.25rem 0;
-        border-bottom: 2px solid transparent;
+        padding: 0 0.25rem;
+        border-bottom: 3px solid transparent;
+        height: 3.25rem;
+        display: flex;
+        align-items: center;
         transition: color 0.2s, border-color 0.2s;
       }
       nav a:hover, nav a.active { color: var(--purple); border-bottom-color: var(--purple); }
@@ -105,100 +124,120 @@ const posts = (await getCollection("blog"))
       main {
         max-width: 1100px;
         margin: 0 auto;
-        padding: 2.5rem 1.5rem 4rem;
+        padding: 3rem 1.5rem 5rem;
       }
 
-      .section-title {
-        font-size: 1rem;
-        font-weight: 700;
-        color: var(--gray-500);
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
-        margin-bottom: 1.5rem;
+      .section-header {
         display: flex;
         align-items: center;
-        gap: 0.5rem;
+        gap: 0.75rem;
+        margin-bottom: 2rem;
       }
-      .section-title::after {
-        content: "";
+      .section-header h2 {
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: var(--gray-900);
+      }
+      .section-header .line {
         flex: 1;
-        height: 1px;
-        background: var(--gray-200);
+        height: 2px;
+        background: linear-gradient(90deg, var(--purple), transparent);
+        border-radius: 999px;
+      }
+      .section-header .count {
+        font-size: 0.8rem;
+        color: var(--gray-400);
+        background: var(--gray-100);
+        padding: 0.15rem 0.6rem;
+        border-radius: 999px;
       }
 
       /* CARD GRID */
       .card-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
         gap: 1.5rem;
       }
 
       .card {
         background: white;
-        border-radius: 12px;
-        border: 1px solid var(--gray-200);
+        border-radius: 16px;
         padding: 1.5rem;
         text-decoration: none;
         color: inherit;
         display: flex;
         flex-direction: column;
         gap: 0.75rem;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+        border: 2px solid transparent;
         transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+        position: relative;
+        overflow: hidden;
+      }
+      .card::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 4px;
+        background: linear-gradient(90deg, var(--purple), var(--cyan));
+        opacity: 0;
+        transition: opacity 0.2s;
       }
       .card:hover {
-        transform: translateY(-3px);
-        box-shadow: 0 8px 24px rgba(124, 58, 237, 0.12);
-        border-color: var(--purple);
+        transform: translateY(-4px);
+        box-shadow: 0 12px 32px rgba(124,58,237,0.15);
+        border-color: var(--purple-light);
       }
+      .card:hover::before { opacity: 1; }
 
-      .card-tags {
-        display: flex;
-        gap: 0.4rem;
-        flex-wrap: wrap;
-      }
+      .card-tags { display: flex; gap: 0.4rem; flex-wrap: wrap; }
       .tag {
-        background: var(--purple-light);
-        color: var(--purple);
-        padding: 0.15rem 0.6rem;
+        padding: 0.18rem 0.65rem;
         border-radius: 999px;
-        font-size: 0.75rem;
-        font-weight: 600;
+        font-size: 0.72rem;
+        font-weight: 700;
       }
+      .tag:nth-child(3n+1) { background: var(--purple-light); color: var(--purple); }
+      .tag:nth-child(3n+2) { background: var(--cyan-light); color: var(--cyan); }
+      .tag:nth-child(3n)   { background: var(--orange-light); color: var(--orange); }
 
       .card-title {
-        font-size: 1.05rem;
+        font-size: 1rem;
         font-weight: 700;
         line-height: 1.5;
         color: var(--gray-900);
       }
-
       .card-desc {
-        font-size: 0.875rem;
+        font-size: 0.85rem;
         color: var(--gray-500);
-        line-height: 1.6;
+        line-height: 1.65;
         flex: 1;
       }
-
       .card-meta {
-        font-size: 0.8rem;
-        color: var(--gray-500);
+        font-size: 0.78rem;
+        color: var(--gray-400);
         padding-top: 0.75rem;
         border-top: 1px solid var(--gray-100);
         display: flex;
         align-items: center;
-        gap: 0.5rem;
+        justify-content: space-between;
       }
-      .card-meta::before {
-        content: "📅";
-        font-size: 0.75rem;
+      .read-more {
+        font-size: 0.78rem;
+        color: var(--purple);
+        font-weight: 600;
       }
 
-      /* EMPTY STATE */
+      /* EMPTY */
       .empty {
         text-align: center;
-        color: var(--gray-500);
-        padding: 4rem 0;
+        color: var(--gray-400);
+        padding: 5rem 0;
         font-size: 1rem;
+        background: white;
+        border-radius: 16px;
       }
 
       /* FOOTER */
@@ -206,26 +245,32 @@ const posts = (await getCollection("blog"))
         background: var(--gray-900);
         color: var(--gray-500);
         text-align: center;
-        padding: 2rem 1rem;
+        padding: 2.5rem 1rem;
         font-size: 0.85rem;
       }
-      footer a { color: var(--gray-500); }
+      footer a { color: var(--gray-400); text-decoration: none; }
+      footer a:hover { color: white; }
     </style>
   </head>
   <body>
-    <header>
-      <div class="site-badge">AI / SaaS メディア</div>
-      <h1>🐱 ねこみみ先生のAIツール大学</h1>
-      <p>AIツール・SaaSを実際に使って比較・解説するエンジニア向けメディア</p>
-    </header>
+    <div class="hero">
+      <div class="hero-badge">🎓 AI / SaaS メディア</div>
+      <h1>ねこみみ先生の<br /><span>AIツール大学</span></h1>
+      <p>AIツール・SaaSを実際に触って比較・解説するエンジニア向けメディア</p>
+    </div>
 
     <nav>
-      <a href="/" class="active">ホーム</a>
+      <a href="/ai-saas-affiliate/" class="active">ホーム</a>
       <a href="/ai-saas-affiliate/">記事一覧</a>
     </nav>
 
     <main>
-      <p class="section-title">最新記事</p>
+      <div class="section-header">
+        <h2>最新記事</h2>
+        <div class="line"></div>
+        <span class="count">{posts.length}件</span>
+      </div>
+
       {posts.length > 0 ? (
         <div class="card-grid">
           {posts.map((post) => (
@@ -236,13 +281,16 @@ const posts = (await getCollection("blog"))
               <div class="card-title">{post.data.title}</div>
               <div class="card-desc">{post.data.description}</div>
               <div class="card-meta">
-                {post.data.pubDate.toLocaleDateString("ja-JP", { year: "numeric", month: "long", day: "numeric" })}
+                <span>📅 {post.data.pubDate.toLocaleDateString("ja-JP", { year: "numeric", month: "short", day: "numeric" })}</span>
+                <span class="read-more">続きを読む →</span>
               </div>
             </a>
           ))}
         </div>
       ) : (
-        <p class="empty">記事を準備中です。しばらくお待ちください。</p>
+        <div class="empty">
+          <p>🐱 記事を準備中です。しばらくお待ちください。</p>
+        </div>
       )}
     </main>
 
