@@ -276,7 +276,7 @@ const formattedUpd = updatedDate?.toLocaleDateString("ja-JP", { year: "numeric",
         background: white;
         border-radius: 16px;
         box-shadow: 0 4px 24px rgba(0,0,0,0.06);
-        padding: 1.25rem;
+        padding: 1.25rem 1rem;
         border-top: 4px solid var(--cyan);
       }
       .toc-sidebar h2 {
@@ -285,19 +285,52 @@ const formattedUpd = updatedDate?.toLocaleDateString("ja-JP", { year: "numeric",
         color: var(--cyan);
         letter-spacing: 0.1em;
         text-transform: uppercase;
-        margin-bottom: 0.8rem;
+        margin-bottom: 1rem;
+        padding-bottom: 0.6rem;
+        border-bottom: 1px solid var(--gray-100);
       }
-      .toc-sidebar ul { list-style: none; padding: 0; font-size: 0.8rem; line-height: 1.5; }
-      .toc-sidebar li { margin-bottom: 0.3rem; }
+      .toc-sidebar ul { list-style: none; padding: 0; }
+      .toc-sidebar li {
+        border-bottom: 1px dashed var(--gray-100);
+      }
+      .toc-sidebar li:last-child { border-bottom: none; }
       .toc-sidebar a {
         color: var(--gray-700);
         text-decoration: none;
-        display: block;
-        padding: 0.25rem 0.5rem;
+        display: flex;
+        align-items: flex-start;
+        gap: 0.5rem;
+        padding: 0.55rem 0.4rem;
+        font-size: 0.8rem;
+        line-height: 1.45;
         border-radius: 6px;
         transition: all 0.15s;
       }
-      .toc-sidebar a:hover { background: var(--purple-light); color: var(--purple); padding-left: 0.8rem; }
+      .toc-sidebar a::before {
+        content: attr(data-num);
+        min-width: 1.4rem;
+        height: 1.4rem;
+        background: var(--gray-100);
+        color: var(--gray-500);
+        border-radius: 4px;
+        font-size: 0.7rem;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        margin-top: 0.05rem;
+        transition: all 0.15s;
+      }
+      .toc-sidebar a:hover {
+        background: var(--purple-light);
+        color: var(--purple);
+        padding-left: 0.7rem;
+      }
+      .toc-sidebar a:hover::before {
+        background: var(--purple);
+        color: white;
+      }
 
       /* FOOTER */
       footer {
@@ -357,11 +390,12 @@ const formattedUpd = updatedDate?.toLocaleDateString("ja-JP", { year: "numeric",
           const a = document.createElement("a");
           a.href = `#${h.id}`;
           a.textContent = h.textContent ?? "";
+          a.dataset.num = String(i + 1);
           li.appendChild(a);
           toc.appendChild(li);
         });
       } else if (toc) {
-        toc.innerHTML = "<li style='color:#94a3b8'>見出しなし</li>";
+        toc.innerHTML = "<li style='color:#94a3b8;padding:0.5rem'>見出しなし</li>";
       }
     </script>
   </body>
