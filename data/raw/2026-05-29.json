@@ -1,0 +1,128 @@
+{
+  "date": "2026-05-29",
+  "fetched_at": "2026-05-29T03:28:41.772Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "points": 1289,
+      "num_comments": 1038
+    },
+    {
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "points": 686,
+      "num_comments": 368
+    },
+    {
+      "title": "Disagreement among frontier LLMs on real-world fact-checks",
+      "url": "https://lenz.io/research/llm-disagreement",
+      "points": 484,
+      "num_comments": 339
+    },
+    {
+      "title": "Show HN: Hallucinate – Massively Multiplayer Online Rave",
+      "url": "https://hallucinate.site",
+      "points": 413,
+      "num_comments": 182
+    },
+    {
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "points": 392,
+      "num_comments": 596
+    },
+    {
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "points": 329,
+      "num_comments": 154
+    },
+    {
+      "title": "EU fines Temu €200M for allowing sale of illegal products",
+      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+      "points": 312,
+      "num_comments": 232
+    },
+    {
+      "title": "Building durable workflows on Postgres",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "points": 283,
+      "num_comments": 121
+    },
+    {
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "points": 280,
+      "num_comments": 287
+    },
+    {
+      "title": "New York passes pied-a-terre tax",
+      "url": "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html",
+      "points": 259,
+      "num_comments": 413
+    },
+    {
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "points": 258,
+      "num_comments": 114
+    },
+    {
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "points": 246,
+      "num_comments": 183
+    },
+    {
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/",
+      "points": 233,
+      "num_comments": 31
+    },
+    {
+      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+      "points": 220,
+      "num_comments": 109
+    },
+    {
+      "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+      "points": 189,
+      "num_comments": 153
+    },
+    {
+      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "points": 178,
+      "num_comments": 67
+    },
+    {
+      "title": "I hated writing until I learned there’s a science to it (2024)",
+      "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+      "points": 161,
+      "num_comments": 71
+    },
+    {
+      "title": "AI sticker shock hits corporate America",
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "points": 157,
+      "num_comments": 134
+    },
+    {
+      "title": "The Permanent Upper Crow",
+      "url": "https://permanent-upper-crow.jasonwu.ink/",
+      "points": 152,
+      "num_comments": 63
+    },
+    {
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "points": 144,
+      "num_comments": 42
+    }
+  ],
+  "product_hunt": []
+}
