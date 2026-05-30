@@ -1,0 +1,128 @@
+{
+  "date": "2026-05-30",
+  "fetched_at": "2026-05-30T02:55:20.638Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "I am retiring from tech to live offline",
+      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+      "points": 754,
+      "num_comments": 517
+    },
+    {
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "points": 739,
+      "num_comments": 925
+    },
+    {
+      "title": "Please Use AI",
+      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "points": 721,
+      "num_comments": 374
+    },
+    {
+      "title": "GTA 6 Developers Unionize",
+      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "points": 580,
+      "num_comments": 408
+    },
+    {
+      "title": "Cars collect a startling amount of data about you",
+      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "points": 482,
+      "num_comments": 279
+    },
+    {
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "points": 387,
+      "num_comments": 211
+    },
+    {
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "points": 374,
+      "num_comments": 180
+    },
+    {
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "points": 314,
+      "num_comments": 111
+    },
+    {
+      "title": "Is AI causing a repeat of frontend’s lost decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "points": 299,
+      "num_comments": 257
+    },
+    {
+      "title": "Danish Pension Blacklists SpaceX over 'Catastrophic Governance'",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues",
+      "points": 240,
+      "num_comments": 151
+    },
+    {
+      "title": "You can just say it",
+      "url": "https://noperator.dev/posts/you-can-just-say-it/",
+      "points": 240,
+      "num_comments": 119
+    },
+    {
+      "title": "It's hard to justify buying a Framework 12",
+      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+      "points": 233,
+      "num_comments": 401
+    },
+    {
+      "title": "Bijou64: A variable-length integer encoding",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "points": 209,
+      "num_comments": 74
+    },
+    {
+      "title": "Blue Origin’s New Glenn rocket exploded during a static fire test",
+      "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+      "points": 209,
+      "num_comments": 8
+    },
+    {
+      "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
+      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+      "points": 200,
+      "num_comments": 71
+    },
+    {
+      "title": "Let's compile Quake like it's 1997",
+      "url": "https://fabiensanglard.net/compile_like_1997/",
+      "points": 200,
+      "num_comments": 64
+    },
+    {
+      "title": "The California state assembly has passed the 'Protect Our Games Act'",
+      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
+      "points": 197,
+      "num_comments": 195
+    },
+    {
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "points": 197,
+      "num_comments": 90
+    },
+    {
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "points": 157,
+      "num_comments": 57
+    },
+    {
+      "title": "We should be more tired than the model",
+      "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+      "points": 152,
+      "num_comments": 132
+    }
+  ],
+  "product_hunt": []
+}
