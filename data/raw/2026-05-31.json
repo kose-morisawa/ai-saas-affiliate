@@ -1,0 +1,128 @@
+{
+  "date": "2026-05-31",
+  "fetched_at": "2026-05-31T03:40:56.882Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "points": 531,
+      "num_comments": 171
+    },
+    {
+      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+      "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+      "points": 454,
+      "num_comments": 11
+    },
+    {
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+      "points": 396,
+      "num_comments": 451
+    },
+    {
+      "title": "OpenRouter raises $113M Series B",
+      "url": "https://openrouter.ai/announcements/series-b",
+      "points": 373,
+      "num_comments": 185
+    },
+    {
+      "title": "Pandoc Templates",
+      "url": "https://pandoc-templates.org/",
+      "points": 368,
+      "num_comments": 48
+    },
+    {
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "points": 337,
+      "num_comments": 204
+    },
+    {
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "url": "https://github.com/kristapsdz/openrsync",
+      "points": 329,
+      "num_comments": 145
+    },
+    {
+      "title": "Zig: Build System Reworked",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "points": 327,
+      "num_comments": 212
+    },
+    {
+      "title": "Proposed new US funding rules: We can cancel any grant at any time",
+      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+      "points": 312,
+      "num_comments": 3
+    },
+    {
+      "title": "EY Canada published a cybersecurity report and most citations were hallucinated",
+      "url": "https://gptzero.me/investigations/ey",
+      "points": 283,
+      "num_comments": 129
+    },
+    {
+      "title": "Accenture to acquire Ookla",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+      "points": 255,
+      "num_comments": 127
+    },
+    {
+      "title": "Voxel Space (2017)",
+      "url": "https://s-macke.github.io/VoxelSpace/",
+      "points": 254,
+      "num_comments": 57
+    },
+    {
+      "title": "Leo's first encyclical attacks technological messianism",
+      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+      "points": 194,
+      "num_comments": 227
+    },
+    {
+      "title": "Zig ELF Linker Improvements Devlog",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "points": 179,
+      "num_comments": 52
+    },
+    {
+      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+      "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
+      "points": 170,
+      "num_comments": 147
+    },
+    {
+      "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+      "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+      "points": 151,
+      "num_comments": 146
+    },
+    {
+      "title": "Memory decline after menopause linked to loss of estrogen production in brain",
+      "url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
+      "points": 142,
+      "num_comments": 64
+    },
+    {
+      "title": "To have a moral stance on AI is to be an outcast, and it sucks",
+      "url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
+      "points": 125,
+      "num_comments": 278
+    },
+    {
+      "title": "Shantell Sans (2023)",
+      "url": "https://shantellsans.com/process",
+      "points": 125,
+      "num_comments": 13
+    },
+    {
+      "title": "AI job grief: A psychological crisis hitting tech workers",
+      "url": "https://jackmaguire.org/blog/ai-job-grief/",
+      "points": 122,
+      "num_comments": 122
+    }
+  ],
+  "product_hunt": []
+}
