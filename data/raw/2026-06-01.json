@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-01",
+  "fetched_at": "2026-06-01T03:55:57.514Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "points": 552,
+      "num_comments": 317
+    },
+    {
+      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "points": 507,
+      "num_comments": 329
+    },
+    {
+      "title": "The Website Specification",
+      "url": "https://specification.website/",
+      "points": 452,
+      "num_comments": 185
+    },
+    {
+      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+      "url": "https://twitter.com/i/status/2060746160558543217",
+      "points": 419,
+      "num_comments": 207
+    },
+    {
+      "title": "Dav2d",
+      "url": "https://jbkempf.com/blog/2026/dav2d/",
+      "points": 412,
+      "num_comments": 155
+    },
+    {
+      "title": "The solution might be cancelling my AI subscription",
+      "url": "https://thoughts.hmmz.org/2026-05-31.html",
+      "points": 345,
+      "num_comments": 225
+    },
+    {
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "points": 314,
+      "num_comments": 109
+    },
+    {
+      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+      "points": 296,
+      "num_comments": 468
+    },
+    {
+      "title": "I put a datacenter GPU in my gaming PC",
+      "url": "https://blog.tymscar.com/posts/v100localllm/",
+      "points": 285,
+      "num_comments": 168
+    },
+    {
+      "title": "London's Free Roof Terraces",
+      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+      "points": 276,
+      "num_comments": 133
+    },
+    {
+      "title": "Deflock hits 100k ALPRs Mapped in USA",
+      "url": "https://deflock.org/",
+      "points": 194,
+      "num_comments": 60
+    },
+    {
+      "title": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
+      "url": "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/",
+      "points": 185,
+      "num_comments": 85
+    },
+    {
+      "title": "Restartable Sequences",
+      "url": "https://justine.lol/rseq/",
+      "points": 184,
+      "num_comments": 51
+    },
+    {
+      "title": "'Backrooms' Stuns with $81M Debut",
+      "url": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
+      "points": 174,
+      "num_comments": 104
+    },
+    {
+      "title": "Backpressure is all you need",
+      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "points": 161,
+      "num_comments": 92
+    },
+    {
+      "title": "Daily pill can double survival time for deadliest cancer, trial shows",
+      "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+      "points": 150,
+      "num_comments": 46
+    },
+    {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "points": 147,
+      "num_comments": 230
+    },
+    {
+      "title": "US healthcare still stupidly expensive, with pathetic outcomes, study finds",
+      "url": "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
+      "points": 133,
+      "num_comments": 146
+    },
+    {
+      "title": "It's Not Just X. It's Y",
+      "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+      "points": 132,
+      "num_comments": 102
+    },
+    {
+      "title": "Odysseus – self-hosted AI workspace",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "points": 132,
+      "num_comments": 64
+    }
+  ],
+  "product_hunt": []
+}
