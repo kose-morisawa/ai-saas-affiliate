@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-02",
+  "fetched_at": "2026-06-02T03:51:14.780Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "points": 1441,
+      "num_comments": 342
+    },
+    {
+      "title": "Malicious npm packages detected across Red Hat Cloud Services",
+      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+      "points": 734,
+      "num_comments": 419
+    },
+    {
+      "title": "A 10 year old Xeon is all you need",
+      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "points": 675,
+      "num_comments": 272
+    },
+    {
+      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+      "points": 525,
+      "num_comments": 254
+    },
+    {
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "points": 466,
+      "num_comments": 380
+    },
+    {
+      "title": "CS336: Language Modeling from Scratch",
+      "url": "https://cs336.stanford.edu/",
+      "points": 383,
+      "num_comments": 43
+    },
+    {
+      "title": "Nvidia RTX Spark",
+      "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+      "points": 352,
+      "num_comments": 343
+    },
+    {
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "points": 348,
+      "num_comments": 122
+    },
+    {
+      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "points": 289,
+      "num_comments": 142
+    },
+    {
+      "title": "KDE at 30",
+      "url": "https://kde.org/anniversaries/30/",
+      "points": 231,
+      "num_comments": 116
+    },
+    {
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "url": "https://30fps.net/pages/255-vs-256-division/",
+      "points": 209,
+      "num_comments": 90
+    },
+    {
+      "title": "GitHub and the crime against software",
+      "url": "https://eblog.fly.dev/githubbad.html",
+      "points": 205,
+      "num_comments": 98
+    },
+    {
+      "title": "What appear to be biochemical processes may be a natural feature of geology",
+      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "points": 202,
+      "num_comments": 69
+    },
+    {
+      "title": "Legal action forces Facebook whistleblower to sit in silence at Hay festival",
+      "url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
+      "points": 199,
+      "num_comments": 52
+    },
+    {
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "points": 190,
+      "num_comments": 164
+    },
+    {
+      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
+      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+      "points": 171,
+      "num_comments": 370
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "points": 171,
+      "num_comments": 60
+    },
+    {
+      "title": "Debug Project",
+      "url": "https://debug.com/",
+      "points": 168,
+      "num_comments": 72
+    },
+    {
+      "title": "Roughly a quarter of American professionals hit a wall in their careers",
+      "url": "https://www.wsj.com/lifestyle/careers/white-collar-workers-career-nyu-study-a81a7d9c",
+      "points": 164,
+      "num_comments": 206
+    }
+  ],
+  "product_hunt": []
+}
