@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-03",
+  "fetched_at": "2026-06-03T03:58:04.188Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "points": 693,
+      "num_comments": 418
+    },
+    {
+      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+      "url": "https://blog.adafruit.com/",
+      "points": 637,
+      "num_comments": 256
+    },
+    {
+      "title": "Why Janet? (2023)",
+      "url": "https://ianthehenry.com/posts/why-janet/",
+      "points": 436,
+      "num_comments": 235
+    },
+    {
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "points": 417,
+      "num_comments": 178
+    },
+    {
+      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
+      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+      "points": 383,
+      "num_comments": 260
+    },
+    {
+      "title": "Love systemd timers",
+      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+      "points": 362,
+      "num_comments": 230
+    },
+    {
+      "title": "Larry Ellison: \"Citizens will be on their best behavior because we’re recording\"",
+      "url": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy",
+      "points": 296,
+      "num_comments": 225
+    },
+    {
+      "title": "Apple rejected my dictation app for using the accessibility API",
+      "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
+      "points": 294,
+      "num_comments": 162
+    },
+    {
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "points": 271,
+      "num_comments": 107
+    },
+    {
+      "title": "Stop Ruining It",
+      "url": "https://seths.blog/2026/06/stop-ruining-it/",
+      "points": 250,
+      "num_comments": 117
+    },
+    {
+      "title": "Show HN: Eyeball",
+      "url": "https://eyeball.rory.codes/",
+      "points": 237,
+      "num_comments": 75
+    },
+    {
+      "title": "Coreutils for Windows",
+      "url": "https://github.com/microsoft/coreutils",
+      "points": 205,
+      "num_comments": 206
+    },
+    {
+      "title": "Three Ways to Get Paid (2018)",
+      "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+      "points": 203,
+      "num_comments": 136
+    },
+    {
+      "title": "Morningstar values SpaceX at $780B, half its IPO target",
+      "url": "https://www.reuters.com/business/media-telecom/morningstar-values-spacex-780-billion-half-its-ipo-target-2026-06-02/",
+      "points": 196,
+      "num_comments": 162
+    },
+    {
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "points": 188,
+      "num_comments": 133
+    },
+    {
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "url": "https://github.com/c0dejedi/nbd-vram",
+      "points": 181,
+      "num_comments": 50
+    },
+    {
+      "title": "MAI-Thinking-1",
+      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+      "points": 176,
+      "num_comments": 74
+    },
+    {
+      "title": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "points": 163,
+      "num_comments": 218
+    },
+    {
+      "title": "Preparing for KDE Plasma's Last X11-Supported Release",
+      "url": "https://blog.davidedmundson.co.uk/blog/596/",
+      "points": 158,
+      "num_comments": 189
+    }
+  ],
+  "product_hunt": []
+}
