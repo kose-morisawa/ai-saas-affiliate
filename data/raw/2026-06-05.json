@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-05",
+  "fetched_at": "2026-06-05T03:37:31.015Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "VoidZero Is Joining Cloudflare",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "points": 590,
+      "num_comments": 260
+    },
+    {
+      "title": "Ian's Secure Shoelace Knot",
+      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+      "points": 528,
+      "num_comments": 202
+    },
+    {
+      "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
+      "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
+      "points": 411,
+      "num_comments": 117
+    },
+    {
+      "title": "Wind and solar generated more power than gas globally in April 2026",
+      "url": "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/",
+      "points": 371,
+      "num_comments": 333
+    },
+    {
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "points": 367,
+      "num_comments": 477
+    },
+    {
+      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+      "points": 363,
+      "num_comments": 199
+    },
+    {
+      "title": "The desperation of NYTimes",
+      "url": "https://rozumem.xyz/posts/16",
+      "points": 333,
+      "num_comments": 293
+    },
+    {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "points": 306,
+      "num_comments": 97
+    },
+    {
+      "title": "Retro-Tech Parenting",
+      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "points": 267,
+      "num_comments": 181
+    },
+    {
+      "title": "Meta's ships facial recognition on smart glasses",
+      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+      "points": 251,
+      "num_comments": 212
+    },
+    {
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "url": "https://uruky.com/?il=en",
+      "points": 215,
+      "num_comments": 195
+    },
+    {
+      "title": "Sagrada Família Lego set",
+      "url": "https://www.lego.com/en-us/product/sagrada-familia-21065",
+      "points": 184,
+      "num_comments": 151
+    },
+    {
+      "title": "Gaussian Point Splatting",
+      "url": "https://momentsingraphics.de/Siggraph2026.html",
+      "points": 180,
+      "num_comments": 66
+    },
+    {
+      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+      "points": 171,
+      "num_comments": 75
+    },
+    {
+      "title": "Google employees internally share memes about how its AI sucks",
+      "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+      "points": 149,
+      "num_comments": 103
+    },
+    {
+      "title": "The SpaceX IPO will be the theft of the century",
+      "url": "https://montanaskeptic.substack.com/p/the-spacex-ipo-will-be-the-theft",
+      "points": 136,
+      "num_comments": 112
+    },
+    {
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "points": 118,
+      "num_comments": 20
+    },
+    {
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "points": 118,
+      "num_comments": 12
+    },
+    {
+      "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition",
+      "url": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/",
+      "points": 116,
+      "num_comments": 92
+    },
+    {
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "url": "https://fb.watch/HxPu0fSyeH/",
+      "points": 113,
+      "num_comments": 23
+    }
+  ],
+  "product_hunt": []
+}
