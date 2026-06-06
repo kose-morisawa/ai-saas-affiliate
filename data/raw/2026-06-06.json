@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-06",
+  "fetched_at": "2026-06-06T02:58:34.119Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Changing how we develop Ladybird",
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "points": 815,
+      "num_comments": 517
+    },
+    {
+      "title": "C++: The Documentary",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "points": 382,
+      "num_comments": 275
+    },
+    {
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "points": 367,
+      "num_comments": 130
+    },
+    {
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "url": "https://arxiv.org/abs/2606.03673",
+      "points": 365,
+      "num_comments": 198
+    },
+    {
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "points": 364,
+      "num_comments": 238
+    },
+    {
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "points": 342,
+      "num_comments": 79
+    },
+    {
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "points": 326,
+      "num_comments": 336
+    },
+    {
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "points": 285,
+      "num_comments": 89
+    },
+    {
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "points": 276,
+      "num_comments": 121
+    },
+    {
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "points": 273,
+      "num_comments": 212
+    },
+    {
+      "title": "Dutch gov't will only allow European company to operate DigiD platform",
+      "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+      "points": 255,
+      "num_comments": 75
+    },
+    {
+      "title": "I tested every IP KVM in my Homelab",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "points": 248,
+      "num_comments": 69
+    },
+    {
+      "title": "Ultra-processed foods in the global food system: The role of tobacco companies",
+      "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
+      "points": 213,
+      "num_comments": 277
+    },
+    {
+      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+      "points": 196,
+      "num_comments": 139
+    },
+    {
+      "title": "Three of our worst VC stories",
+      "url": "https://twitter.com/eastdakota/status/2062860530360959273",
+      "points": 189,
+      "num_comments": 95
+    },
+    {
+      "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
+      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "points": 180,
+      "num_comments": 43
+    },
+    {
+      "title": "Programmers will document for Claude, but not for each other",
+      "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+      "points": 177,
+      "num_comments": 149
+    },
+    {
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "points": 176,
+      "num_comments": 64
+    },
+    {
+      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "points": 171,
+      "num_comments": 163
+    },
+    {
+      "title": "The Causes of Long Covid",
+      "url": "https://www.science.org/content/blog-post/causes-long-covid",
+      "points": 154,
+      "num_comments": 105
+    }
+  ],
+  "product_hunt": []
+}
