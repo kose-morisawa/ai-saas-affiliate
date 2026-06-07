@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-07",
+  "fetched_at": "2026-06-07T03:45:17.295Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "points": 1388,
+      "num_comments": 480
+    },
+    {
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "points": 474,
+      "num_comments": 167
+    },
+    {
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "points": 464,
+      "num_comments": 349
+    },
+    {
+      "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+      "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+      "points": 438,
+      "num_comments": 450
+    },
+    {
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "points": 406,
+      "num_comments": 2
+    },
+    {
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "points": 290,
+      "num_comments": 68
+    },
+    {
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "url": "https://pokeemerald.com/",
+      "points": 288,
+      "num_comments": 83
+    },
+    {
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "points": 270,
+      "num_comments": 268
+    },
+    {
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "points": 248,
+      "num_comments": 442
+    },
+    {
+      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+      "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+      "points": 201,
+      "num_comments": 88
+    },
+    {
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "points": 201,
+      "num_comments": 52
+    },
+    {
+      "title": "New U.S. college grads now have higher unemployment than the average worker",
+      "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+      "points": 180,
+      "num_comments": 185
+    },
+    {
+      "title": "Python JIT project was asked to pause development",
+      "url": "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638",
+      "points": 149,
+      "num_comments": 66
+    },
+    {
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "points": 144,
+      "num_comments": 45
+    },
+    {
+      "title": "Home alone: Remote work, isolation, and mental health",
+      "url": "https://www.science.org/doi/10.1126/science.aec7671",
+      "points": 137,
+      "num_comments": 131
+    },
+    {
+      "title": "Benchmarks in Leipzig",
+      "url": "https://arxiv.org/abs/2606.05818",
+      "points": 124,
+      "num_comments": 44
+    },
+    {
+      "title": "Zig Zen Update",
+      "url": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
+      "points": 121,
+      "num_comments": 58
+    },
+    {
+      "title": "US House lawmakers release draft bill to prohibit state AI rules",
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "points": 114,
+      "num_comments": 73
+    },
+    {
+      "title": "You Can Run",
+      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+      "points": 110,
+      "num_comments": 60
+    },
+    {
+      "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+      "url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+      "points": 88,
+      "num_comments": 34
+    }
+  ],
+  "product_hunt": []
+}
