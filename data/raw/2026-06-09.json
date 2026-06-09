@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-09",
+  "fetched_at": "2026-06-09T02:57:23.203Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "points": 805,
+      "num_comments": 159
+    },
+    {
+      "title": "Stop the Apple Music app from launching",
+      "url": "https://lowtechguys.com/musicdecoy/",
+      "points": 589,
+      "num_comments": 237
+    },
+    {
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "points": 563,
+      "num_comments": 417
+    },
+    {
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "points": 506,
+      "num_comments": 356
+    },
+    {
+      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+      "points": 439,
+      "num_comments": 163
+    },
+    {
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "points": 434,
+      "num_comments": 384
+    },
+    {
+      "title": "AI is slowing down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "points": 422,
+      "num_comments": 449
+    },
+    {
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "points": 420,
+      "num_comments": 333
+    },
+    {
+      "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
+      "url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
+      "points": 417,
+      "num_comments": 231
+    },
+    {
+      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
+      "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
+      "points": 413,
+      "num_comments": 89
+    },
+    {
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "points": 378,
+      "num_comments": 332
+    },
+    {
+      "title": "The Cypherpunk Library",
+      "url": "https://www.cypherpunkbooks.com",
+      "points": 356,
+      "num_comments": 95
+    },
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "points": 307,
+      "num_comments": 224
+    },
+    {
+      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+      "points": 297,
+      "num_comments": 120
+    },
+    {
+      "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
+      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+      "points": 293,
+      "num_comments": 49
+    },
+    {
+      "title": "EU-banned pesticides found in rice, tea and spices",
+      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+      "points": 255,
+      "num_comments": 94
+    },
+    {
+      "title": "Switzerland wil have a referendum to cap population at 10M",
+      "url": "https://www.admin.ch/en/sustainability-initiative",
+      "points": 252,
+      "num_comments": 513
+    },
+    {
+      "title": "Apple WWDC 2026",
+      "url": "https://www.apple.com/apple-events/event-stream/",
+      "points": 237,
+      "num_comments": 467
+    },
+    {
+      "title": "Zig by Example",
+      "url": "https://github.com/boringcollege/zig-by-example",
+      "points": 212,
+      "num_comments": 99
+    },
+    {
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "points": 209,
+      "num_comments": 45
+    }
+  ],
+  "product_hunt": []
+}
