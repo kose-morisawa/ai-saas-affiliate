@@ -1,0 +1,110 @@
+{
+  "date": "2026-06-11",
+  "fetched_at": "2026-06-11T03:51:24.494Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Building an HTML-first site doubled our users overnight",
+      "url": "https://mohkohn.co.uk/writing/html-first/",
+      "points": 1022,
+      "num_comments": 468
+    },
+    {
+      "title": "πFS",
+      "url": "https://github.com/philipl/pifs",
+      "points": 565,
+      "num_comments": 139
+    },
+    {
+      "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+      "points": 516,
+      "num_comments": 327
+    },
+    {
+      "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+      "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+      "points": 446,
+      "num_comments": 3
+    },
+    {
+      "title": "PgDog is funded and coming to a database near you",
+      "url": "https://pgdog.dev/blog/our-funding-announcement",
+      "points": 408,
+      "num_comments": 207
+    },
+    {
+      "title": "Chrome is looking to permanently drop MV2 extension",
+      "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
+      "points": 387,
+      "num_comments": 392
+    },
+    {
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "points": 364,
+      "num_comments": 252
+    },
+    {
+      "title": "DiffusionGemma: 4x Faster Text Generation",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "points": 291,
+      "num_comments": 73
+    },
+    {
+      "title": "Anthropic's model naming, extrapolated",
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "points": 290,
+      "num_comments": 82
+    },
+    {
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "points": 278,
+      "num_comments": 258
+    },
+    {
+      "title": "US Consumer Price Index up 4.2%",
+      "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "points": 258,
+      "num_comments": 280
+    },
+    {
+      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+      "url": "https://jivx.com/eki",
+      "points": 207,
+      "num_comments": 72
+    },
+    {
+      "title": "Raspberry Pi 5 – 16GB RAM",
+      "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
+      "points": 189,
+      "num_comments": 208
+    },
+    {
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+      "points": 187,
+      "num_comments": 42
+    },
+    {
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "points": 183,
+      "num_comments": 46
+    },
+    {
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "url": "https://burr.apache.org/",
+      "points": 181,
+      "num_comments": 95
+    },
+    {
+      "title": "I Hate (Most) Keyboard 'Fn' Keys",
+      "url": "https://danq.me/2026/06/09/fn-keys/",
+      "points": 174,
+      "num_comments": 188
+    }
+  ],
+  "product_hunt": []
+}
