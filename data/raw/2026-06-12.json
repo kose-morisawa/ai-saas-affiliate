@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-12",
+  "fetched_at": "2026-06-12T03:49:58.063Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "points": 1047,
+      "num_comments": 244
+    },
+    {
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "points": 686,
+      "num_comments": 307
+    },
+    {
+      "title": "MiMo Code is now released and open-source",
+      "url": "https://mimo.xiaomi.com/mimocode",
+      "points": 437,
+      "num_comments": 252
+    },
+    {
+      "title": "Solar generates more energy in US than coal for first time",
+      "url": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+      "points": 427,
+      "num_comments": 204
+    },
+    {
+      "title": "Petition to Withdraw Canada's Bill C-22",
+      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+      "points": 385,
+      "num_comments": 134
+    },
+    {
+      "title": "Lines of code got a better publicist",
+      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "points": 372,
+      "num_comments": 255
+    },
+    {
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "points": 354,
+      "num_comments": 106
+    },
+    {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "points": 342,
+      "num_comments": 340
+    },
+    {
+      "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
+      "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
+      "points": 307,
+      "num_comments": 153
+    },
+    {
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "url": "https://fablepool.com",
+      "points": 290,
+      "num_comments": 171
+    },
+    {
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+      "points": 281,
+      "num_comments": 321
+    },
+    {
+      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "points": 266,
+      "num_comments": 210
+    },
+    {
+      "title": "Claude Fable 5: mid-tier results on coding tasks",
+      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "points": 256,
+      "num_comments": 116
+    },
+    {
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
+      "points": 244,
+      "num_comments": 158
+    },
+    {
+      "title": "The RCE that AMD wouldn't fix",
+      "url": "https://mrbruh.com/amd2/",
+      "points": 239,
+      "num_comments": 103
+    },
+    {
+      "title": "Software is made between commits",
+      "url": "https://zed.dev/blog/introducing-deltadb",
+      "points": 220,
+      "num_comments": 166
+    },
+    {
+      "title": "Open Reproduction of DeepSeek-R1",
+      "url": "https://github.com/huggingface/open-r1",
+      "points": 207,
+      "num_comments": 17
+    },
+    {
+      "title": "Shall we play a game? My AI nuclear simulation",
+      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "points": 186,
+      "num_comments": 175
+    },
+    {
+      "title": "MapComplete: Maps about various topics which you can contribute to",
+      "url": "https://mapcomplete.org/",
+      "points": 183,
+      "num_comments": 43
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "points": 174,
+      "num_comments": 62
+    }
+  ],
+  "product_hunt": []
+}
