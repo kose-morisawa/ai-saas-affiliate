@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-14",
+  "fetched_at": "2026-06-14T03:56:22.926Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "points": 767,
+      "num_comments": 480
+    },
+    {
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "points": 615,
+      "num_comments": 202
+    },
+    {
+      "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+      "url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
+      "points": 593,
+      "num_comments": 339
+    },
+    {
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "points": 592,
+      "num_comments": 435
+    },
+    {
+      "title": "Leaving Mozilla",
+      "url": "https://blog.unitedheroes.net/5751",
+      "points": 468,
+      "num_comments": 285
+    },
+    {
+      "title": "There is a shadow hanging over this Fable thing",
+      "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+      "points": 465,
+      "num_comments": 463
+    },
+    {
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "points": 416,
+      "num_comments": 225
+    },
+    {
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "points": 321,
+      "num_comments": 115
+    },
+    {
+      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+      "points": 285,
+      "num_comments": 173
+    },
+    {
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+      "points": 258,
+      "num_comments": 122
+    },
+    {
+      "title": "A low-carbon computing platform from your retired phones",
+      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+      "points": 257,
+      "num_comments": 139
+    },
+    {
+      "title": "AI coding at home without going broke",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "points": 253,
+      "num_comments": 221
+    },
+    {
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "points": 247,
+      "num_comments": 162
+    },
+    {
+      "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+      "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+      "points": 210,
+      "num_comments": 69
+    },
+    {
+      "title": "The experience of rendering Arabic typography and its technical debt",
+      "url": "https://lr0.org/blog/p/arabic/",
+      "points": 205,
+      "num_comments": 50
+    },
+    {
+      "title": "Shepherd's Dog: A Game by Fable",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "points": 178,
+      "num_comments": 129
+    },
+    {
+      "title": "GameBoy Workboy",
+      "url": "https://tcrf.net/Workboy",
+      "points": 169,
+      "num_comments": 57
+    },
+    {
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "url": "https://github.com/Paca-AI/paca",
+      "points": 140,
+      "num_comments": 54
+    },
+    {
+      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+      "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+      "points": 131,
+      "num_comments": 19
+    },
+    {
+      "title": "The adder at the heart of Intel's 8087 floating-point chip",
+      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+      "points": 99,
+      "num_comments": 25
+    }
+  ],
+  "product_hunt": []
+}
