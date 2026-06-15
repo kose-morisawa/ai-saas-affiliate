@@ -1,0 +1,116 @@
+{
+  "date": "2026-06-15",
+  "fetched_at": "2026-06-15T04:08:54.754Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "How to earn a billion dollars",
+      "url": "https://paulgraham.com/earn.html",
+      "points": 499,
+      "num_comments": 1483
+    },
+    {
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
+      "points": 452,
+      "num_comments": 99
+    },
+    {
+      "title": "Not everyone is using AI for everything",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "points": 440,
+      "num_comments": 477
+    },
+    {
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "points": 302,
+      "num_comments": 159
+    },
+    {
+      "title": "Your ePub Is fine",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "points": 279,
+      "num_comments": 118
+    },
+    {
+      "title": "Linux 7.1",
+      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
+      "points": 268,
+      "num_comments": 105
+    },
+    {
+      "title": "Don't trust large context windows",
+      "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+      "points": 244,
+      "num_comments": 180
+    },
+    {
+      "title": "The Birth and Death of JavaScript (2014)",
+      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "points": 218,
+      "num_comments": 124
+    },
+    {
+      "title": "Formal methods and the future of programming",
+      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+      "points": 218,
+      "num_comments": 79
+    },
+    {
+      "title": "A 'cold blob' in the Atlantic could be a sign of AMOC shutdown",
+      "url": "https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation",
+      "points": 199,
+      "num_comments": 297
+    },
+    {
+      "title": "Pac-Man, but you're the ghost",
+      "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+      "points": 197,
+      "num_comments": 77
+    },
+    {
+      "title": "Phoenix LiveView 1.2",
+      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+      "points": 193,
+      "num_comments": 55
+    },
+    {
+      "title": "Swiss voters reject proposal to cap population at ten million",
+      "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
+      "points": 186,
+      "num_comments": 225
+    },
+    {
+      "title": "Did Anthropic ask for this?",
+      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+      "points": 168,
+      "num_comments": 148
+    },
+    {
+      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+      "url": "https://su3.io/posts/zeroserve-caddy-compat",
+      "points": 164,
+      "num_comments": 49
+    },
+    {
+      "title": "UK set to announce social media ban for under-16s",
+      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/uk-set-announce-social-media-34119132",
+      "points": 147,
+      "num_comments": 264
+    },
+    {
+      "title": "Extinction-Level Capitalism",
+      "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+      "points": 145,
+      "num_comments": 80
+    },
+    {
+      "title": "Stanford grads walk out on Google CEO Sundar Pichai speech",
+      "url": "https://twitter.com/maattttbrown/status/2066215255987163246",
+      "points": 134,
+      "num_comments": 87
+    }
+  ],
+  "product_hunt": []
+}
