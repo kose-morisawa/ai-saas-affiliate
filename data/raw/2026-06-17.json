@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-17",
+  "fetched_at": "2026-06-17T03:59:16.959Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "points": 1090,
+      "num_comments": 446
+    },
+    {
+      "title": "SpaceX to buy Cursor for $60B",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "points": 932,
+      "num_comments": 1413
+    },
+    {
+      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "points": 868,
+      "num_comments": 426
+    },
+    {
+      "title": "Mechanical Watch (2022)",
+      "url": "https://ciechanow.ski/mechanical-watch/",
+      "points": 645,
+      "num_comments": 115
+    },
+    {
+      "title": "Apple's weird anti-nausea dots cured my car sickness",
+      "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+      "points": 624,
+      "num_comments": 198
+    },
+    {
+      "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
+      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "points": 554,
+      "num_comments": 328
+    },
+    {
+      "title": "GrapheneOS has been ported to Android 17",
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "points": 496,
+      "num_comments": 200
+    },
+    {
+      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+      "points": 479,
+      "num_comments": 158
+    },
+    {
+      "title": "Is Meta destroying its engineering organization?",
+      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "points": 463,
+      "num_comments": 428
+    },
+    {
+      "title": "Apple is about to make Hide My Email useless",
+      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "points": 422,
+      "num_comments": 268
+    },
+    {
+      "title": "U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears",
+      "url": "https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874",
+      "points": 397,
+      "num_comments": 250
+    },
+    {
+      "title": "Calvin and Hobbes and the price of integrity",
+      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+      "points": 324,
+      "num_comments": 145
+    },
+    {
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "points": 307,
+      "num_comments": 154
+    },
+    {
+      "title": "Stop Using JWTs",
+      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "points": 289,
+      "num_comments": 163
+    },
+    {
+      "title": "SpaceX Is Buying Cursor",
+      "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo",
+      "points": 288,
+      "num_comments": 3
+    },
+    {
+      "title": "Correlated randomness in Slay the Spire 2",
+      "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+      "points": 283,
+      "num_comments": 87
+    },
+    {
+      "title": "Google Chrome update will close the door on ad blockers",
+      "url": "https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/",
+      "points": 268,
+      "num_comments": 340
+    },
+    {
+      "title": "I Could've Rickrolled the FIFA World Cup. All I Needed Was My ID",
+      "url": "https://bobdahacker.com/blog/fifa-hack",
+      "points": 261,
+      "num_comments": 95
+    },
+    {
+      "title": "But yak shaving is fun (2019)",
+      "url": "https://parksb.github.io/en/article/32.html",
+      "points": 225,
+      "num_comments": 69
+    },
+    {
+      "title": "Has AI already killed self-help nonfiction books?",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "points": 196,
+      "num_comments": 204
+    }
+  ],
+  "product_hunt": []
+}
