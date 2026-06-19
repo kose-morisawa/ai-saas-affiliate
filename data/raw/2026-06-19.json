@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-19",
+  "fetched_at": "2026-06-19T04:10:01.763Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Swiss parliament lifts ban on new nuclear power plants",
+      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+      "points": 720,
+      "num_comments": 603
+    },
+    {
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "points": 703,
+      "num_comments": 161
+    },
+    {
+      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+      "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+      "points": 627,
+      "num_comments": 416
+    },
+    {
+      "title": "DeepSeek Introduces Vision",
+      "url": "https://chat.deepseek.com/",
+      "points": 457,
+      "num_comments": 188
+    },
+    {
+      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+      "points": 422,
+      "num_comments": 237
+    },
+    {
+      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+      "points": 422,
+      "num_comments": 203
+    },
+    {
+      "title": "A website that lists websites to submit your website to",
+      "url": "https://www.submission.directory/",
+      "points": 397,
+      "num_comments": 90
+    },
+    {
+      "title": "The founder of Craigslist has given away half a billion dollars",
+      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+      "points": 337,
+      "num_comments": 260
+    },
+    {
+      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+      "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+      "points": 331,
+      "num_comments": 48
+    },
+    {
+      "title": ".gitignore Isn't the only way to ignore files in Git",
+      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+      "points": 321,
+      "num_comments": 108
+    },
+    {
+      "title": "Hospitals and universities repurposing drugs at lower cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "points": 295,
+      "num_comments": 129
+    },
+    {
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "points": 287,
+      "num_comments": 258
+    },
+    {
+      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+      "points": 272,
+      "num_comments": 119
+    },
+    {
+      "title": "Show HN: Are You in the Weights?",
+      "url": "https://www.intheweights.com/",
+      "points": 240,
+      "num_comments": 139
+    },
+    {
+      "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+      "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+      "points": 240,
+      "num_comments": 67
+    },
+    {
+      "title": "What was nice about the UI of Windows 2000",
+      "url": "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html",
+      "points": 202,
+      "num_comments": 177
+    },
+    {
+      "title": "W Social, public institutions and the theater of European digital sovereignty",
+      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "points": 180,
+      "num_comments": 121
+    },
+    {
+      "title": "Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore",
+      "url": "https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/",
+      "points": 165,
+      "num_comments": 474
+    },
+    {
+      "title": "I hate compilers",
+      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+      "points": 152,
+      "num_comments": 154
+    },
+    {
+      "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+      "url": "https://www.acma.gov.au/sms-sender-id-register",
+      "points": 152,
+      "num_comments": 80
+    }
+  ],
+  "product_hunt": []
+}
