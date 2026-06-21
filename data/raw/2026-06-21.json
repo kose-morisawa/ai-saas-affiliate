@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-21",
+  "fetched_at": "2026-06-21T04:04:32.007Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "CSSQuake",
+      "url": "https://cssquake.com/",
+      "points": 480,
+      "num_comments": 101
+    },
+    {
+      "title": "The Wholesale Plagiarism of Obscure Sorrows",
+      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "points": 341,
+      "num_comments": 139
+    },
+    {
+      "title": "I Stored a Website in a Favicon",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "points": 295,
+      "num_comments": 100
+    },
+    {
+      "title": "VPN ban update for UK households as government looks at 'age-gate'",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
+      "points": 292,
+      "num_comments": 326
+    },
+    {
+      "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
+      "url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
+      "points": 261,
+      "num_comments": 146
+    },
+    {
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "points": 240,
+      "num_comments": 70
+    },
+    {
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+      "points": 219,
+      "num_comments": 60
+    },
+    {
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "points": 181,
+      "num_comments": 101
+    },
+    {
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "url": "https://www.lispm.net/apps/uhf-x11/",
+      "points": 181,
+      "num_comments": 32
+    },
+    {
+      "title": "Satellite reveals immense scale of GPS signal tampering",
+      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+      "points": 177,
+      "num_comments": 98
+    },
+    {
+      "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+      "url": "https://startupwiki.tech/",
+      "points": 170,
+      "num_comments": 57
+    },
+    {
+      "title": "Pre-2022 Books",
+      "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
+      "points": 168,
+      "num_comments": 108
+    },
+    {
+      "title": "Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World",
+      "url": "https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/",
+      "points": 167,
+      "num_comments": 71
+    },
+    {
+      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+      "points": 158,
+      "num_comments": 107
+    },
+    {
+      "title": "The ability to regrow body parts is dormant in mammals, not lost",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+      "points": 158,
+      "num_comments": 56
+    },
+    {
+      "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "points": 142,
+      "num_comments": 67
+    },
+    {
+      "title": "Renting a sewing machine from the library",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "points": 137,
+      "num_comments": 67
+    },
+    {
+      "title": "AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback",
+      "points": 134,
+      "num_comments": 32
+    },
+    {
+      "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
+      "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+      "points": 122,
+      "num_comments": 88
+    },
+    {
+      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "url": "https://github.com/oven-sh/WebKit/pull/249",
+      "points": 121,
+      "num_comments": 234
+    }
+  ],
+  "product_hunt": []
+}
