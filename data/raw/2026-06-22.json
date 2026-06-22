@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-22",
+  "fetched_at": "2026-06-22T04:05:11.300Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "points": 623,
+      "num_comments": 544
+    },
+    {
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "points": 448,
+      "num_comments": 269
+    },
+    {
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "points": 440,
+      "num_comments": 300
+    },
+    {
+      "title": "Google Hits 50% IPv6",
+      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "points": 388,
+      "num_comments": 411
+    },
+    {
+      "title": "Did my old job only exist because of fraud?",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "points": 304,
+      "num_comments": 145
+    },
+    {
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "points": 254,
+      "num_comments": 89
+    },
+    {
+      "title": "Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "points": 186,
+      "num_comments": 47
+    },
+    {
+      "title": "JSON-LD explained for personal websites",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "points": 184,
+      "num_comments": 55
+    },
+    {
+      "title": "The 100k whys of AI",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "points": 174,
+      "num_comments": 103
+    },
+    {
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "url": "https://norvig.com/lispy.html",
+      "points": 170,
+      "num_comments": 55
+    },
+    {
+      "title": "Who owns your ATProto identity?",
+      "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
+      "points": 163,
+      "num_comments": 143
+    },
+    {
+      "title": "A 3D voxel game engine written in APL",
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "points": 151,
+      "num_comments": 14
+    },
+    {
+      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+      "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
+      "points": 148,
+      "num_comments": 127
+    },
+    {
+      "title": "Everything is logarithms",
+      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "points": 144,
+      "num_comments": 28
+    },
+    {
+      "title": "The minimum viable unit of saleable software",
+      "url": "https://brandur.org/minimum-viable-unit",
+      "points": 141,
+      "num_comments": 53
+    },
+    {
+      "title": "Windows UI evolution: Clicking an unassociated file",
+      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+      "points": 135,
+      "num_comments": 95
+    },
+    {
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "points": 133,
+      "num_comments": 69
+    },
+    {
+      "title": "Ask for no, don't ask for yes (2022)",
+      "url": "https://www.mooreds.com/wordpress/archives/3518",
+      "points": 128,
+      "num_comments": 67
+    },
+    {
+      "title": "The case against geometric algebra (2024)",
+      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+      "points": 121,
+      "num_comments": 116
+    }
+  ],
+  "product_hunt": []
+}
