@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-23",
+  "fetched_at": "2026-06-23T03:26:35.659Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "points": 1297,
+      "num_comments": 1172
+    },
+    {
+      "title": "Deno Desktop",
+      "url": "https://docs.deno.com/runtime/desktop/",
+      "points": 1039,
+      "num_comments": 374
+    },
+    {
+      "title": "Pledging another $400k to the Zig software foundation",
+      "url": "https://mitchellh.com/writing/zig-donation-2026",
+      "points": 750,
+      "num_comments": 249
+    },
+    {
+      "title": "Never Give Them Your Face",
+      "url": "https://nevergivethemyourface.com/",
+      "points": 697,
+      "num_comments": 387
+    },
+    {
+      "title": "GLM 5.2 vs. Opus",
+      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "points": 489,
+      "num_comments": 322
+    },
+    {
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "url": "https://github.com/openai/codex/issues/28224",
+      "points": 472,
+      "num_comments": 257
+    },
+    {
+      "title": "Danish privacy activist Lars Andersen raided by police",
+      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+      "points": 416,
+      "num_comments": 399
+    },
+    {
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "url": "https://ipvm.com/reports/police-chiefs-track",
+      "points": 410,
+      "num_comments": 161
+    },
+    {
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "points": 349,
+      "num_comments": 199
+    },
+    {
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "points": 287,
+      "num_comments": 200
+    },
+    {
+      "title": "Jobs and Software Is Fucked",
+      "url": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
+      "points": 282,
+      "num_comments": 236
+    },
+    {
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "points": 246,
+      "num_comments": 65
+    },
+    {
+      "title": "Runing GLM-5.2 on local hardware",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "points": 221,
+      "num_comments": 99
+    },
+    {
+      "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers",
+      "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
+      "points": 214,
+      "num_comments": 112
+    },
+    {
+      "title": "Alan Greenspan has died",
+      "url": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
+      "points": 212,
+      "num_comments": 215
+    },
+    {
+      "title": "Nearly half of LG smart TV apps contain residential proxy SDKs",
+      "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
+      "points": 208,
+      "num_comments": 143
+    },
+    {
+      "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
+      "url": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
+      "points": 193,
+      "num_comments": 160
+    },
+    {
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://role-confusion.github.io",
+      "points": 163,
+      "num_comments": 86
+    },
+    {
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "points": 156,
+      "num_comments": 148
+    },
+    {
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "points": 152,
+      "num_comments": 65
+    }
+  ],
+  "product_hunt": []
+}
