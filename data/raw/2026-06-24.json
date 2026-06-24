@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-24",
+  "fetched_at": "2026-06-24T03:28:35.520Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "What we call \"age verification\" is actually mass surveillance",
+      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+      "points": 782,
+      "num_comments": 415
+    },
+    {
+      "title": "F3",
+      "url": "https://github.com/future-file-format/f3",
+      "points": 609,
+      "num_comments": 129
+    },
+    {
+      "title": "Unlimited OCR: One-shot long-horizon parsing",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "points": 448,
+      "num_comments": 103
+    },
+    {
+      "title": "Mistral OCR 4",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "points": 436,
+      "num_comments": 113
+    },
+    {
+      "title": "Israel targeted Gaza children resulting in genocide, UN inquiry says",
+      "url": "https://www.reuters.com/world/middle-east/israel-targeted-gaza-children-resulting-genocide-un-inquiry-says-2026-06-23/",
+      "points": 427,
+      "num_comments": 185
+    },
+    {
+      "title": "Crypto in 2026: Oh, This Is the Bad Place",
+      "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
+      "points": 382,
+      "num_comments": 484
+    },
+    {
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
+      "points": 354,
+      "num_comments": 49
+    },
+    {
+      "title": "The Coming Loop",
+      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+      "points": 347,
+      "num_comments": 244
+    },
+    {
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "points": 344,
+      "num_comments": 64
+    },
+    {
+      "title": "Fired by Google for creating the Google workspace CLI",
+      "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+      "points": 329,
+      "num_comments": 221
+    },
+    {
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "points": 327,
+      "num_comments": 96
+    },
+    {
+      "title": "Will It Mythos?",
+      "url": "https://swelljoe.com/post/will-it-mythos/",
+      "points": 306,
+      "num_comments": 218
+    },
+    {
+      "title": "Madison Square Garden compiled a list of activists against facial recognition",
+      "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+      "points": 292,
+      "num_comments": 87
+    },
+    {
+      "title": "AI's Affordability Crisis",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "points": 261,
+      "num_comments": 348
+    },
+    {
+      "title": "California AB 2047 makes 3D printers off-limits to students, educators, business",
+      "url": "https://www.the3dprintingnerd.com/ab2047",
+      "points": 246,
+      "num_comments": 172
+    },
+    {
+      "title": "Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "points": 237,
+      "num_comments": 161
+    },
+    {
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "url": "https://dynomight.net/vitamin-d/",
+      "points": 223,
+      "num_comments": 159
+    },
+    {
+      "title": "The new HTTP QUERY method explained",
+      "url": "https://kreya.app/blog/new-http-query-method-explained/",
+      "points": 210,
+      "num_comments": 161
+    },
+    {
+      "title": "Elevated error rate across multiple models",
+      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "points": 205,
+      "num_comments": 253
+    },
+    {
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "points": 200,
+      "num_comments": 19
+    }
+  ],
+  "product_hunt": []
+}
