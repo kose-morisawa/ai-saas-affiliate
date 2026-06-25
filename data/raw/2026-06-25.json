@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-25",
+  "fetched_at": "2026-06-25T03:26:00.704Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "We’re making Bunny DNS free",
+      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "points": 860,
+      "num_comments": 256
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "points": 570,
+      "num_comments": 343
+    },
+    {
+      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+      "url": "https://paolino.me/founding-a-company-in-germany/",
+      "points": 560,
+      "num_comments": 686
+    },
+    {
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "points": 500,
+      "num_comments": 247
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "points": 355,
+      "num_comments": 57
+    },
+    {
+      "title": "Slate EV truck starts at $24,950",
+      "url": "https://www.slate.auto/en",
+      "points": 256,
+      "num_comments": 387
+    },
+    {
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "points": 231,
+      "num_comments": 240
+    },
+    {
+      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+      "points": 224,
+      "num_comments": 255
+    },
+    {
+      "title": "45°C cooling design cuts data center water use to near zero",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "points": 224,
+      "num_comments": 161
+    },
+    {
+      "title": "Stealing Is a Skill",
+      "url": "https://ben-mini.com/2026/stealing-is-a-skill",
+      "points": 219,
+      "num_comments": 131
+    },
+    {
+      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "url": "https://github.com/nubjs/nub",
+      "points": 211,
+      "num_comments": 62
+    },
+    {
+      "title": "For most of the world, open-source AI is the only way forward",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "points": 207,
+      "num_comments": 133
+    },
+    {
+      "title": "The Xteink X4 E-Ink Reader",
+      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+      "points": 187,
+      "num_comments": 111
+    },
+    {
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "url": "https://www.greptile.com/blog/prs-on-openclaw",
+      "points": 187,
+      "num_comments": 105
+    },
+    {
+      "title": "A deadly fungus that can infect cats and people is spreading",
+      "url": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading",
+      "points": 185,
+      "num_comments": 136
+    },
+    {
+      "title": "Computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "points": 185,
+      "num_comments": 112
+    },
+    {
+      "title": "Thomann takes legal action against Fender",
+      "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+      "points": 183,
+      "num_comments": 114
+    },
+    {
+      "title": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”",
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+      "points": 161,
+      "num_comments": 56
+    },
+    {
+      "title": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
+      "url": "https://infosec.exchange/@mttaggart/116806641273303255",
+      "points": 158,
+      "num_comments": 58
+    },
+    {
+      "title": "Qualcomm to Acquire Modular",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "points": 158,
+      "num_comments": 38
+    }
+  ],
+  "product_hunt": []
+}
