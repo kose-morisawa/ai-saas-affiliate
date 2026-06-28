@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-28",
+  "fetched_at": "2026-06-28T03:39:33.341Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "points": 735,
+      "num_comments": 306
+    },
+    {
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "points": 697,
+      "num_comments": 279
+    },
+    {
+      "title": "Zuckerberg's war on whistleblowers",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "points": 659,
+      "num_comments": 239
+    },
+    {
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "points": 605,
+      "num_comments": 123
+    },
+    {
+      "title": "Fintech Engineering Handbook",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "points": 497,
+      "num_comments": 163
+    },
+    {
+      "title": "The case for physical media ownership",
+      "url": "https://dervis.de/physical/",
+      "points": 385,
+      "num_comments": 252
+    },
+    {
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "url": "https://ipcrawl.com/",
+      "points": 262,
+      "num_comments": 133
+    },
+    {
+      "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "points": 256,
+      "num_comments": 79
+    },
+    {
+      "title": "OpenTTD 16.0-Beta1",
+      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "points": 222,
+      "num_comments": 43
+    },
+    {
+      "title": "Suspicious Discontinuities (2020)",
+      "url": "https://danluu.com/discontinuities/",
+      "points": 218,
+      "num_comments": 69
+    },
+    {
+      "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
+      "url": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
+      "points": 176,
+      "num_comments": 74
+    },
+    {
+      "title": "Turn your site into a place people can bump into each other",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
+      "points": 175,
+      "num_comments": 79
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "points": 165,
+      "num_comments": 138
+    },
+    {
+      "title": "Michigan spent $1.8B and only created 602 jobs",
+      "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
+      "points": 139,
+      "num_comments": 58
+    },
+    {
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "points": 138,
+      "num_comments": 43
+    },
+    {
+      "title": "Beer CSS – Build material design in record time",
+      "url": "https://www.beercss.com",
+      "points": 125,
+      "num_comments": 59
+    },
+    {
+      "title": "How Many Elementary Particles Are There, Really?",
+      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+      "points": 123,
+      "num_comments": 108
+    },
+    {
+      "title": "A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting",
+      "url": "https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting",
+      "points": 102,
+      "num_comments": 53
+    },
+    {
+      "title": "What Ozempic does to the gut-brain axis",
+      "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+      "points": 99,
+      "num_comments": 218
+    },
+    {
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "url": "https://github.com/kageroumado/adrafinil",
+      "points": 98,
+      "num_comments": 61
+    }
+  ],
+  "product_hunt": []
+}
