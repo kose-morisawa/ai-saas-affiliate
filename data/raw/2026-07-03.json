@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-03",
+  "fetched_at": "2026-07-03T02:49:41.306Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Android Developer Verification: Threat masquerading as protection",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "points": 1582,
+      "num_comments": 682
+    },
+    {
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "points": 599,
+      "num_comments": 213
+    },
+    {
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "points": 537,
+      "num_comments": 94
+    },
+    {
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "url": "https://github.com/Chocobozzz/PeerTube",
+      "points": 528,
+      "num_comments": 241
+    },
+    {
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "points": 438,
+      "num_comments": 219
+    },
+    {
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "points": 411,
+      "num_comments": 190
+    },
+    {
+      "title": "How to ask for help from people who don't know you",
+      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+      "points": 410,
+      "num_comments": 65
+    },
+    {
+      "title": "Podman v6.0.0",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "points": 405,
+      "num_comments": 162
+    },
+    {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "points": 402,
+      "num_comments": 165
+    },
+    {
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "points": 362,
+      "num_comments": 190
+    },
+    {
+      "title": "This blog is written in en-GB",
+      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+      "points": 341,
+      "num_comments": 406
+    },
+    {
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
+      "points": 327,
+      "num_comments": 253
+    },
+    {
+      "title": "The primary purpose of code review is to find code that will be hard to maintain",
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+      "points": 326,
+      "num_comments": 163
+    },
+    {
+      "title": "Google loses fight over record $4.7B EU antitrust fine",
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "points": 285,
+      "num_comments": 229
+    },
+    {
+      "title": "The fall of the theorem economy",
+      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+      "points": 257,
+      "num_comments": 109
+    },
+    {
+      "title": "Exapunks (2018)",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "points": 223,
+      "num_comments": 81
+    },
+    {
+      "title": "Vite+ Beta",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+      "points": 220,
+      "num_comments": 141
+    },
+    {
+      "title": "Immich 3.0",
+      "url": "https://github.com/immich-app/immich/discussions/29439",
+      "points": 214,
+      "num_comments": 98
+    },
+    {
+      "title": "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
+      "url": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy",
+      "points": 201,
+      "num_comments": 78
+    }
+  ],
+  "product_hunt": []
+}
