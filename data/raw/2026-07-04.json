@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-04",
+  "fetched_at": "2026-07-04T02:45:31.612Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Half-Baked Product",
+      "url": "https://weli.dev/blog/half-baked-product/",
+      "points": 1206,
+      "num_comments": 369
+    },
+    {
+      "title": "Valve open-source the Steam Machine e-ink screen so you can make your own",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "points": 538,
+      "num_comments": 100
+    },
+    {
+      "title": "Why Switzerland has 25 gbit internet and America doesn't",
+      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+      "points": 527,
+      "num_comments": 418
+    },
+    {
+      "title": "Costco is the anti-Amazon",
+      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+      "points": 322,
+      "num_comments": 300
+    },
+    {
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "points": 316,
+      "num_comments": 271
+    },
+    {
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "points": 289,
+      "num_comments": 126
+    },
+    {
+      "title": "Espionage Against the European Parliament",
+      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "points": 278,
+      "num_comments": 68
+    },
+    {
+      "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
+      "url": "https://wordgard.net/",
+      "points": 269,
+      "num_comments": 90
+    },
+    {
+      "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+      "url": "https://github.com/teamchong/pxpipe",
+      "points": 242,
+      "num_comments": 87
+    },
+    {
+      "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
+      "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
+      "points": 234,
+      "num_comments": 214
+    },
+    {
+      "title": "Please stop the AI confidence theater",
+      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "points": 223,
+      "num_comments": 240
+    },
+    {
+      "title": "Markets are competitive if and only if P != NP",
+      "url": "https://arxiv.org/abs/2602.20415",
+      "points": 220,
+      "num_comments": 143
+    },
+    {
+      "title": "Factories are just rooms",
+      "url": "https://interconnected.org/home/2026/07/03/factories",
+      "points": 200,
+      "num_comments": 79
+    },
+    {
+      "title": "Holes",
+      "url": "https://xkcd.com/3266/large/",
+      "points": 191,
+      "num_comments": 31
+    },
+    {
+      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "points": 176,
+      "num_comments": 81
+    },
+    {
+      "title": "Memorizing session transcripts isn't useful",
+      "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+      "points": 175,
+      "num_comments": 153
+    },
+    {
+      "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
+      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+      "points": 158,
+      "num_comments": 86
+    },
+    {
+      "title": "SearXNG: A free internet metasearch engine",
+      "url": "https://github.com/searxng/searxng",
+      "points": 141,
+      "num_comments": 42
+    },
+    {
+      "title": "The Fall and Rise of Screwworm",
+      "url": "https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm",
+      "points": 138,
+      "num_comments": 56
+    }
+  ],
+  "product_hunt": []
+}
