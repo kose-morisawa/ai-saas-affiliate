@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-06",
+  "fetched_at": "2026-07-06T03:23:03.935Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Organic Maps",
+      "url": "https://organicmaps.app/",
+      "points": 835,
+      "num_comments": 229
+    },
+    {
+      "title": "OpenPrinter",
+      "url": "https://www.opentools.studio/",
+      "points": 507,
+      "num_comments": 122
+    },
+    {
+      "title": "EU Council forces Chat Control via fast-track",
+      "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+      "points": 392,
+      "num_comments": 213
+    },
+    {
+      "title": "It's not about physical vs. digital games, it's about ownership",
+      "url": "https://popcar.bearblog.dev/its-about-ownership/",
+      "points": 339,
+      "num_comments": 248
+    },
+    {
+      "title": "Introduction to Compilers and Language Design (2021)",
+      "url": "https://dthain.github.io/books/compiler/",
+      "points": 282,
+      "num_comments": 47
+    },
+    {
+      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "url": "https://ui.shadcn.com/docs/changelog",
+      "points": 275,
+      "num_comments": 154
+    },
+    {
+      "title": "The future of Flipper Zero development",
+      "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+      "points": 244,
+      "num_comments": 99
+    },
+    {
+      "title": "Starring the Computer",
+      "url": "https://www.starringthecomputer.com/computers.html",
+      "points": 177,
+      "num_comments": 43
+    },
+    {
+      "title": "Cannabis users face substantially higher risk of heart attack (2025)",
+      "url": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
+      "points": 165,
+      "num_comments": 223
+    },
+    {
+      "title": "Europe's new climate in seven charts",
+      "url": "https://www.bbc.com/news/articles/c8e2j0j87reo",
+      "points": 147,
+      "num_comments": 233
+    },
+    {
+      "title": "Phosh 0.56.0",
+      "url": "https://phosh.mobi/releases/rel-0.56.0/",
+      "points": 139,
+      "num_comments": 61
+    },
+    {
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "points": 138,
+      "num_comments": 81
+    },
+    {
+      "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "points": 133,
+      "num_comments": 2
+    },
+    {
+      "title": "Fast Software, the Best Software (2019)",
+      "url": "https://craigmod.com/essays/fast_software/",
+      "points": 132,
+      "num_comments": 73
+    },
+    {
+      "title": "Small Penis Rule",
+      "url": "https://en.wikipedia.org/wiki/Small_penis_rule",
+      "points": 132,
+      "num_comments": 67
+    },
+    {
+      "title": "Programmers need to start meditating",
+      "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
+      "points": 127,
+      "num_comments": 145
+    },
+    {
+      "title": "Completing a computer science degree on Coursera",
+      "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+      "points": 123,
+      "num_comments": 92
+    },
+    {
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
+      "points": 123,
+      "num_comments": 17
+    },
+    {
+      "title": "I Accidentally Started a Small Business Three Weeks Ago",
+      "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+      "points": 117,
+      "num_comments": 16
+    },
+    {
+      "title": "Claude Design System Prompt",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "points": 116,
+      "num_comments": 31
+    }
+  ],
+  "product_hunt": []
+}
