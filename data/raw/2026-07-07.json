@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-07",
+  "fetched_at": "2026-07-07T02:56:11.767Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Resetting Xbox",
+      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+      "points": 497,
+      "num_comments": 483
+    },
+    {
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "points": 465,
+      "num_comments": 186
+    },
+    {
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "points": 384,
+      "num_comments": 142
+    },
+    {
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "points": 340,
+      "num_comments": 66
+    },
+    {
+      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+      "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+      "points": 323,
+      "num_comments": 191
+    },
+    {
+      "title": "Road to Elm 1.0",
+      "url": "https://elm-lang.org/news/faster-builds",
+      "points": 306,
+      "num_comments": 151
+    },
+    {
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "points": 286,
+      "num_comments": 103
+    },
+    {
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "points": 285,
+      "num_comments": 205
+    },
+    {
+      "title": "Aluminum foil (2021)",
+      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+      "points": 247,
+      "num_comments": 106
+    },
+    {
+      "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
+      "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
+      "points": 240,
+      "num_comments": 182
+    },
+    {
+      "title": "Should DayQuil Be Legal?",
+      "url": "https://www.theargumentmag.com/p/should-dayquil-be-legal",
+      "points": 200,
+      "num_comments": 255
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "points": 198,
+      "num_comments": 128
+    },
+    {
+      "title": "How Kalshi Infects the News",
+      "url": "https://www.publicnotice.co/p/kalshi-cnn-cnbc",
+      "points": 191,
+      "num_comments": 184
+    },
+    {
+      "title": "Workers Cache",
+      "url": "https://blog.cloudflare.com/workers-cache/",
+      "points": 191,
+      "num_comments": 82
+    },
+    {
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "points": 182,
+      "num_comments": 114
+    },
+    {
+      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+      "url": "https://andonlabs.com/blog/fable5-vending-bench",
+      "points": 173,
+      "num_comments": 120
+    },
+    {
+      "title": "What Emily Bender meant by \"stochastic parrots\"",
+      "url": "https://spectrum.ieee.org/stochastic-parrot",
+      "points": 165,
+      "num_comments": 218
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "points": 142,
+      "num_comments": 48
+    },
+    {
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "points": 132,
+      "num_comments": 36
+    },
+    {
+      "title": "Union Busters Coming After Me",
+      "url": "https://www.nlrbedge.com/p/union-busters-coming-after-me",
+      "points": 132,
+      "num_comments": 20
+    }
+  ],
+  "product_hunt": []
+}
