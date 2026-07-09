@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-09",
+  "fetched_at": "2026-07-09T02:50:44.981Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "points": 1312,
+      "num_comments": 209
+    },
+    {
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "points": 766,
+      "num_comments": 204
+    },
+    {
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "points": 612,
+      "num_comments": 418
+    },
+    {
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "points": 508,
+      "num_comments": 192
+    },
+    {
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "points": 493,
+      "num_comments": 636
+    },
+    {
+      "title": "TypeScript 7",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "points": 485,
+      "num_comments": 189
+    },
+    {
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "points": 424,
+      "num_comments": 96
+    },
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "points": 374,
+      "num_comments": 73
+    },
+    {
+      "title": "EU now one step away from reviving private message scanning rules",
+      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
+      "points": 368,
+      "num_comments": 140
+    },
+    {
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+      "points": 332,
+      "num_comments": 232
+    },
+    {
+      "title": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "points": 330,
+      "num_comments": 179
+    },
+    {
+      "title": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
+      "points": 304,
+      "num_comments": 120
+    },
+    {
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "points": 285,
+      "num_comments": 225
+    },
+    {
+      "title": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/",
+      "points": 280,
+      "num_comments": 137
+    },
+    {
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "points": 255,
+      "num_comments": 131
+    },
+    {
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+      "points": 251,
+      "num_comments": 130
+    },
+    {
+      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "points": 235,
+      "num_comments": 203
+    },
+    {
+      "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
+      "points": 233,
+      "num_comments": 101
+    },
+    {
+      "title": "Cloudflare Meerkat - Globally distributed consensus",
+      "url": "https://blog.cloudflare.com/meerkat-introduction/",
+      "points": 227,
+      "num_comments": 46
+    },
+    {
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "points": 217,
+      "num_comments": 78
+    }
+  ],
+  "product_hunt": []
+}
