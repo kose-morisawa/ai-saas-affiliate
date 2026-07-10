@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-10",
+  "fetched_at": "2026-07-10T02:52:52.059Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "points": 1092,
+      "num_comments": 795
+    },
+    {
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "points": 1029,
+      "num_comments": 500
+    },
+    {
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "points": 843,
+      "num_comments": 288
+    },
+    {
+      "title": "My thoughts on the Bun Rust rewrite",
+      "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+      "points": 656,
+      "num_comments": 567
+    },
+    {
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "points": 417,
+      "num_comments": 107
+    },
+    {
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
+      "points": 408,
+      "num_comments": 415
+    },
+    {
+      "title": "Hy3",
+      "url": "https://hy.tencent.com/research/hy3",
+      "points": 400,
+      "num_comments": 87
+    },
+    {
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "points": 345,
+      "num_comments": 243
+    },
+    {
+      "title": "Muse Spark 1.1",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "points": 331,
+      "num_comments": 174
+    },
+    {
+      "title": "Bonnie Tyler has died",
+      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+      "points": 329,
+      "num_comments": 123
+    },
+    {
+      "title": "ChatGPT Work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "points": 327,
+      "num_comments": 165
+    },
+    {
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
+      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "points": 306,
+      "num_comments": 391
+    },
+    {
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "points": 289,
+      "num_comments": 139
+    },
+    {
+      "title": "No leap second will be introduced at the end of December 2026",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "points": 247,
+      "num_comments": 185
+    },
+    {
+      "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+      "url": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+      "points": 243,
+      "num_comments": 307
+    },
+    {
+      "title": "A possible future for Damn Interesting",
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "points": 243,
+      "num_comments": 33
+    },
+    {
+      "title": "AI content is everywhere on social media, especially LinkedIn",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "points": 198,
+      "num_comments": 175
+    },
+    {
+      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+      "points": 190,
+      "num_comments": 113
+    },
+    {
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "points": 138,
+      "num_comments": 52
+    },
+    {
+      "title": "TLS certificates for internal services done right",
+      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+      "points": 134,
+      "num_comments": 98
+    }
+  ],
+  "product_hunt": []
+}
