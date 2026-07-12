@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-12",
+  "fetched_at": "2026-07-12T02:36:04.464Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "points": 266,
+      "num_comments": 91
+    },
+    {
+      "title": "Prefer strict tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "points": 226,
+      "num_comments": 113
+    },
+    {
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "url": "https://www.mixfont.com/ghost-font",
+      "points": 196,
+      "num_comments": 146
+    },
+    {
+      "title": "Networking and the Internet, from First Principles",
+      "url": "https://fazamhd.com/mental-models/networking/",
+      "points": 195,
+      "num_comments": 65
+    },
+    {
+      "title": "The vintage beauty of Soviet control rooms (2018)",
+      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+      "points": 194,
+      "num_comments": 65
+    },
+    {
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "points": 187,
+      "num_comments": 82
+    },
+    {
+      "title": "AI 2040 and the cult of intelligence",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "points": 181,
+      "num_comments": 219
+    },
+    {
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "points": 181,
+      "num_comments": 37
+    },
+    {
+      "title": "Leaded gas was a known poison the day it was invented (2016)",
+      "url": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
+      "points": 175,
+      "num_comments": 118
+    },
+    {
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "points": 171,
+      "num_comments": 185
+    },
+    {
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "points": 167,
+      "num_comments": 56
+    },
+    {
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "points": 165,
+      "num_comments": 91
+    },
+    {
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "url": "https://shipthatcode.com",
+      "points": 132,
+      "num_comments": 36
+    },
+    {
+      "title": "Your code is fast – if you're lucky",
+      "url": "https://tiki.li/blog/lucky_code.html",
+      "points": 124,
+      "num_comments": 83
+    },
+    {
+      "title": "Weightlifting beats running for blood sugar control, researchers find (2025)",
+      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+      "points": 119,
+      "num_comments": 63
+    },
+    {
+      "title": "FCC approves test of space mirror to light night sky",
+      "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+      "points": 117,
+      "num_comments": 142
+    },
+    {
+      "title": "How to hide from killer drones",
+      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+      "points": 112,
+      "num_comments": 140
+    },
+    {
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "points": 106,
+      "num_comments": 36
+    },
+    {
+      "title": "Why it's so difficult to produce American-made medical gloves",
+      "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+      "points": 105,
+      "num_comments": 143
+    },
+    {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "points": 104,
+      "num_comments": 26
+    }
+  ],
+  "product_hunt": []
+}
