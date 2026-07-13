@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-13",
+  "fetched_at": "2026-07-13T04:23:23.081Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "points": 502,
+      "num_comments": 281
+    },
+    {
+      "title": "Old and new apps, via modern coding agents",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "points": 422,
+      "num_comments": 125
+    },
+    {
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "points": 381,
+      "num_comments": 177
+    },
+    {
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "points": 362,
+      "num_comments": 226
+    },
+    {
+      "title": "How to read more books",
+      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+      "points": 277,
+      "num_comments": 159
+    },
+    {
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "url": "https://dakra.github.io/ghostel/",
+      "points": 267,
+      "num_comments": 52
+    },
+    {
+      "title": "Irish datacenters now guzzle 23% of the country's electricity",
+      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+      "points": 224,
+      "num_comments": 225
+    },
+    {
+      "title": "The shingles vaccine may reduce the risk of dementia",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "points": 221,
+      "num_comments": 180
+    },
+    {
+      "title": "Don't you mean extinct?",
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "points": 187,
+      "num_comments": 119
+    },
+    {
+      "title": "LARP – Revenue infrastructure for serious founders",
+      "url": "https://www.larp.website/",
+      "points": 183,
+      "num_comments": 40
+    },
+    {
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "points": 178,
+      "num_comments": 10
+    },
+    {
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "points": 158,
+      "num_comments": 58
+    },
+    {
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "points": 151,
+      "num_comments": 62
+    },
+    {
+      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
+      "url": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
+      "points": 149,
+      "num_comments": 210
+    },
+    {
+      "title": "Understanding the Odin programming language",
+      "url": "https://odinbook.com/",
+      "points": 149,
+      "num_comments": 92
+    },
+    {
+      "title": "AI boosts research careers but narrow the span of ideas explored: study",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "points": 143,
+      "num_comments": 101
+    },
+    {
+      "title": "Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
+      "url": "https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media",
+      "points": 118,
+      "num_comments": 140
+    },
+    {
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "points": 118,
+      "num_comments": 24
+    },
+    {
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "points": 116,
+      "num_comments": 48
+    }
+  ],
+  "product_hunt": []
+}
