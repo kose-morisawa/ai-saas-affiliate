@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-15",
+  "fetched_at": "2026-07-15T02:19:27.815Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "points": 720,
+      "num_comments": 187
+    },
+    {
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "points": 488,
+      "num_comments": 332
+    },
+    {
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "points": 443,
+      "num_comments": 166
+    },
+    {
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "points": 439,
+      "num_comments": 504
+    },
+    {
+      "title": "Codex starts encrypting sub-agent prompts",
+      "url": "https://github.com/openai/codex/issues/28058",
+      "points": 410,
+      "num_comments": 240
+    },
+    {
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "points": 384,
+      "num_comments": 387
+    },
+    {
+      "title": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "points": 348,
+      "num_comments": 167
+    },
+    {
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+      "points": 347,
+      "num_comments": 227
+    },
+    {
+      "title": "S&P Global has lowered Oracle’s creditworthiness from BBB to BBB-",
+      "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
+      "points": 308,
+      "num_comments": 322
+    },
+    {
+      "title": "Australian energy retailers must offer three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "points": 267,
+      "num_comments": 351
+    },
+    {
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "points": 259,
+      "num_comments": 109
+    },
+    {
+      "title": "Germany set to restrict its Freedom of Information Act",
+      "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+      "points": 256,
+      "num_comments": 170
+    },
+    {
+      "title": "Punch yourself in the face with reality",
+      "url": "https://adi.bio/reality",
+      "points": 212,
+      "num_comments": 106
+    },
+    {
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "points": 196,
+      "num_comments": 20
+    },
+    {
+      "title": "I'm a USB-C Maximalist",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "points": 174,
+      "num_comments": 277
+    },
+    {
+      "title": "Proof of care in the age of AI",
+      "url": "https://jacobfilipp.com/care/",
+      "points": 172,
+      "num_comments": 103
+    },
+    {
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "url": "https://github.com/JetBrains/youtrackdb",
+      "points": 166,
+      "num_comments": 66
+    },
+    {
+      "title": "New York becomes the first state to impose a data center moratorium",
+      "url": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
+      "points": 150,
+      "num_comments": 210
+    },
+    {
+      "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+      "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+      "points": 148,
+      "num_comments": 108
+    },
+    {
+      "title": "Just Let Me Write Digits",
+      "url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
+      "points": 147,
+      "num_comments": 79
+    }
+  ],
+  "product_hunt": []
+}
