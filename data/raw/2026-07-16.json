@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-16",
+  "fetched_at": "2026-07-16T02:27:40.365Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "points": 871,
+      "num_comments": 231
+    },
+    {
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "points": 726,
+      "num_comments": 185
+    },
+    {
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "points": 664,
+      "num_comments": 344
+    },
+    {
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "points": 606,
+      "num_comments": 280
+    },
+    {
+      "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
+      "url": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
+      "points": 522,
+      "num_comments": 536
+    },
+    {
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "points": 356,
+      "num_comments": 211
+    },
+    {
+      "title": "Prioritize mental health, and why communication is so important",
+      "url": "https://ramones.dev/posts/mental-health/",
+      "points": 293,
+      "num_comments": 253
+    },
+    {
+      "title": "Why I Left Google DeepMind",
+      "url": "https://turntrout.com/why-i-left-google-deepmind",
+      "points": 293,
+      "num_comments": 155
+    },
+    {
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "points": 282,
+      "num_comments": 323
+    },
+    {
+      "title": "Codex Micro",
+      "url": "https://openai.com/supply/co-lab/work-louder/",
+      "points": 266,
+      "num_comments": 225
+    },
+    {
+      "title": "Mysteries of Telegram Data Centers (2022)",
+      "url": "https://dev.moe/en/3025",
+      "points": 240,
+      "num_comments": 131
+    },
+    {
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "points": 237,
+      "num_comments": 155
+    },
+    {
+      "title": "OpenAI loses trademark dispute at EU court",
+      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "points": 217,
+      "num_comments": 144
+    },
+    {
+      "title": "Collection of Digital Clock Designs",
+      "url": "https://clocks.dev",
+      "points": 185,
+      "num_comments": 36
+    },
+    {
+      "title": "Telegram Serverless",
+      "url": "https://core.telegram.org/bots/serverless",
+      "points": 180,
+      "num_comments": 94
+    },
+    {
+      "title": "Towards a harness that can do anything",
+      "url": "https://eardatasci.github.io/c/ambiance/index.html",
+      "points": 173,
+      "num_comments": 87
+    },
+    {
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "points": 165,
+      "num_comments": 217
+    },
+    {
+      "title": "My midlife crisis Corolla is fast, furious, and modded",
+      "url": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
+      "points": 162,
+      "num_comments": 349
+    },
+    {
+      "title": "Briar is in maintenance mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "points": 150,
+      "num_comments": 96
+    },
+    {
+      "title": "Show HN: Firefox in WebAssembly",
+      "url": "https://developer.puter.com/labs/firefox-wasm/",
+      "points": 139,
+      "num_comments": 77
+    }
+  ],
+  "product_hunt": []
+}
