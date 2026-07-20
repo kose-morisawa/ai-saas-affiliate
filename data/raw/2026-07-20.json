@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-20",
+  "fetched_at": "2026-07-20T03:39:42.653Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Qwen 3.8",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "points": 809,
+      "num_comments": 565
+    },
+    {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "points": 425,
+      "num_comments": 198
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "points": 414,
+      "num_comments": 577
+    },
+    {
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "points": 328,
+      "num_comments": 156
+    },
+    {
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "points": 295,
+      "num_comments": 163
+    },
+    {
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "points": 281,
+      "num_comments": 187
+    },
+    {
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "points": 237,
+      "num_comments": 97
+    },
+    {
+      "title": "Qwen 3.8 Max Preview",
+      "url": "https://www.qwencloud.com/pricing/token-plan",
+      "points": 216,
+      "num_comments": 1
+    },
+    {
+      "title": "The Last MPEG-4 Visual Patent Has Expired",
+      "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+      "points": 186,
+      "num_comments": 52
+    },
+    {
+      "title": "I joined the IndieWeb, here's what I learned",
+      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+      "points": 162,
+      "num_comments": 86
+    },
+    {
+      "title": "We want Texans to know their rights",
+      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
+      "points": 154,
+      "num_comments": 48
+    },
+    {
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "points": 133,
+      "num_comments": 97
+    },
+    {
+      "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
+      "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
+      "points": 132,
+      "num_comments": 55
+    },
+    {
+      "title": "The death and rebirth of my home server",
+      "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+      "points": 127,
+      "num_comments": 83
+    },
+    {
+      "title": "Ollama: All Aboard Open Models",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "points": 116,
+      "num_comments": 48
+    },
+    {
+      "title": "I burned all my tokens researching how to save tokens",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "points": 100,
+      "num_comments": 139
+    },
+    {
+      "title": "Heavy TV watching associated with smaller brain structures, study finds",
+      "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
+      "points": 95,
+      "num_comments": 56
+    },
+    {
+      "title": "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
+      "url": "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv",
+      "points": 86,
+      "num_comments": 17
+    },
+    {
+      "title": "Americans are angry about data centers. Politicians are feeling the pressure",
+      "url": "https://www.reuters.com/world/us/americans-are-angry-about-data-centers-politicians-are-feeling-pressure-2026-07-16/",
+      "points": 79,
+      "num_comments": 88
+    }
+  ],
+  "product_hunt": []
+}
