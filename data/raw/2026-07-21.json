@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-21",
+  "fetched_at": "2026-07-21T02:31:26.718Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "China’s open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "points": 989,
+      "num_comments": 798
+    },
+    {
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
+      "points": 724,
+      "num_comments": 142
+    },
+    {
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "points": 685,
+      "num_comments": 442
+    },
+    {
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "points": 581,
+      "num_comments": 327
+    },
+    {
+      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+      "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+      "points": 479,
+      "num_comments": 286
+    },
+    {
+      "title": "Xiaomi-Robotics-1",
+      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "points": 455,
+      "num_comments": 307
+    },
+    {
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "points": 416,
+      "num_comments": 188
+    },
+    {
+      "title": "I found a WordPress RCEs with GPT5.6 and $25",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "points": 386,
+      "num_comments": 210
+    },
+    {
+      "title": "Annoying and alarming things about OpenCode",
+      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+      "points": 369,
+      "num_comments": 244
+    },
+    {
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "points": 360,
+      "num_comments": 139
+    },
+    {
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "points": 313,
+      "num_comments": 194
+    },
+    {
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+      "points": 300,
+      "num_comments": 298
+    },
+    {
+      "title": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
+      "url": "https://www.phoronix.com/news/Firefox-153-Downloads",
+      "points": 241,
+      "num_comments": 55
+    },
+    {
+      "title": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "points": 229,
+      "num_comments": 80
+    },
+    {
+      "title": "LEDs’ potential to save our night skies",
+      "url": "https://spectrum.ieee.org/led-light-pollution",
+      "points": 212,
+      "num_comments": 163
+    },
+    {
+      "title": "Perfection is not over-engineering",
+      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+      "points": 198,
+      "num_comments": 89
+    },
+    {
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "points": 196,
+      "num_comments": 143
+    },
+    {
+      "title": "Airbus Takes Flight from AWS",
+      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+      "points": 194,
+      "num_comments": 158
+    },
+    {
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "points": 189,
+      "num_comments": 73
+    },
+    {
+      "title": "The Voice of Google",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+      "points": 180,
+      "num_comments": 93
+    }
+  ],
+  "product_hunt": []
+}
