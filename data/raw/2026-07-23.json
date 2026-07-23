@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-23",
+  "fetched_at": "2026-07-23T02:34:49.644Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "points": 672,
+      "num_comments": 152
+    },
+    {
+      "title": "OverpAId – Fire your CEO. Hire the future",
+      "url": "https://overpaid.lol",
+      "points": 646,
+      "num_comments": 332
+    },
+    {
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "points": 636,
+      "num_comments": 390
+    },
+    {
+      "title": "John C. Dvorak has died",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "points": 585,
+      "num_comments": 184
+    },
+    {
+      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+      "url": "https://twitter.com/nikitabier/status/2079787406300266743",
+      "points": 457,
+      "num_comments": 621
+    },
+    {
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "points": 405,
+      "num_comments": 157
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "points": 381,
+      "num_comments": 75
+    },
+    {
+      "title": "The startup's Postgres survival guide",
+      "url": "https://hatchet.run/blog/postgres-survival-guide",
+      "points": 324,
+      "num_comments": 175
+    },
+    {
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "points": 293,
+      "num_comments": 302
+    },
+    {
+      "title": "Making",
+      "url": "https://beej.us/blog/data/ai-making/",
+      "points": 284,
+      "num_comments": 112
+    },
+    {
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "points": 282,
+      "num_comments": 75
+    },
+    {
+      "title": "Does creatine make you smarter?",
+      "url": "https://dynomight.net/creatine/",
+      "points": 271,
+      "num_comments": 229
+    },
+    {
+      "title": "Everyone Should Know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "points": 265,
+      "num_comments": 76
+    },
+    {
+      "title": "“We have information that Moonshot distilled Fable for the development of K3”",
+      "url": "https://twitter.com/mkratsios47/status/2079933645888880708",
+      "points": 222,
+      "num_comments": 578
+    },
+    {
+      "title": "Back to Kagi",
+      "url": "https://blog.melashri.net/micro/back-to-kagi/",
+      "points": 206,
+      "num_comments": 162
+    },
+    {
+      "title": "Never Enough",
+      "url": "https://dark.ronacher.eu/2026/7/21/never-enough/",
+      "points": 206,
+      "num_comments": 94
+    },
+    {
+      "title": "Businesses with ugly AI menu redesigns",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "points": 190,
+      "num_comments": 151
+    },
+    {
+      "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
+      "url": "https://www.orangecrumbs.com/hall/",
+      "points": 184,
+      "num_comments": 37
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "points": 177,
+      "num_comments": 78
+    },
+    {
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "points": 172,
+      "num_comments": 52
+    }
+  ],
+  "product_hunt": []
+}
