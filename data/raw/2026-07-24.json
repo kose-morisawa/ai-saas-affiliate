@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-24",
+  "fetched_at": "2026-07-24T02:31:42.213Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "points": 998,
+      "num_comments": 486
+    },
+    {
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "points": 741,
+      "num_comments": 665
+    },
+    {
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "points": 605,
+      "num_comments": 300
+    },
+    {
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "points": 300,
+      "num_comments": 129
+    },
+    {
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "points": 280,
+      "num_comments": 313
+    },
+    {
+      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+      "points": 268,
+      "num_comments": 158
+    },
+    {
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "points": 256,
+      "num_comments": 263
+    },
+    {
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "points": 255,
+      "num_comments": 56
+    },
+    {
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "points": 246,
+      "num_comments": 47
+    },
+    {
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "points": 209,
+      "num_comments": 149
+    },
+    {
+      "title": "Astronomers may have found the first exomoon",
+      "url": "https://www.eso.org/public/news/eso2610/",
+      "points": 195,
+      "num_comments": 76
+    },
+    {
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "points": 185,
+      "num_comments": 207
+    },
+    {
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "points": 185,
+      "num_comments": 150
+    },
+    {
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/",
+      "points": 182,
+      "num_comments": 99
+    },
+    {
+      "title": "Amiga 1000: Ten years ahead of its time",
+      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+      "points": 170,
+      "num_comments": 159
+    },
+    {
+      "title": "EU fines Google €890M for competition breaches over search and apps",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+      "points": 164,
+      "num_comments": 171
+    },
+    {
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "points": 150,
+      "num_comments": 110
+    },
+    {
+      "title": "Private healthcare makes industries less innovative. It's time for change",
+      "url": "https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/",
+      "points": 140,
+      "num_comments": 152
+    }
+  ],
+  "product_hunt": []
+}
