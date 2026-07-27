@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-27",
+  "fetched_at": "2026-07-27T02:45:21.583Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Kill The Cookie Banner",
+      "url": "https://killthecookiebanner.eu/",
+      "points": 847,
+      "num_comments": 416
+    },
+    {
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "points": 396,
+      "num_comments": 223
+    },
+    {
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "points": 368,
+      "num_comments": 114
+    },
+    {
+      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+      "url": "https://astral.sh/blog/ruff-v0.16.0",
+      "points": 335,
+      "num_comments": 222
+    },
+    {
+      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+      "points": 313,
+      "num_comments": 281
+    },
+    {
+      "title": "London Gatwick has launched a robotic airport parking service",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "points": 272,
+      "num_comments": 233
+    },
+    {
+      "title": "JetZero",
+      "url": "https://www.jetzero.aero",
+      "points": 248,
+      "num_comments": 238
+    },
+    {
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "points": 233,
+      "num_comments": 59
+    },
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "points": 227,
+      "num_comments": 141
+    },
+    {
+      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+      "url": "https://english.mapn.ro/",
+      "points": 221,
+      "num_comments": 281
+    },
+    {
+      "title": "The Strongest El Niño Ever",
+      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
+      "points": 216,
+      "num_comments": 217
+    },
+    {
+      "title": "Design is compromise",
+      "url": "https://stephango.com/design-is-compromise",
+      "points": 200,
+      "num_comments": 76
+    },
+    {
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "points": 194,
+      "num_comments": 109
+    },
+    {
+      "title": "It's not empowering to hand off the details",
+      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+      "points": 185,
+      "num_comments": 107
+    },
+    {
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "points": 183,
+      "num_comments": 41
+    },
+    {
+      "title": "The relay market powering token resellers and fraud",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "points": 161,
+      "num_comments": 98
+    },
+    {
+      "title": "Show HN: Reverse Minesweeper",
+      "url": "https://sunflowersgame.com/",
+      "points": 157,
+      "num_comments": 52
+    },
+    {
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "points": 154,
+      "num_comments": 46
+    },
+    {
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "points": 148,
+      "num_comments": 22
+    },
+    {
+      "title": "Using ThinkPad T480 as a mobile phone",
+      "url": "https://grego.site/blog/thinkphone",
+      "points": 120,
+      "num_comments": 44
+    }
+  ],
+  "product_hunt": []
+}
