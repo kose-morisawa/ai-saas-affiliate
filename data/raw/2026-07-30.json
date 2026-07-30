@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-30",
+  "fetched_at": "2026-07-30T02:11:09.238Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "KOReader",
+      "url": "https://koreader.rocks/",
+      "points": 670,
+      "num_comments": 212
+    },
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "points": 658,
+      "num_comments": 228
+    },
+    {
+      "title": "Superlogical",
+      "url": "https://www.superlogical.com/",
+      "points": 534,
+      "num_comments": 328
+    },
+    {
+      "title": "User Interfaces of the Demo Scene",
+      "url": "https://www.datagubbe.se/scenegui/",
+      "points": 400,
+      "num_comments": 68
+    },
+    {
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "points": 398,
+      "num_comments": 191
+    },
+    {
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "points": 389,
+      "num_comments": 106
+    },
+    {
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "points": 349,
+      "num_comments": 267
+    },
+    {
+      "title": "Kimi K3-256k",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "points": 343,
+      "num_comments": 100
+    },
+    {
+      "title": "French musician Kavinsky found dead",
+      "url": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
+      "points": 324,
+      "num_comments": 75
+    },
+    {
+      "title": "Darktable",
+      "url": "https://www.darktable.org/",
+      "points": 297,
+      "num_comments": 142
+    },
+    {
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "url": "https://arxiv.org/abs/2607.25398",
+      "points": 295,
+      "num_comments": 184
+    },
+    {
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "points": 295,
+      "num_comments": 111
+    },
+    {
+      "title": "Claude: Elevated errors across all models – Resolved",
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+      "points": 260,
+      "num_comments": 231
+    },
+    {
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+      "points": 230,
+      "num_comments": 69
+    },
+    {
+      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "points": 220,
+      "num_comments": 276
+    },
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "points": 219,
+      "num_comments": 123
+    },
+    {
+      "title": "San Francisco: Don't Fall for Industry Defense of Surveillance Pricing",
+      "url": "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing",
+      "points": 152,
+      "num_comments": 85
+    },
+    {
+      "title": "Amiga Graphics Archive",
+      "url": "https://amiga.lychesis.net/index.html",
+      "points": 152,
+      "num_comments": 24
+    },
+    {
+      "title": "Superlogical",
+      "url": "https://mitchellh.com/writing/superlogical",
+      "points": 149,
+      "num_comments": 3
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "points": 137,
+      "num_comments": 16
+    }
+  ],
+  "product_hunt": []
+}
