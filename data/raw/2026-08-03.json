@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-03",
+  "fetched_at": "2026-08-03T02:38:13.257Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "points": 452,
+      "num_comments": 350
+    },
+    {
+      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+      "points": 326,
+      "num_comments": 308
+    },
+    {
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "points": 204,
+      "num_comments": 98
+    },
+    {
+      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+      "points": 194,
+      "num_comments": 94
+    },
+    {
+      "title": "How the words we teach English language learners changed",
+      "url": "https://pudding.cool/2026/07/essential-words/",
+      "points": 193,
+      "num_comments": 133
+    },
+    {
+      "title": "US Treasury undertakes historic intervention in yen market",
+      "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+      "points": 190,
+      "num_comments": 166
+    },
+    {
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "points": 186,
+      "num_comments": 39
+    },
+    {
+      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+      "url": "https://meshdiff.com/",
+      "points": 182,
+      "num_comments": 19
+    },
+    {
+      "title": "Linux desktop market share has hit over 10% in North America",
+      "url": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+      "points": 175,
+      "num_comments": 91
+    },
+    {
+      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+      "points": 170,
+      "num_comments": 22
+    },
+    {
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "url": "https://fstar-lang.org/",
+      "points": 159,
+      "num_comments": 69
+    },
+    {
+      "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+      "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+      "points": 157,
+      "num_comments": 104
+    },
+    {
+      "title": "I don't recommend Tailwind CSS",
+      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+      "points": 153,
+      "num_comments": 156
+    },
+    {
+      "title": "Twenty Years of RISC OS Open",
+      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+      "points": 153,
+      "num_comments": 29
+    },
+    {
+      "title": "A Rant About “Technology” (2005)",
+      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "points": 140,
+      "num_comments": 76
+    },
+    {
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://publicdomainreview.org/essay/ars-notoria/",
+      "points": 123,
+      "num_comments": 30
+    },
+    {
+      "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+      "url": "https://sprocket-demo.spikonado.com",
+      "points": 122,
+      "num_comments": 11
+    },
+    {
+      "title": "AI poster wins Ohio State Fair contest",
+      "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+      "points": 115,
+      "num_comments": 129
+    },
+    {
+      "title": "SwiftUI After 7 Years",
+      "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+      "points": 115,
+      "num_comments": 100
+    },
+    {
+      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://frogs.vaguespac.es/",
+      "points": 111,
+      "num_comments": 52
+    }
+  ],
+  "product_hunt": []
+}
