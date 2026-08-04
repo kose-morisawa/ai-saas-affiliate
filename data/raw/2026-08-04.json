@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-04",
+  "fetched_at": "2026-08-04T02:23:00.230Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Don't be a meat proxy",
+      "url": "https://gruhn.me/blog/2026-08-03/",
+      "points": 1700,
+      "num_comments": 691
+    },
+    {
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "points": 699,
+      "num_comments": 351
+    },
+    {
+      "title": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "points": 511,
+      "num_comments": 187
+    },
+    {
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "points": 477,
+      "num_comments": 203
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "points": 443,
+      "num_comments": 723
+    },
+    {
+      "title": "More German than many Germans",
+      "url": "https://mertbulan.com/more-german-than-many-germans/",
+      "points": 406,
+      "num_comments": 308
+    },
+    {
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "points": 393,
+      "num_comments": 334
+    },
+    {
+      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+      "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+      "points": 338,
+      "num_comments": 265
+    },
+    {
+      "title": "Bonsai: Janestreet's UI Library",
+      "url": "https://github.com/janestreet/bonsai",
+      "points": 306,
+      "num_comments": 130
+    },
+    {
+      "title": "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
+      "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+      "points": 284,
+      "num_comments": 226
+    },
+    {
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "points": 277,
+      "num_comments": 57
+    },
+    {
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "points": 259,
+      "num_comments": 79
+    },
+    {
+      "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
+      "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+      "points": 239,
+      "num_comments": 101
+    },
+    {
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "points": 233,
+      "num_comments": 92
+    },
+    {
+      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+      "points": 205,
+      "num_comments": 105
+    },
+    {
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "url": "https://github.com/lyogavin/airllm",
+      "points": 192,
+      "num_comments": 75
+    },
+    {
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "points": 151,
+      "num_comments": 40
+    },
+    {
+      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+      "points": 130,
+      "num_comments": 36
+    },
+    {
+      "title": "What DMARC Protects You From, and What It Does Not",
+      "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+      "points": 128,
+      "num_comments": 30
+    },
+    {
+      "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+      "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+      "points": 125,
+      "num_comments": 134
+    }
+  ],
+  "product_hunt": []
+}
