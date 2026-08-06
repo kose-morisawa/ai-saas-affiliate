@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-06",
+  "fetched_at": "2026-08-06T02:24:55.829Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Discovery Loop",
+      "url": "https://www.discoveryloop.com/",
+      "points": 616,
+      "num_comments": 388
+    },
+    {
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "points": 493,
+      "num_comments": 601
+    },
+    {
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os/",
+      "points": 478,
+      "num_comments": 240
+    },
+    {
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+      "points": 450,
+      "num_comments": 241
+    },
+    {
+      "title": "Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
+      "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+      "points": 369,
+      "num_comments": 1
+    },
+    {
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "points": 321,
+      "num_comments": 159
+    },
+    {
+      "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
+      "url": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
+      "points": 303,
+      "num_comments": 188
+    },
+    {
+      "title": "Jeff Dean leaving Alphabet",
+      "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+      "points": 297,
+      "num_comments": 9
+    },
+    {
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "points": 250,
+      "num_comments": 199
+    },
+    {
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "points": 247,
+      "num_comments": 168
+    },
+    {
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+      "points": 230,
+      "num_comments": 97
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "points": 229,
+      "num_comments": 54
+    },
+    {
+      "title": "I'm switching my phone from Android to Linux",
+      "url": "https://runarcn.no/android-to-linux/",
+      "points": 217,
+      "num_comments": 179
+    },
+    {
+      "title": "Qwen Image 3.0 Pro",
+      "url": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
+      "points": 191,
+      "num_comments": 53
+    },
+    {
+      "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and You",
+      "url": "https://sightlessscribbles.com/disability-dongle/",
+      "points": 187,
+      "num_comments": 189
+    },
+    {
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "points": 184,
+      "num_comments": 110
+    },
+    {
+      "title": "Helsinki Hacker News Meetup",
+      "url": "https://calpaterson.com/helsinki-hn.html",
+      "points": 179,
+      "num_comments": 129
+    },
+    {
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "points": 176,
+      "num_comments": 70
+    },
+    {
+      "title": "Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18",
+      "url": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
+      "points": 174,
+      "num_comments": 118
+    },
+    {
+      "title": "Aristotle quotes on virtue, knowledge, and happiness",
+      "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+      "points": 159,
+      "num_comments": 77
+    }
+  ],
+  "product_hunt": []
+}
