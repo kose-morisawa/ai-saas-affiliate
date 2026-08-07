@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-07",
+  "fetched_at": "2026-08-07T02:33:58.690Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "points": 895,
+      "num_comments": 150
+    },
+    {
+      "title": "Crime Pays but Botany Doesn't",
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "points": 654,
+      "num_comments": 203
+    },
+    {
+      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "points": 443,
+      "num_comments": 284
+    },
+    {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "points": 395,
+      "num_comments": 314
+    },
+    {
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "points": 335,
+      "num_comments": 274
+    },
+    {
+      "title": "Almost no skill required to cook a steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "points": 285,
+      "num_comments": 329
+    },
+    {
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "points": 259,
+      "num_comments": 194
+    },
+    {
+      "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
+      "url": "https://electronicmaterialsoffice.com/",
+      "points": 257,
+      "num_comments": 218
+    },
+    {
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "points": 224,
+      "num_comments": 178
+    },
+    {
+      "title": "Quake – 30th Anniversary Update",
+      "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+      "points": 222,
+      "num_comments": 111
+    },
+    {
+      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+      "points": 210,
+      "num_comments": 171
+    },
+    {
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "url": "https://provenmetal.com",
+      "points": 187,
+      "num_comments": 131
+    },
+    {
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "points": 161,
+      "num_comments": 117
+    },
+    {
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "points": 152,
+      "num_comments": 102
+    },
+    {
+      "title": "Federal Communications Commission scraps limit on broadcast TV ownership",
+      "url": "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641",
+      "points": 136,
+      "num_comments": 100
+    },
+    {
+      "title": "xAI, SpaceX, and the Race for AI Buildout",
+      "url": "https://illegal.solutions/posts/xai_pollution",
+      "points": 134,
+      "num_comments": 111
+    },
+    {
+      "title": "What I love about Django",
+      "url": "https://buttondown.com/blog/what-i-love-about-django",
+      "points": 131,
+      "num_comments": 108
+    },
+    {
+      "title": "France is banning unsolicited telemarketing calls starting next week",
+      "url": "https://apnews.com/article/france-unsolicited-telemarketing-ban-4c946192a1e0d611fd80eacc708aa7da",
+      "points": 118,
+      "num_comments": 51
+    },
+    {
+      "title": "GitHub Is Experiencing Difficulties",
+      "url": "https://www.githubstatus.com/?d=2026/08/06",
+      "points": 114,
+      "num_comments": 4
+    },
+    {
+      "title": "Let's all meet up in the Y2K",
+      "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+      "points": 110,
+      "num_comments": 81
+    }
+  ],
+  "product_hunt": []
+}
