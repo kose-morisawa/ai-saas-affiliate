@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-08",
+  "fetched_at": "2026-08-08T01:24:02.682Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "points": 855,
+      "num_comments": 814
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "points": 450,
+      "num_comments": 266
+    },
+    {
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "points": 409,
+      "num_comments": 529
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "points": 382,
+      "num_comments": 257
+    },
+    {
+      "title": "A year of fighting scrapers on my 1.5 million-page website",
+      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+      "points": 372,
+      "num_comments": 351
+    },
+    {
+      "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+      "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+      "points": 340,
+      "num_comments": 338
+    },
+    {
+      "title": "App Store Rejection of the Week: Dark Hours",
+      "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+      "points": 279,
+      "num_comments": 165
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "points": 247,
+      "num_comments": 55
+    },
+    {
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "points": 242,
+      "num_comments": 118
+    },
+    {
+      "title": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "points": 233,
+      "num_comments": 221
+    },
+    {
+      "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+      "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+      "points": 199,
+      "num_comments": 50
+    },
+    {
+      "title": "USA Today Co., partners with Palantir to analyze audience data",
+      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+      "points": 183,
+      "num_comments": 70
+    },
+    {
+      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
+      "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+      "points": 172,
+      "num_comments": 179
+    },
+    {
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "points": 171,
+      "num_comments": 100
+    },
+    {
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "points": 162,
+      "num_comments": 169
+    },
+    {
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "points": 162,
+      "num_comments": 42
+    },
+    {
+      "title": "AI psychosis is the new leadership blind spot",
+      "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+      "points": 160,
+      "num_comments": 103
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "points": 152,
+      "num_comments": 167
+    },
+    {
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "points": 145,
+      "num_comments": 47
+    },
+    {
+      "title": "DOGE overstated savings, government watchdog says",
+      "url": "https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797",
+      "points": 141,
+      "num_comments": 66
+    }
+  ],
+  "product_hunt": []
+}
