@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-11",
+  "fetched_at": "2026-08-11T01:28:53.297Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "points": 1031,
+      "num_comments": 574
+    },
+    {
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "points": 625,
+      "num_comments": 349
+    },
+    {
+      "title": "Tl;dv: Over 180k meetings left wide open",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "points": 534,
+      "num_comments": 175
+    },
+    {
+      "title": "What Happened to HackerOne?",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "points": 367,
+      "num_comments": 194
+    },
+    {
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "points": 357,
+      "num_comments": 382
+    },
+    {
+      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+      "points": 296,
+      "num_comments": 455
+    },
+    {
+      "title": "Illinois just passed a law that puts Linux on the hook for age verification",
+      "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+      "points": 281,
+      "num_comments": 374
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "points": 276,
+      "num_comments": 302
+    },
+    {
+      "title": "Squeak 6.1",
+      "url": "https://squeak.org/release_notes/6.1/",
+      "points": 221,
+      "num_comments": 114
+    },
+    {
+      "title": "Mistral Patent for “Code implemented tool calls”",
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+      "points": 208,
+      "num_comments": 176
+    },
+    {
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "points": 190,
+      "num_comments": 81
+    },
+    {
+      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+      "url": "https://ethw.org/Milestones:Parametron,_1954",
+      "points": 183,
+      "num_comments": 47
+    },
+    {
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "url": "https://github.com/shinyquagsire23/Klepton",
+      "points": 168,
+      "num_comments": 57
+    },
+    {
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "points": 163,
+      "num_comments": 75
+    },
+    {
+      "title": "'Pervert glasses': Backlash against Meta's smart glasses grows",
+      "url": "https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/",
+      "points": 162,
+      "num_comments": 248
+    },
+    {
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "points": 161,
+      "num_comments": 114
+    },
+    {
+      "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
+      "points": 161,
+      "num_comments": 62
+    },
+    {
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "points": 159,
+      "num_comments": 123
+    },
+    {
+      "title": "Stop Killing Games: It's time to sue Sony, join us",
+      "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
+      "points": 155,
+      "num_comments": 68
+    },
+    {
+      "title": "50k Boat Names",
+      "url": "https://www.beautifulpublicdata.com/boat-names/",
+      "points": 152,
+      "num_comments": 105
+    }
+  ],
+  "product_hunt": []
+}
