@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-14",
+  "fetched_at": "2026-08-14T01:47:24.086Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "points": 618,
+      "num_comments": 346
+    },
+    {
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "points": 558,
+      "num_comments": 242
+    },
+    {
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "points": 496,
+      "num_comments": 138
+    },
+    {
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+      "points": 443,
+      "num_comments": 300
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "points": 421,
+      "num_comments": 174
+    },
+    {
+      "title": "Gloomberb",
+      "url": "https://gloom.sh/",
+      "points": 384,
+      "num_comments": 194
+    },
+    {
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "points": 380,
+      "num_comments": 409
+    },
+    {
+      "title": "Choose Boring Technology (2015)",
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "points": 253,
+      "num_comments": 136
+    },
+    {
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "points": 252,
+      "num_comments": 99
+    },
+    {
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "points": 245,
+      "num_comments": 135
+    },
+    {
+      "title": "Ordinary abundance",
+      "url": "https://ordinaryabundance.com/",
+      "points": 209,
+      "num_comments": 117
+    },
+    {
+      "title": "I requested a copy of my data from McDonald’s loyalty program",
+      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+      "points": 208,
+      "num_comments": 288
+    },
+    {
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "points": 204,
+      "num_comments": 111
+    },
+    {
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "url": "https://donkeybas.com/",
+      "points": 188,
+      "num_comments": 79
+    },
+    {
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "points": 177,
+      "num_comments": 73
+    },
+    {
+      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "points": 155,
+      "num_comments": 69
+    },
+    {
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "points": 153,
+      "num_comments": 197
+    },
+    {
+      "title": "NP-Overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "points": 149,
+      "num_comments": 91
+    },
+    {
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "points": 146,
+      "num_comments": 95
+    },
+    {
+      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "points": 138,
+      "num_comments": 72
+    }
+  ],
+  "product_hunt": []
+}
