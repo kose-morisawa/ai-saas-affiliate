@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-15",
+  "fetched_at": "2026-08-15T01:07:02.178Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "points": 1025,
+      "num_comments": 514
+    },
+    {
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "points": 879,
+      "num_comments": 573
+    },
+    {
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "points": 773,
+      "num_comments": 708
+    },
+    {
+      "title": "Every Fucking Website (2020)",
+      "url": "https://lxe.github.io/everywebsite/",
+      "points": 740,
+      "num_comments": 446
+    },
+    {
+      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+      "points": 431,
+      "num_comments": 343
+    },
+    {
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "points": 371,
+      "num_comments": 141
+    },
+    {
+      "title": "In Australia, a home battery boom has helped cut wholesale power prices",
+      "url": "https://e360.yale.edu/digest/australia-home-batteries",
+      "points": 313,
+      "num_comments": 247
+    },
+    {
+      "title": "Qwen3.8-27B",
+      "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+      "points": 297,
+      "num_comments": 3
+    },
+    {
+      "title": "Seven books I keep close because I love them",
+      "url": "https://blog.plover.com/2026/08/02/",
+      "points": 294,
+      "num_comments": 129
+    },
+    {
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "points": 271,
+      "num_comments": 165
+    },
+    {
+      "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
+      "points": 244,
+      "num_comments": 76
+    },
+    {
+      "title": "DeepSeek peak/off-peak pricing update",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "points": 237,
+      "num_comments": 3
+    },
+    {
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "points": 216,
+      "num_comments": 94
+    },
+    {
+      "title": "France's top court blocks social media ban for under-15s",
+      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+      "points": 203,
+      "num_comments": 152
+    },
+    {
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "points": 196,
+      "num_comments": 16
+    },
+    {
+      "title": "Dear people who work at the airport",
+      "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+      "points": 190,
+      "num_comments": 244
+    },
+    {
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "points": 181,
+      "num_comments": 109
+    },
+    {
+      "title": "Introducing Toast 1",
+      "url": "https://www.mixedbread.com/blog/toast-1",
+      "points": 173,
+      "num_comments": 58
+    },
+    {
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "points": 170,
+      "num_comments": 184
+    },
+    {
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "points": 144,
+      "num_comments": 59
+    }
+  ],
+  "product_hunt": []
+}
