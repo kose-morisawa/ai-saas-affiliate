@@ -1,0 +1,122 @@
+{
+  "date": "2026-08-16",
+  "fetched_at": "2026-08-16T01:11:04.955Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "points": 406,
+      "num_comments": 362
+    },
+    {
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "points": 391,
+      "num_comments": 86
+    },
+    {
+      "title": "The other Sean Byrne doesn't exist",
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "points": 371,
+      "num_comments": 177
+    },
+    {
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "points": 340,
+      "num_comments": 236
+    },
+    {
+      "title": "Working with AI feels more like leadership than coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "points": 264,
+      "num_comments": 170
+    },
+    {
+      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "points": 215,
+      "num_comments": 55
+    },
+    {
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "points": 210,
+      "num_comments": 72
+    },
+    {
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "points": 165,
+      "num_comments": 53
+    },
+    {
+      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "points": 156,
+      "num_comments": 72
+    },
+    {
+      "title": "Engineers will do anything to avoid learning from history",
+      "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
+      "points": 140,
+      "num_comments": 85
+    },
+    {
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "points": 135,
+      "num_comments": 99
+    },
+    {
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "points": 111,
+      "num_comments": 52
+    },
+    {
+      "title": "The Dutch community where people live on strips of land in a lake",
+      "url": "https://www.core77.com/posts/144869",
+      "points": 109,
+      "num_comments": 51
+    },
+    {
+      "title": "Cloudflare's AI Psychosis",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+      "points": 106,
+      "num_comments": 86
+    },
+    {
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "url": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
+      "points": 101,
+      "num_comments": 92
+    },
+    {
+      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+      "url": "https://uecker.codeberg.page/2026-07-14.html",
+      "points": 87,
+      "num_comments": 45
+    },
+    {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "points": 84,
+      "num_comments": 42
+    },
+    {
+      "title": "Could a computer scientist build a brain?",
+      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+      "points": 81,
+      "num_comments": 60
+    },
+    {
+      "title": "The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts",
+      "url": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
+      "points": 78,
+      "num_comments": 65
+    }
+  ],
+  "product_hunt": []
+}
