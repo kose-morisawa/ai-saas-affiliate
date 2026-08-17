@@ -1,0 +1,122 @@
+{
+  "date": "2026-08-17",
+  "fetched_at": "2026-08-17T01:08:16.922Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "points": 526,
+      "num_comments": 222
+    },
+    {
+      "title": "Firefox for iOS now has a native adblocker",
+      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+      "points": 526,
+      "num_comments": 217
+    },
+    {
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "points": 362,
+      "num_comments": 190
+    },
+    {
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "points": 354,
+      "num_comments": 129
+    },
+    {
+      "title": "Models Are Getting Dumber on Purpose",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "points": 257,
+      "num_comments": 146
+    },
+    {
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "points": 234,
+      "num_comments": 205
+    },
+    {
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "points": 222,
+      "num_comments": 88
+    },
+    {
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "points": 179,
+      "num_comments": 130
+    },
+    {
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "points": 177,
+      "num_comments": 128
+    },
+    {
+      "title": "The weekend is 100 years old",
+      "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
+      "points": 177,
+      "num_comments": 119
+    },
+    {
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+      "points": 156,
+      "num_comments": 118
+    },
+    {
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "points": 140,
+      "num_comments": 141
+    },
+    {
+      "title": "NIH is ending a key grant for budding clinical researchers",
+      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+      "points": 136,
+      "num_comments": 67
+    },
+    {
+      "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
+      "points": 115,
+      "num_comments": 84
+    },
+    {
+      "title": "Guiding Ships with Moire Patterns (2018)",
+      "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+      "points": 110,
+      "num_comments": 27
+    },
+    {
+      "title": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days",
+      "url": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
+      "points": 107,
+      "num_comments": 49
+    },
+    {
+      "title": "Protobuf has LSP support. You're welcome",
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "points": 104,
+      "num_comments": 77
+    },
+    {
+      "title": "Banned Words List",
+      "url": "https://pen.org/banned-words-list/",
+      "points": 95,
+      "num_comments": 45
+    },
+    {
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "points": 92,
+      "num_comments": 23
+    }
+  ],
+  "product_hunt": []
+}
