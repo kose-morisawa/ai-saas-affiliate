@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-18",
+  "fetched_at": "2026-08-18T01:06:27.131Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "points": 694,
+      "num_comments": 2
+    },
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "points": 565,
+      "num_comments": 357
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "points": 525,
+      "num_comments": 93
+    },
+    {
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "points": 521,
+      "num_comments": 907
+    },
+    {
+      "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "points": 382,
+      "num_comments": 514
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "points": 310,
+      "num_comments": 124
+    },
+    {
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "points": 302,
+      "num_comments": 134
+    },
+    {
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "points": 297,
+      "num_comments": 153
+    },
+    {
+      "title": "Linear algebra done right",
+      "url": "https://linear.axler.net/",
+      "points": 254,
+      "num_comments": 97
+    },
+    {
+      "title": "GIMP Development Update",
+      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+      "points": 253,
+      "num_comments": 232
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "points": 250,
+      "num_comments": 154
+    },
+    {
+      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+      "points": 236,
+      "num_comments": 93
+    },
+    {
+      "title": "On AI regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "points": 234,
+      "num_comments": 496
+    },
+    {
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "points": 190,
+      "num_comments": 134
+    },
+    {
+      "title": "Sun Clock",
+      "url": "https://sunclock.net/",
+      "points": 164,
+      "num_comments": 55
+    },
+    {
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "points": 155,
+      "num_comments": 35
+    },
+    {
+      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+      "url": "https://desktopcolors.com",
+      "points": 137,
+      "num_comments": 61
+    },
+    {
+      "title": "Anthropic's War on open source AI",
+      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "points": 133,
+      "num_comments": 57
+    }
+  ],
+  "product_hunt": []
+}
