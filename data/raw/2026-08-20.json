@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-20",
+  "fetched_at": "2026-08-20T01:06:31.737Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "points": 1506,
+      "num_comments": 401
+    },
+    {
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "points": 739,
+      "num_comments": 115
+    },
+    {
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "points": 612,
+      "num_comments": 329
+    },
+    {
+      "title": "Devices with GrapheneOS support should be available in 2027",
+      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "points": 573,
+      "num_comments": 364
+    },
+    {
+      "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+      "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+      "points": 519,
+      "num_comments": 246
+    },
+    {
+      "title": "Remote workers report the highest well-being in study of 7,700 employees",
+      "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+      "points": 486,
+      "num_comments": 242
+    },
+    {
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "points": 427,
+      "num_comments": 106
+    },
+    {
+      "title": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
+      "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
+      "points": 406,
+      "num_comments": 292
+    },
+    {
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
+      "points": 398,
+      "num_comments": 75
+    },
+    {
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "points": 308,
+      "num_comments": 287
+    },
+    {
+      "title": "PostgreSQL for Everything",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "points": 297,
+      "num_comments": 185
+    },
+    {
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "points": 283,
+      "num_comments": 114
+    },
+    {
+      "title": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "points": 268,
+      "num_comments": 217
+    },
+    {
+      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+      "url": "https://theremin.bizibah.com/",
+      "points": 247,
+      "num_comments": 84
+    },
+    {
+      "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+      "url": "https://www.modular.com/blog/modcon-announcements",
+      "points": 209,
+      "num_comments": 101
+    },
+    {
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "points": 181,
+      "num_comments": 65
+    },
+    {
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "points": 174,
+      "num_comments": 38
+    },
+    {
+      "title": "Police officer used Flock cameras to track estranged wife 717 times",
+      "url": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
+      "points": 172,
+      "num_comments": 60
+    },
+    {
+      "title": "Opus 5.0 drives incoherence into the stratosphere",
+      "url": "https://github.com/anthropics/claude-code/issues/77136",
+      "points": 167,
+      "num_comments": 153
+    },
+    {
+      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "url": "https://ornith.ai/ornith_1_5.html",
+      "points": 166,
+      "num_comments": 58
+    }
+  ],
+  "product_hunt": []
+}
