@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-21",
+  "fetched_at": "2026-08-21T01:10:15.478Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Don't paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "points": 987,
+      "num_comments": 538
+    },
+    {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "points": 902,
+      "num_comments": 206
+    },
+    {
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "points": 872,
+      "num_comments": 286
+    },
+    {
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "points": 492,
+      "num_comments": 105
+    },
+    {
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "points": 391,
+      "num_comments": 359
+    },
+    {
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "points": 337,
+      "num_comments": 130
+    },
+    {
+      "title": "Turns are Better than Radians (2022)",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "points": 332,
+      "num_comments": 198
+    },
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "points": 301,
+      "num_comments": 338
+    },
+    {
+      "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
+      "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+      "points": 299,
+      "num_comments": 113
+    },
+    {
+      "title": "Bun 1.4",
+      "url": "https://bun.com/blog/bun-v1.4",
+      "points": 232,
+      "num_comments": 137
+    },
+    {
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "points": 215,
+      "num_comments": 115
+    },
+    {
+      "title": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
+      "points": 210,
+      "num_comments": 27
+    },
+    {
+      "title": "Stwipe Acquires OpenWouter",
+      "url": "https://stwipe.com/",
+      "points": 206,
+      "num_comments": 26
+    },
+    {
+      "title": "I should have loved biology (2020)",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "points": 195,
+      "num_comments": 73
+    },
+    {
+      "title": "Linux 7.2",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "points": 191,
+      "num_comments": 66
+    },
+    {
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "points": 186,
+      "num_comments": 199
+    },
+    {
+      "title": "Stop eating Lady Gaga's Oreos",
+      "url": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
+      "points": 166,
+      "num_comments": 106
+    },
+    {
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "points": 133,
+      "num_comments": 34
+    },
+    {
+      "title": "How to compromise your system with a job interview",
+      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+      "points": 117,
+      "num_comments": 100
+    },
+    {
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "points": 114,
+      "num_comments": 76
+    }
+  ],
+  "product_hunt": []
+}
