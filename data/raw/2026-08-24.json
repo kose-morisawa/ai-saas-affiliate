@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-24",
+  "fetched_at": "2026-08-24T01:09:44.159Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "To become a better writer, read as much as you can",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "points": 316,
+      "num_comments": 208
+    },
+    {
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "points": 159,
+      "num_comments": 80
+    },
+    {
+      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+      "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+      "points": 155,
+      "num_comments": 115
+    },
+    {
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "points": 154,
+      "num_comments": 55
+    },
+    {
+      "title": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "points": 143,
+      "num_comments": 57
+    },
+    {
+      "title": "JIT Compiling Code in 5μs",
+      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+      "points": 123,
+      "num_comments": 78
+    },
+    {
+      "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
+      "url": "https://erikengdahl.se/autism/isnt/",
+      "points": 90,
+      "num_comments": 101
+    },
+    {
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+      "points": 90,
+      "num_comments": 59
+    },
+    {
+      "title": "I Dream of Quieter Computing",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "points": 88,
+      "num_comments": 93
+    },
+    {
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "points": 87,
+      "num_comments": 40
+    },
+    {
+      "title": "Fast and Hard Code",
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "points": 81,
+      "num_comments": 44
+    },
+    {
+      "title": "The Sloppification of Peptides",
+      "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+      "points": 74,
+      "num_comments": 59
+    },
+    {
+      "title": "Iranian hackers shut down UK power plant for 4 days",
+      "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+      "points": 56,
+      "num_comments": 34
+    },
+    {
+      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+      "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+      "points": 54,
+      "num_comments": 17
+    },
+    {
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "points": 48,
+      "num_comments": 13
+    },
+    {
+      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+      "url": "https://skylens.yantraai.app/",
+      "points": 36,
+      "num_comments": 17
+    },
+    {
+      "title": "'AI refuser' quit her dream job, and hopes others follow",
+      "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+      "points": 34,
+      "num_comments": 39
+    },
+    {
+      "title": "Steve French (SMB3/CIFSFS Linux kernel maintainer) has died",
+      "url": "https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change",
+      "points": 34,
+      "num_comments": 0
+    },
+    {
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "points": 27,
+      "num_comments": 15
+    },
+    {
+      "title": "Canada now 'at war' with United States over trade, Prime Minister says",
+      "url": "https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/",
+      "points": 25,
+      "num_comments": 11
+    }
+  ],
+  "product_hunt": []
+}
