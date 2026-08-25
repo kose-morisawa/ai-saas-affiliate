@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-25",
+  "fetched_at": "2026-08-25T01:08:30.528Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "points": 1044,
+      "num_comments": 653
+    },
+    {
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "points": 717,
+      "num_comments": 483
+    },
+    {
+      "title": "Andreessen Horowitz is investing billions into a bleak future",
+      "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+      "points": 651,
+      "num_comments": 346
+    },
+    {
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "points": 550,
+      "num_comments": 218
+    },
+    {
+      "title": "Executable Is a SQLite Database",
+      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+      "points": 489,
+      "num_comments": 90
+    },
+    {
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "points": 448,
+      "num_comments": 452
+    },
+    {
+      "title": "Oceans hit highest temperature on record",
+      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "points": 386,
+      "num_comments": 276
+    },
+    {
+      "title": "The entire city of San Francisco as a video game",
+      "url": "https://sf.thijs.gg/",
+      "points": 327,
+      "num_comments": 115
+    },
+    {
+      "title": "IPFS Maintainers Winding Down",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "points": 320,
+      "num_comments": 162
+    },
+    {
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "points": 289,
+      "num_comments": 262
+    },
+    {
+      "title": "New EU-wide product repair rules come into force",
+      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+      "points": 243,
+      "num_comments": 135
+    },
+    {
+      "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+      "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
+      "points": 242,
+      "num_comments": 163
+    },
+    {
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "points": 195,
+      "num_comments": 40
+    },
+    {
+      "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
+      "points": 181,
+      "num_comments": 142
+    },
+    {
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "points": 179,
+      "num_comments": 99
+    },
+    {
+      "title": "SeL4 security proofs now complete on AArch64",
+      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+      "points": 170,
+      "num_comments": 38
+    },
+    {
+      "title": "Jabber/XMPP: 25 Years of Digital Independence",
+      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+      "points": 165,
+      "num_comments": 64
+    },
+    {
+      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+      "url": "https://ssx360.github.io/rack-02/?src=hn",
+      "points": 161,
+      "num_comments": 29
+    },
+    {
+      "title": "Fast drilldown dashboards from a single Parquet file",
+      "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+      "points": 152,
+      "num_comments": 16
+    },
+    {
+      "title": "Where did all the public bathrooms go?",
+      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "points": 144,
+      "num_comments": 294
+    }
+  ],
+  "product_hunt": []
+}
