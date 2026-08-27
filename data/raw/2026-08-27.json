@@ -1,0 +1,122 @@
+{
+  "date": "2026-08-27",
+  "fetched_at": "2026-08-27T07:21:26.272Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "AWS Acquires DuckLabs",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "points": 1032,
+      "num_comments": 303
+    },
+    {
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "points": 979,
+      "num_comments": 497
+    },
+    {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "points": 865,
+      "num_comments": 365
+    },
+    {
+      "title": "Qwen3.8-Flash-Next",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "points": 662,
+      "num_comments": 214
+    },
+    {
+      "title": "Tim Curry has died",
+      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+      "points": 623,
+      "num_comments": 205
+    },
+    {
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "points": 547,
+      "num_comments": 98
+    },
+    {
+      "title": "Meta reaches $17B settlement over social media harms to children",
+      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+      "points": 505,
+      "num_comments": 475
+    },
+    {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "points": 462,
+      "num_comments": 288
+    },
+    {
+      "title": "U.S. State Department pauses immigrant visa applications",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "points": 459,
+      "num_comments": 685
+    },
+    {
+      "title": "RAG Is Simpler Than You Think",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "points": 451,
+      "num_comments": 182
+    },
+    {
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "points": 425,
+      "num_comments": 142
+    },
+    {
+      "title": "Twitter Viewer – View Twitter Without Account",
+      "url": "https://twitterwebviewer.com/",
+      "points": 403,
+      "num_comments": 228
+    },
+    {
+      "title": "Nebula Sans",
+      "url": "https://www.nebulasans.com",
+      "points": 401,
+      "num_comments": 147
+    },
+    {
+      "title": "An ongoing 3D-printer AGPL violation",
+      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+      "points": 380,
+      "num_comments": 168
+    },
+    {
+      "title": "France reaches 94.9% fiber coverage in 2026",
+      "url": "https://cartefibre.arcep.fr",
+      "points": 303,
+      "num_comments": 231
+    },
+    {
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "points": 296,
+      "num_comments": 85
+    },
+    {
+      "title": "Omarchy development practices lead to predictable security issues",
+      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+      "points": 283,
+      "num_comments": 419
+    },
+    {
+      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+      "url": "https://farmaction.us/taylorfarmsreport/",
+      "points": 268,
+      "num_comments": 183
+    },
+    {
+      "title": "Disruption with Some GitHub Services – Resolved",
+      "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+      "points": 258,
+      "num_comments": 157
+    }
+  ],
+  "product_hunt": []
+}
