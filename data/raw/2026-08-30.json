@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-30",
+  "fetched_at": "2026-08-30T03:42:11.091Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "points": 475,
+      "num_comments": 441
+    },
+    {
+      "title": "The internet is kind of a predatory cesspit now",
+      "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
+      "points": 403,
+      "num_comments": 268
+    },
+    {
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+      "points": 344,
+      "num_comments": 58
+    },
+    {
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "points": 326,
+      "num_comments": 424
+    },
+    {
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "points": 284,
+      "num_comments": 67
+    },
+    {
+      "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+      "points": 273,
+      "num_comments": 144
+    },
+    {
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "points": 249,
+      "num_comments": 95
+    },
+    {
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "points": 223,
+      "num_comments": 133
+    },
+    {
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "points": 161,
+      "num_comments": 68
+    },
+    {
+      "title": "You Know GDPR Is Good Based on Who Hates It",
+      "url": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+      "points": 150,
+      "num_comments": 161
+    },
+    {
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "points": 147,
+      "num_comments": 68
+    },
+    {
+      "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+      "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "points": 133,
+      "num_comments": 122
+    },
+    {
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "url": "https://tucker.wales/writing/bias-towards-action/",
+      "points": 126,
+      "num_comments": 53
+    },
+    {
+      "title": "I co-founded Burning Man. The festival has lost its soul",
+      "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+      "points": 123,
+      "num_comments": 90
+    },
+    {
+      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "url": "https://defrag98.com",
+      "points": 105,
+      "num_comments": 60
+    },
+    {
+      "title": "vLLM v0.28.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "points": 102,
+      "num_comments": 33
+    },
+    {
+      "title": "Manifesto – who we are and what do we want (2002)",
+      "url": "https://www.inventati.org/who/manifesto",
+      "points": 101,
+      "num_comments": 56
+    },
+    {
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "points": 98,
+      "num_comments": 37
+    },
+    {
+      "title": "Quantifying Colour",
+      "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+      "points": 77,
+      "num_comments": 7
+    },
+    {
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "points": 70,
+      "num_comments": 45
+    }
+  ],
+  "product_hunt": []
+}
