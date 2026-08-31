@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-31",
+  "fetched_at": "2026-08-31T03:42:53.811Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "url": "https://0xcc.io/posts/omarchy-root-creds/",
+      "points": 455,
+      "num_comments": 427
+    },
+    {
+      "title": "“I just chose words carefully”",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "points": 388,
+      "num_comments": 99
+    },
+    {
+      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+      "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+      "points": 375,
+      "num_comments": 161
+    },
+    {
+      "title": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "points": 328,
+      "num_comments": 266
+    },
+    {
+      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+      "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+      "points": 276,
+      "num_comments": 324
+    },
+    {
+      "title": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "points": 274,
+      "num_comments": 187
+    },
+    {
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "points": 269,
+      "num_comments": 83
+    },
+    {
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "points": 264,
+      "num_comments": 189
+    },
+    {
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+      "points": 232,
+      "num_comments": 190
+    },
+    {
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "points": 213,
+      "num_comments": 84
+    },
+    {
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "points": 196,
+      "num_comments": 57
+    },
+    {
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "points": 188,
+      "num_comments": 207
+    },
+    {
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "url": "https://komoroske.com/slime-mold/",
+      "points": 137,
+      "num_comments": 45
+    },
+    {
+      "title": "The world may have less time than it thinks on climate change",
+      "url": "https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change",
+      "points": 111,
+      "num_comments": 136
+    },
+    {
+      "title": "Startup Anti-Patterns",
+      "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
+      "points": 100,
+      "num_comments": 55
+    },
+    {
+      "title": "Building my own network stack",
+      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+      "points": 96,
+      "num_comments": 83
+    },
+    {
+      "title": "Automating Immersive Reading",
+      "url": "https://smoores.dev/post/automating_immersive_reading/",
+      "points": 94,
+      "num_comments": 43
+    },
+    {
+      "title": "Zig: Pointer Stability for ArrayLists",
+      "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+      "points": 90,
+      "num_comments": 65
+    },
+    {
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "points": 87,
+      "num_comments": 13
+    },
+    {
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb",
+      "points": 83,
+      "num_comments": 34
+    }
+  ],
+  "product_hunt": []
+}
