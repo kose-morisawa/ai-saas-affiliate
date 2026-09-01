@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-01",
+  "fetched_at": "2026-09-01T03:37:29.724Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "points": 604,
+      "num_comments": 458
+    },
+    {
+      "title": "OpenShot 4.0 – Open-source video editor",
+      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "points": 542,
+      "num_comments": 127
+    },
+    {
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "points": 527,
+      "num_comments": 192
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "points": 388,
+      "num_comments": 98
+    },
+    {
+      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "points": 365,
+      "num_comments": 81
+    },
+    {
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "points": 352,
+      "num_comments": 113
+    },
+    {
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "points": 328,
+      "num_comments": 373
+    },
+    {
+      "title": "I think the military commissary's freezers were hacked",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "points": 274,
+      "num_comments": 156
+    },
+    {
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "points": 241,
+      "num_comments": 30
+    },
+    {
+      "title": "uv: Deduplicate all files in the wheel cache",
+      "url": "https://github.com/astral-sh/uv/pull/21327",
+      "points": 208,
+      "num_comments": 101
+    },
+    {
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "points": 193,
+      "num_comments": 52
+    },
+    {
+      "title": "A CVE Dispute",
+      "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+      "points": 186,
+      "num_comments": 44
+    },
+    {
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "url": "https://ravynos.com/",
+      "points": 179,
+      "num_comments": 104
+    },
+    {
+      "title": "Agent memory as a file format",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "points": 166,
+      "num_comments": 85
+    },
+    {
+      "title": "Konrad Zuse Museum shutting down due to lack of funding",
+      "url": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
+      "points": 151,
+      "num_comments": 75
+    },
+    {
+      "title": "ReactOS 0.4.16",
+      "url": "https://reactos.org/project-news/reactos-0416-released/",
+      "points": 150,
+      "num_comments": 39
+    },
+    {
+      "title": "OpenClaw 2.0, Accidentally",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "points": 145,
+      "num_comments": 171
+    },
+    {
+      "title": "Run macOS Software on Linux",
+      "url": "https://www.darlinghq.org/",
+      "points": 144,
+      "num_comments": 49
+    },
+    {
+      "title": "The safest job from AI may be writing",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "points": 119,
+      "num_comments": 166
+    },
+    {
+      "title": "Malleable software = solid bases and custom code",
+      "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+      "points": 97,
+      "num_comments": 30
+    }
+  ],
+  "product_hunt": []
+}
