@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-02",
+  "fetched_at": "2026-09-02T02:55:44.547Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "points": 971,
+      "num_comments": 908
+    },
+    {
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "points": 841,
+      "num_comments": 253
+    },
+    {
+      "title": "Hang on to Your Firefox",
+      "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "points": 645,
+      "num_comments": 343
+    },
+    {
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "points": 588,
+      "num_comments": 153
+    },
+    {
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "points": 474,
+      "num_comments": 201
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "points": 463,
+      "num_comments": 540
+    },
+    {
+      "title": "GPU World",
+      "url": "https://www.gpuworld.org/",
+      "points": 392,
+      "num_comments": 271
+    },
+    {
+      "title": "Restroom Archive",
+      "url": "https://restroomarchive.com",
+      "points": 365,
+      "num_comments": 83
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "points": 332,
+      "num_comments": 114
+    },
+    {
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "points": 259,
+      "num_comments": 120
+    },
+    {
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "points": 204,
+      "num_comments": 211
+    },
+    {
+      "title": "Ambient CSS v3 – Blender meets CSS",
+      "url": "https://ambientcss.vercel.app/",
+      "points": 202,
+      "num_comments": 68
+    },
+    {
+      "title": "The creator of Jujutsu has joined ERSC",
+      "url": "https://ersc.io/blog/martin-joins-ersc",
+      "points": 193,
+      "num_comments": 151
+    },
+    {
+      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "points": 180,
+      "num_comments": 132
+    },
+    {
+      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+      "url": "https://moviescenemap.com/",
+      "points": 163,
+      "num_comments": 28
+    },
+    {
+      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "points": 161,
+      "num_comments": 183
+    },
+    {
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "points": 159,
+      "num_comments": 40
+    },
+    {
+      "title": "Tim Cook Sold Out Steve Jobs (2025)",
+      "url": "https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/",
+      "points": 154,
+      "num_comments": 220
+    },
+    {
+      "title": "AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "points": 151,
+      "num_comments": 149
+    }
+  ],
+  "product_hunt": []
+}
