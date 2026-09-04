@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-04",
+  "fetched_at": "2026-09-04T02:57:59.719Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "points": 1426,
+      "num_comments": 392
+    },
+    {
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "points": 1394,
+      "num_comments": 1146
+    },
+    {
+      "title": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "points": 1066,
+      "num_comments": 236
+    },
+    {
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "url": "https://anyhumanever.com/",
+      "points": 482,
+      "num_comments": 247
+    },
+    {
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "points": 466,
+      "num_comments": 140
+    },
+    {
+      "title": "Pre-Release of Polars 2.0",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "points": 383,
+      "num_comments": 129
+    },
+    {
+      "title": "ChatGPT outage – Resolved",
+      "url": "https://chatgpt.com/",
+      "points": 361,
+      "num_comments": 317
+    },
+    {
+      "title": "Nvidia to acquire Hugging Face",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "points": 302,
+      "num_comments": 97
+    },
+    {
+      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+      "points": 290,
+      "num_comments": 197
+    },
+    {
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "points": 264,
+      "num_comments": 84
+    },
+    {
+      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+      "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+      "points": 252,
+      "num_comments": 195
+    },
+    {
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "points": 248,
+      "num_comments": 233
+    },
+    {
+      "title": "Mom gets 6-month suspended sentence for letting 5-year-old walk to the pond",
+      "url": "https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/",
+      "points": 234,
+      "num_comments": 250
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "points": 208,
+      "num_comments": 65
+    },
+    {
+      "title": "Claude outage – Resolved",
+      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "points": 204,
+      "num_comments": 150
+    },
+    {
+      "title": "VC isn't VC anymore",
+      "url": "https://www.anildash.com/2026/09/02/cancer-capital/",
+      "points": 180,
+      "num_comments": 2
+    },
+    {
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "points": 174,
+      "num_comments": 59
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "points": 173,
+      "num_comments": 103
+    },
+    {
+      "title": "Sony makes bold claim about game ownership",
+      "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
+      "points": 170,
+      "num_comments": 241
+    }
+  ],
+  "product_hunt": []
+}
