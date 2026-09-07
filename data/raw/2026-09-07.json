@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-07",
+  "fetched_at": "2026-09-07T02:57:01.424Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "QBittorrent breaks out of sandbox to commit crimes",
+      "url": "https://beige.party/@intransitivelie/117057396732763183",
+      "points": 1210,
+      "num_comments": 263
+    },
+    {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "points": 563,
+      "num_comments": 180
+    },
+    {
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "points": 557,
+      "num_comments": 366
+    },
+    {
+      "title": "A/I shuts down",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "points": 534,
+      "num_comments": 424
+    },
+    {
+      "title": "Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "points": 501,
+      "num_comments": 259
+    },
+    {
+      "title": "Doomscrolling ourselves to death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "points": 374,
+      "num_comments": 280
+    },
+    {
+      "title": "Asahi Linux on M3",
+      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "points": 367,
+      "num_comments": 213
+    },
+    {
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "points": 349,
+      "num_comments": 298
+    },
+    {
+      "title": "Following legal advice, the Nitter project will continue",
+      "url": "https://github.com/zedeus/nitter",
+      "points": 265,
+      "num_comments": 1
+    },
+    {
+      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+      "points": 221,
+      "num_comments": 168
+    },
+    {
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "points": 213,
+      "num_comments": 143
+    },
+    {
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "points": 161,
+      "num_comments": 95
+    },
+    {
+      "title": "How I feel about AI",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "points": 151,
+      "num_comments": 246
+    },
+    {
+      "title": "I changed my license",
+      "url": "https://bergie.iki.fi/blog/eupl/",
+      "points": 148,
+      "num_comments": 167
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "points": 125,
+      "num_comments": 79
+    },
+    {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "points": 117,
+      "num_comments": 46
+    },
+    {
+      "title": "Vancouver strip club's Instagram taken down over sign featuring lake joke",
+      "url": "https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993",
+      "points": 113,
+      "num_comments": 53
+    },
+    {
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "points": 113,
+      "num_comments": 10
+    },
+    {
+      "title": "Site Is Closed on Sundays",
+      "url": "https://v7.robweychert.com/",
+      "points": 99,
+      "num_comments": 123
+    },
+    {
+      "title": "The car industry A/B tested selling a car with and without CarPlay",
+      "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
+      "points": 99,
+      "num_comments": 110
+    }
+  ],
+  "product_hunt": []
+}
