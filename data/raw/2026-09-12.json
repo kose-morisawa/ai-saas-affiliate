@@ -1,0 +1,122 @@
+{
+  "date": "2026-09-12",
+  "fetched_at": "2026-09-12T03:10:40.408Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "points": 702,
+      "num_comments": 735
+    },
+    {
+      "title": "Claude is only available to people over 18 years",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "points": 589,
+      "num_comments": 609
+    },
+    {
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "points": 426,
+      "num_comments": 316
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "points": 408,
+      "num_comments": 238
+    },
+    {
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "points": 378,
+      "num_comments": 263
+    },
+    {
+      "title": "Houthis 'take control' of key island in global shipping route",
+      "url": "https://www.bbc.com/news/live/cmd683p01eljt",
+      "points": 368,
+      "num_comments": 651
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "points": 349,
+      "num_comments": 182
+    },
+    {
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "points": 321,
+      "num_comments": 295
+    },
+    {
+      "title": "HuggingFace: Security.txt",
+      "url": "https://huggingface.co/security.txt",
+      "points": 252,
+      "num_comments": 65
+    },
+    {
+      "title": "Measuring the sloppiness of code",
+      "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "points": 249,
+      "num_comments": 225
+    },
+    {
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "points": 216,
+      "num_comments": 133
+    },
+    {
+      "title": "Cherenkov Radiation",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "points": 215,
+      "num_comments": 98
+    },
+    {
+      "title": "Show HN: Hacker News, without AI",
+      "url": "https://hcker.news/?ai=exclude",
+      "points": 176,
+      "num_comments": 83
+    },
+    {
+      "title": "Show HN: Hacker News, Without AI",
+      "url": "https://www.unslop.news/",
+      "points": 175,
+      "num_comments": 76
+    },
+    {
+      "title": "Feeling Sad about AI",
+      "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+      "points": 168,
+      "num_comments": 275
+    },
+    {
+      "title": "Room 641A",
+      "url": "https://en.wikipedia.org/wiki/Room_641A",
+      "points": 160,
+      "num_comments": 56
+    },
+    {
+      "title": "Rune is now open source",
+      "url": "https://rune.build/blog/rune-is-now-open-source",
+      "points": 153,
+      "num_comments": 55
+    },
+    {
+      "title": "Global Glacier Extinction Explorer",
+      "url": "https://glacierextinction.com",
+      "points": 150,
+      "num_comments": 51
+    },
+    {
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "points": 148,
+      "num_comments": 76
+    }
+  ],
+  "product_hunt": []
+}
