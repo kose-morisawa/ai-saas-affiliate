@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-13",
+  "fetched_at": "2026-09-13T03:13:35.939Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "google.com/goto: Google's anti-scraping update",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "points": 635,
+      "num_comments": 492
+    },
+    {
+      "title": "We must pace the frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "points": 571,
+      "num_comments": 799
+    },
+    {
+      "title": "Fuck it, make it anyway",
+      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "points": 551,
+      "num_comments": 555
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "points": 412,
+      "num_comments": 280
+    },
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "points": 357,
+      "num_comments": 83
+    },
+    {
+      "title": "Navier-Stokes Announcement",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "points": 318,
+      "num_comments": 259
+    },
+    {
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "points": 275,
+      "num_comments": 93
+    },
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "points": 225,
+      "num_comments": 32
+    },
+    {
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "points": 212,
+      "num_comments": 66
+    },
+    {
+      "title": "LG Says We're Fake News [video]",
+      "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "points": 190,
+      "num_comments": 88
+    },
+    {
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "points": 184,
+      "num_comments": 78
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "points": 143,
+      "num_comments": 70
+    },
+    {
+      "title": "Usenet rewind archive search engine",
+      "url": "https://www.usenet-rewind.com/",
+      "points": 126,
+      "num_comments": 37
+    },
+    {
+      "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+      "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
+      "points": 123,
+      "num_comments": 34
+    },
+    {
+      "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
+      "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
+      "points": 117,
+      "num_comments": 197
+    },
+    {
+      "title": "The worst spam emails: iLands AI agent hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "points": 110,
+      "num_comments": 51
+    },
+    {
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "url": "https://lalitm.com/post/buildprof/",
+      "points": 104,
+      "num_comments": 21
+    },
+    {
+      "title": "LG responds to TV spying allegations",
+      "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+      "points": 102,
+      "num_comments": 1
+    },
+    {
+      "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
+      "url": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
+      "points": 99,
+      "num_comments": 48
+    },
+    {
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "points": 93,
+      "num_comments": 26
+    }
+  ],
+  "product_hunt": []
+}
