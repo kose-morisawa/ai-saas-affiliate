@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-15",
+  "fetched_at": "2026-09-15T03:27:25.855Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "points": 544,
+      "num_comments": 419
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "points": 498,
+      "num_comments": 796
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "points": 438,
+      "num_comments": 489
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "points": 390,
+      "num_comments": 331
+    },
+    {
+      "title": "Dario, Please",
+      "url": "https://pop.rdi.sh/dario-please/",
+      "points": 319,
+      "num_comments": 156
+    },
+    {
+      "title": "How to write an effective software design document",
+      "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "points": 312,
+      "num_comments": 130
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "points": 311,
+      "num_comments": 344
+    },
+    {
+      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "url": "https://xcancel.com/twitter",
+      "points": 271,
+      "num_comments": 1
+    },
+    {
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "points": 248,
+      "num_comments": 56
+    },
+    {
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "points": 219,
+      "num_comments": 155
+    },
+    {
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "points": 218,
+      "num_comments": 63
+    },
+    {
+      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+      "points": 214,
+      "num_comments": 134
+    },
+    {
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "points": 206,
+      "num_comments": 79
+    },
+    {
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "points": 180,
+      "num_comments": 185
+    },
+    {
+      "title": "A Beginning for Mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "points": 177,
+      "num_comments": 104
+    },
+    {
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "points": 174,
+      "num_comments": 44
+    },
+    {
+      "title": "How my e-reader lost its stripes",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "points": 163,
+      "num_comments": 25
+    },
+    {
+      "title": "Oracle’s 6am layoff emails hit staff amid new wave of cuts",
+      "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+      "points": 159,
+      "num_comments": 142
+    },
+    {
+      "title": "New $100k H-1B visa fee pushes tech jobs offshore",
+      "url": "https://spectrum.ieee.org/h-1b-visa-us-government",
+      "points": 157,
+      "num_comments": 346
+    },
+    {
+      "title": "Texas judge rules TikTok misled users on child safety feature",
+      "url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
+      "points": 152,
+      "num_comments": 85
+    }
+  ],
+  "product_hunt": []
+}
