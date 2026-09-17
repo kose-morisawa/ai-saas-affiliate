@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-17",
+  "fetched_at": "2026-09-17T03:29:01.082Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "EU chief opens door for Canada to become 'associate member'",
+      "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+      "points": 652,
+      "num_comments": 828
+    },
+    {
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "points": 542,
+      "num_comments": 188
+    },
+    {
+      "title": "Hackers Got Inside a Flock Camera",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "points": 487,
+      "num_comments": 229
+    },
+    {
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "points": 433,
+      "num_comments": 90
+    },
+    {
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "points": 424,
+      "num_comments": 189
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "points": 383,
+      "num_comments": 147
+    },
+    {
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "url": "https://gultsch.social/@daniel/117280438824908947",
+      "points": 343,
+      "num_comments": 331
+    },
+    {
+      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
+      "points": 306,
+      "num_comments": 212
+    },
+    {
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "points": 300,
+      "num_comments": 80
+    },
+    {
+      "title": "Salesforce Global Outage",
+      "url": "https://status.salesforce.com/products/all",
+      "points": 266,
+      "num_comments": 168
+    },
+    {
+      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+      "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+      "points": 265,
+      "num_comments": 77
+    },
+    {
+      "title": "Learning Programming in an Age of LLMs",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "points": 234,
+      "num_comments": 175
+    },
+    {
+      "title": "A warning about 'model welfare'",
+      "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+      "points": 206,
+      "num_comments": 538
+    },
+    {
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "points": 206,
+      "num_comments": 212
+    },
+    {
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "url": "https://arxiv.org/abs/2609.14858",
+      "points": 184,
+      "num_comments": 49
+    },
+    {
+      "title": "Australia says it could follow Canada in forging deeper ties with EU",
+      "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+      "points": 183,
+      "num_comments": 130
+    },
+    {
+      "title": "Vectorized and performance-portable Quicksort (2022)",
+      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "points": 166,
+      "num_comments": 27
+    },
+    {
+      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+      "points": 160,
+      "num_comments": 66
+    },
+    {
+      "title": "Fed hikes rates as inflation worries push up bond yields",
+      "url": "https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/",
+      "points": 158,
+      "num_comments": 193
+    },
+    {
+      "title": "The DeepMind Institute",
+      "url": "https://institute.deepmind.com/",
+      "points": 155,
+      "num_comments": 50
+    }
+  ],
+  "product_hunt": []
+}
