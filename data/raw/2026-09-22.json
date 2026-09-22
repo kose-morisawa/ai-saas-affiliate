@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-22",
+  "fetched_at": "2026-09-22T03:22:11.214Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "points": 611,
+      "num_comments": 184
+    },
+    {
+      "title": "Xiaomi MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "points": 608,
+      "num_comments": 307
+    },
+    {
+      "title": "ZuckOff Know when a camera is in the room",
+      "url": "https://zuckoff.app/",
+      "points": 590,
+      "num_comments": 3
+    },
+    {
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "points": 521,
+      "num_comments": 307
+    },
+    {
+      "title": "Grok 4.7",
+      "url": "https://x.ai/news/grok-4-7",
+      "points": 517,
+      "num_comments": 434
+    },
+    {
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "points": 488,
+      "num_comments": 346
+    },
+    {
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "points": 412,
+      "num_comments": 188
+    },
+    {
+      "title": "ZuckOff is a free app that sees Meta glasses before they see you",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "points": 374,
+      "num_comments": 333
+    },
+    {
+      "title": "Fable 5 – Median thinking declined in August",
+      "url": "https://twitter.com/Lon/status/2101793422487204027",
+      "points": 370,
+      "num_comments": 259
+    },
+    {
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "points": 365,
+      "num_comments": 93
+    },
+    {
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "points": 357,
+      "num_comments": 125
+    },
+    {
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "points": 325,
+      "num_comments": 262
+    },
+    {
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "points": 256,
+      "num_comments": 57
+    },
+    {
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "points": 255,
+      "num_comments": 171
+    },
+    {
+      "title": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "points": 243,
+      "num_comments": 102
+    },
+    {
+      "title": "M5 Ultra Mac Studio Review",
+      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "points": 232,
+      "num_comments": 235
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "points": 230,
+      "num_comments": 38
+    },
+    {
+      "title": "Raspberry Pi blocks changing RAM chips",
+      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "points": 228,
+      "num_comments": 182
+    },
+    {
+      "title": "Jev-Leftpad",
+      "url": "https://github.com/f/jev-leftpad",
+      "points": 228,
+      "num_comments": 87
+    },
+    {
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "points": 215,
+      "num_comments": 105
+    }
+  ],
+  "product_hunt": []
+}
