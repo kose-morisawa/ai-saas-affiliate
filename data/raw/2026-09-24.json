@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-24",
+  "fetched_at": "2026-09-24T03:12:34.574Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Jev in 25 Lines of Python",
+      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "points": 634,
+      "num_comments": 197
+    },
+    {
+      "title": "Italian parliament votes for return to nuclear energy",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "points": 616,
+      "num_comments": 399
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "points": 538,
+      "num_comments": 567
+    },
+    {
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "points": 456,
+      "num_comments": 260
+    },
+    {
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "points": 386,
+      "num_comments": 91
+    },
+    {
+      "title": "I don't want the details",
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "points": 370,
+      "num_comments": 200
+    },
+    {
+      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+      "points": 360,
+      "num_comments": 99
+    },
+    {
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "points": 319,
+      "num_comments": 201
+    },
+    {
+      "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
+      "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+      "points": 294,
+      "num_comments": 143
+    },
+    {
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "url": "https://drivingbench.com/",
+      "points": 275,
+      "num_comments": 222
+    },
+    {
+      "title": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
+      "points": 270,
+      "num_comments": 240
+    },
+    {
+      "title": "The darker side of being a doctor",
+      "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
+      "points": 265,
+      "num_comments": 305
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "points": 262,
+      "num_comments": 124
+    },
+    {
+      "title": "Tokens too cheap to meter",
+      "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "points": 248,
+      "num_comments": 184
+    },
+    {
+      "title": "Why is Hacker News like that?",
+      "url": "https://drewdevault.com/blog/Why-is-HN-like-that/",
+      "points": 248,
+      "num_comments": 136
+    },
+    {
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "points": 244,
+      "num_comments": 306
+    },
+    {
+      "title": "I am done with this shit",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/",
+      "points": 237,
+      "num_comments": 186
+    },
+    {
+      "title": "Samsung accidentally freezes its smart fridges with a software update",
+      "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+      "points": 230,
+      "num_comments": 259
+    },
+    {
+      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "points": 208,
+      "num_comments": 204
+    },
+    {
+      "title": "Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting",
+      "url": "https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/",
+      "points": 199,
+      "num_comments": 240
+    }
+  ],
+  "product_hunt": []
+}
