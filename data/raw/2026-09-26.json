@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-26",
+  "fetched_at": "2026-09-26T03:35:25.667Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "url": "https://www.dawo.community/en/",
+      "points": 936,
+      "num_comments": 544
+    },
+    {
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "points": 408,
+      "num_comments": 717
+    },
+    {
+      "title": "Platform-independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
+      "points": 369,
+      "num_comments": 136
+    },
+    {
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "points": 361,
+      "num_comments": 103
+    },
+    {
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "url": "https://github.com/git-bug/git-bug",
+      "points": 322,
+      "num_comments": 106
+    },
+    {
+      "title": "Factorio that you can touch",
+      "url": "https://factorio.com/blog/post/fff-447",
+      "points": 319,
+      "num_comments": 106
+    },
+    {
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "points": 272,
+      "num_comments": 166
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "points": 265,
+      "num_comments": 117
+    },
+    {
+      "title": "Goodbye Google",
+      "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "points": 249,
+      "num_comments": 307
+    },
+    {
+      "title": "Ink and Switch interactive homepage",
+      "url": "https://www.inkandswitch.com/",
+      "points": 233,
+      "num_comments": 25
+    },
+    {
+      "title": "First Principles Thinking",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "points": 231,
+      "num_comments": 102
+    },
+    {
+      "title": "Allow babywearing carriers on planes",
+      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+      "points": 195,
+      "num_comments": 259
+    },
+    {
+      "title": "The Mafia may be keeping fentanyl out of Italy",
+      "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+      "points": 194,
+      "num_comments": 256
+    },
+    {
+      "title": "Classified estimates show the NSA is paying billions to test AI models",
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "points": 170,
+      "num_comments": 101
+    },
+    {
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "points": 168,
+      "num_comments": 72
+    },
+    {
+      "title": "The Test",
+      "url": "https://tante.cc/2026/09/24/the-test/",
+      "points": 159,
+      "num_comments": 86
+    },
+    {
+      "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+      "url": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+      "points": 151,
+      "num_comments": 142
+    },
+    {
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "points": 148,
+      "num_comments": 150
+    },
+    {
+      "title": "How we learned to stop worrying and love campus surveillance",
+      "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+      "points": 140,
+      "num_comments": 85
+    },
+    {
+      "title": "I'm tired of being on the network",
+      "url": "https://matduggan.com/im-tired-of-being-on-the-network/",
+      "points": 139,
+      "num_comments": 155
+    }
+  ],
+  "product_hunt": []
+}
