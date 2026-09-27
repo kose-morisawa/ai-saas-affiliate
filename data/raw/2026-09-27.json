@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-27",
+  "fetched_at": "2026-09-27T03:44:04.087Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "points": 650,
+      "num_comments": 260
+    },
+    {
+      "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+      "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+      "points": 471,
+      "num_comments": 190
+    },
+    {
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "points": 359,
+      "num_comments": 92
+    },
+    {
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "points": 212,
+      "num_comments": 60
+    },
+    {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "points": 181,
+      "num_comments": 56
+    },
+    {
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "points": 177,
+      "num_comments": 339
+    },
+    {
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "points": 173,
+      "num_comments": 223
+    },
+    {
+      "title": "One Month Without AI",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "points": 170,
+      "num_comments": 217
+    },
+    {
+      "title": "Floci: Locally emulating any cloud service",
+      "url": "https://floci.io",
+      "points": 165,
+      "num_comments": 38
+    },
+    {
+      "title": "Japan moves to tighten rules for foreigners",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+      "points": 142,
+      "num_comments": 418
+    },
+    {
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "points": 134,
+      "num_comments": 42
+    },
+    {
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "points": 126,
+      "num_comments": 166
+    },
+    {
+      "title": "Is your Postgres migration safe or not safe?",
+      "url": "https://safenotsafe.dev/",
+      "points": 119,
+      "num_comments": 43
+    },
+    {
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "points": 119,
+      "num_comments": 33
+    },
+    {
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+      "points": 109,
+      "num_comments": 111
+    },
+    {
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "points": 108,
+      "num_comments": 167
+    },
+    {
+      "title": "The Copilot+ PC brand is dead",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "points": 102,
+      "num_comments": 65
+    },
+    {
+      "title": "CEO of Mistral: AI is software. It can be controlled",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+      "points": 88,
+      "num_comments": 157
+    },
+    {
+      "title": "CAPTCHAs don't prove you're human – they prove you're American (2017)",
+      "url": "https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/",
+      "points": 88,
+      "num_comments": 85
+    },
+    {
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "points": 72,
+      "num_comments": 53
+    }
+  ],
+  "product_hunt": []
+}
