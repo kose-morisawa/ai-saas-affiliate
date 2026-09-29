@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-29",
+  "fetched_at": "2026-09-29T04:18:12.154Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "points": 653,
+      "num_comments": 440
+    },
+    {
+      "title": "Coding is not solved",
+      "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+      "points": 461,
+      "num_comments": 463
+    },
+    {
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "points": 460,
+      "num_comments": 238
+    },
+    {
+      "title": "Windows 11½",
+      "url": "https://definitelynotwindows.com/",
+      "points": 445,
+      "num_comments": 140
+    },
+    {
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+      "points": 427,
+      "num_comments": 385
+    },
+    {
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "points": 365,
+      "num_comments": 144
+    },
+    {
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "points": 355,
+      "num_comments": 226
+    },
+    {
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "points": 355,
+      "num_comments": 133
+    },
+    {
+      "title": "MongoDB CEO resigns to join Meta",
+      "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+      "points": 333,
+      "num_comments": 271
+    },
+    {
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "url": "https://www.thisamericanlife.org/897/transcript",
+      "points": 330,
+      "num_comments": 194
+    },
+    {
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "url": "https://git.mills.io/prologic/parley",
+      "points": 310,
+      "num_comments": 172
+    },
+    {
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+      "points": 309,
+      "num_comments": 171
+    },
+    {
+      "title": "SpaceX's Starship launching to orbit for first time ever today",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+      "points": 294,
+      "num_comments": 336
+    },
+    {
+      "title": "World Labs Is Joining AMD",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "points": 230,
+      "num_comments": 89
+    },
+    {
+      "title": "So long Google, and thanks for all the nudes",
+      "url": "https://lecaro.me/20260921-google-less.html",
+      "points": 221,
+      "num_comments": 86
+    },
+    {
+      "title": "Hijacking the PS5's RTMP stream",
+      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "points": 219,
+      "num_comments": 69
+    },
+    {
+      "title": "Prompting Claude Opus 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "points": 200,
+      "num_comments": 220
+    },
+    {
+      "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+      "url": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+      "points": 179,
+      "num_comments": 86
+    },
+    {
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "points": 170,
+      "num_comments": 68
+    },
+    {
+      "title": "37,500 border drawings: a map of the world as people remember it",
+      "url": "https://www.habibicode.org/thedrawnworld",
+      "points": 169,
+      "num_comments": 31
+    }
+  ],
+  "product_hunt": []
+}
