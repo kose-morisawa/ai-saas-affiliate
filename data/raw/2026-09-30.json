@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-30",
+  "fetched_at": "2026-09-30T04:02:11.495Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "points": 831,
+      "num_comments": 758
+    },
+    {
+      "title": "Everybody’s home. No one’s coming over",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "points": 764,
+      "num_comments": 684
+    },
+    {
+      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "points": 532,
+      "num_comments": 383
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "points": 483,
+      "num_comments": 363
+    },
+    {
+      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+      "points": 477,
+      "num_comments": 291
+    },
+    {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "points": 462,
+      "num_comments": 268
+    },
+    {
+      "title": "macOS Golden Gate Is a Buggy Mess",
+      "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+      "points": 444,
+      "num_comments": 318
+    },
+    {
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "points": 436,
+      "num_comments": 347
+    },
+    {
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "points": 412,
+      "num_comments": 130
+    },
+    {
+      "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+      "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+      "points": 368,
+      "num_comments": 364
+    },
+    {
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "points": 344,
+      "num_comments": 147
+    },
+    {
+      "title": "PS5 Relapse Exploit",
+      "url": "https://github.com/ntfargo/Relapse-Exploit",
+      "points": 258,
+      "num_comments": 142
+    },
+    {
+      "title": "Tcl/Tk 9.1",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "points": 254,
+      "num_comments": 92
+    },
+    {
+      "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+      "url": "https://www.cbc.ca/lite/story/9.7361622",
+      "points": 244,
+      "num_comments": 129
+    },
+    {
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "points": 232,
+      "num_comments": 89
+    },
+    {
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "points": 200,
+      "num_comments": 197
+    },
+    {
+      "title": "AI needs $6T in annual revenue to justify data centre boom",
+      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+      "points": 197,
+      "num_comments": 287
+    },
+    {
+      "title": "ChatGPT Pro 500",
+      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "points": 194,
+      "num_comments": 226
+    },
+    {
+      "title": "Google ending ChromeOS support two years early",
+      "url": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+      "points": 192,
+      "num_comments": 131
+    },
+    {
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "points": 188,
+      "num_comments": 114
+    }
+  ],
+  "product_hunt": []
+}
