@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-01",
+  "fetched_at": "2026-10-01T04:13:42.527Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "points": 1111,
+      "num_comments": 741
+    },
+    {
+      "title": "You said no MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "points": 619,
+      "num_comments": 348
+    },
+    {
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "points": 487,
+      "num_comments": 367
+    },
+    {
+      "title": "The AI Race Just Got Awkward",
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "points": 379,
+      "num_comments": 417
+    },
+    {
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "points": 268,
+      "num_comments": 200
+    },
+    {
+      "title": "Why Is Sam Altman a Free Man?",
+      "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
+      "points": 249,
+      "num_comments": 219
+    },
+    {
+      "title": "A brief history of the Bloomberg terminal",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "points": 238,
+      "num_comments": 97
+    },
+    {
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+      "points": 204,
+      "num_comments": 190
+    },
+    {
+      "title": "The last time my family was replaced by technology",
+      "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+      "points": 196,
+      "num_comments": 445
+    },
+    {
+      "title": "EDG C++ front-end goes public",
+      "url": "https://edgcpp.org/#transition",
+      "points": 173,
+      "num_comments": 79
+    },
+    {
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "url": "https://www.thespacereview.com/article/4951/1",
+      "points": 160,
+      "num_comments": 67
+    },
+    {
+      "title": "What TLA+ can and can't check",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "points": 156,
+      "num_comments": 34
+    },
+    {
+      "title": "Tesla takes on $30B in credit as it approaches unprofitability",
+      "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
+      "points": 151,
+      "num_comments": 212
+    },
+    {
+      "title": "LinkedIn Larpmaxxing",
+      "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+      "points": 145,
+      "num_comments": 154
+    },
+    {
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "points": 140,
+      "num_comments": 53
+    },
+    {
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "points": 140,
+      "num_comments": 48
+    },
+    {
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "points": 135,
+      "num_comments": 61
+    },
+    {
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "points": 135,
+      "num_comments": 51
+    },
+    {
+      "title": "America.gov goes crazy on \"play Minecraft\"",
+      "url": "https://america.gov/chat",
+      "points": 112,
+      "num_comments": 46
+    },
+    {
+      "title": "Commit description as a thinking tool",
+      "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+      "points": 108,
+      "num_comments": 62
+    }
+  ],
+  "product_hunt": []
+}
