@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-02",
+  "fetched_at": "2026-10-02T04:07:10.763Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "points": 882,
+      "num_comments": 295
+    },
+    {
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "points": 533,
+      "num_comments": 137
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "points": 459,
+      "num_comments": 167
+    },
+    {
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "points": 361,
+      "num_comments": 330
+    },
+    {
+      "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+      "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+      "points": 344,
+      "num_comments": 155
+    },
+    {
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "points": 338,
+      "num_comments": 391
+    },
+    {
+      "title": "Fuck Android Developer Verification Program",
+      "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
+      "points": 312,
+      "num_comments": 131
+    },
+    {
+      "title": "RIP, vector database",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "points": 291,
+      "num_comments": 78
+    },
+    {
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "points": 276,
+      "num_comments": 34
+    },
+    {
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "points": 262,
+      "num_comments": 264
+    },
+    {
+      "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "points": 249,
+      "num_comments": 235
+    },
+    {
+      "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+      "points": 248,
+      "num_comments": 203
+    },
+    {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "points": 236,
+      "num_comments": 121
+    },
+    {
+      "title": "Cloudflare K2: serverless event streams",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "points": 212,
+      "num_comments": 87
+    },
+    {
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "points": 200,
+      "num_comments": 150
+    },
+    {
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "points": 184,
+      "num_comments": 29
+    },
+    {
+      "title": "Red Hat being phased out of existence?",
+      "url": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
+      "points": 183,
+      "num_comments": 103
+    },
+    {
+      "title": "The death of web development education",
+      "url": "https://molily.de/web-dev-education/",
+      "points": 182,
+      "num_comments": 136
+    },
+    {
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "points": 174,
+      "num_comments": 102
+    },
+    {
+      "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+      "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+      "points": 174,
+      "num_comments": 99
+    }
+  ],
+  "product_hunt": []
+}
