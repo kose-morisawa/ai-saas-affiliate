@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-03",
+  "fetched_at": "2026-10-03T03:50:32.049Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Apple Pass Designer",
+      "url": "https://developer.apple.com/pass-designer/",
+      "points": 347,
+      "num_comments": 225
+    },
+    {
+      "title": "Shimano Bicycle Museum Review",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "points": 285,
+      "num_comments": 74
+    },
+    {
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "points": 256,
+      "num_comments": 142
+    },
+    {
+      "title": "Zig v0.17.0",
+      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "points": 223,
+      "num_comments": 149
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "points": 222,
+      "num_comments": 50
+    },
+    {
+      "title": "Big Tech ruined the cloud, so we're renaming ours",
+      "url": "https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/",
+      "points": 205,
+      "num_comments": 101
+    },
+    {
+      "title": "ICC judge on what U.S. sanctions mean for her and global courts",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+      "points": 200,
+      "num_comments": 144
+    },
+    {
+      "title": "Supabase is acquiring Turso",
+      "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
+      "points": 196,
+      "num_comments": 103
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "points": 193,
+      "num_comments": 93
+    },
+    {
+      "title": "AI Makes Me Sad",
+      "url": "https://mondobe.com/ai-makes-me-sad",
+      "points": 181,
+      "num_comments": 219
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "points": 177,
+      "num_comments": 45
+    },
+    {
+      "title": "On social reality in China",
+      "url": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+      "points": 166,
+      "num_comments": 161
+    },
+    {
+      "title": "Muse Gadgets",
+      "url": "https://gadgets.muse.ai",
+      "points": 152,
+      "num_comments": 73
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "points": 146,
+      "num_comments": 64
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "points": 145,
+      "num_comments": 87
+    },
+    {
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "url": "https://github.com/kvoltmer/Audionaut",
+      "points": 132,
+      "num_comments": 46
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "points": 128,
+      "num_comments": 101
+    },
+    {
+      "title": "Every SaaS business will become a harness around a model",
+      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+      "points": 115,
+      "num_comments": 84
+    },
+    {
+      "title": "Things that apparently cause cancer",
+      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "points": 115,
+      "num_comments": 50
+    },
+    {
+      "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+      "url": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
+      "points": 107,
+      "num_comments": 41
+    }
+  ],
+  "product_hunt": []
+}
