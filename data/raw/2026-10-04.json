@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-04",
+  "fetched_at": "2026-10-04T04:22:06.973Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "points": 546,
+      "num_comments": 308
+    },
+    {
+      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "points": 410,
+      "num_comments": 11
+    },
+    {
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "points": 368,
+      "num_comments": 214
+    },
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "points": 278,
+      "num_comments": 151
+    },
+    {
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "points": 253,
+      "num_comments": 62
+    },
+    {
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "points": 240,
+      "num_comments": 197
+    },
+    {
+      "title": "ADHD, autism or complex trauma? [pdf]",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
+      "points": 207,
+      "num_comments": 221
+    },
+    {
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "points": 188,
+      "num_comments": 130
+    },
+    {
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "points": 185,
+      "num_comments": 21
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "url": "https://blog.kagi.com/update-orion-linux-windows",
+      "points": 179,
+      "num_comments": 107
+    },
+    {
+      "title": "FTL: A new operating system for clouds",
+      "url": "https://ftl-os.org/",
+      "points": 156,
+      "num_comments": 63
+    },
+    {
+      "title": "The Escalation of War in Ethiopia",
+      "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+      "points": 145,
+      "num_comments": 157
+    },
+    {
+      "title": "City building games have a Soul Problem pt.2",
+      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+      "points": 128,
+      "num_comments": 125
+    },
+    {
+      "title": "Reasons I didn't become an EMT, ranked",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "points": 122,
+      "num_comments": 59
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "points": 120,
+      "num_comments": 60
+    },
+    {
+      "title": "I Quit OpenAI Because Its Culture Is Broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+      "points": 113,
+      "num_comments": 156
+    },
+    {
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "points": 111,
+      "num_comments": 104
+    },
+    {
+      "title": "Kolibri – Tech Report [pdf]",
+      "url": "https://aleph-alpha.com/downloads/tech-report.pdf",
+      "points": 109,
+      "num_comments": 5
+    },
+    {
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+      "points": 97,
+      "num_comments": 150
+    }
+  ],
+  "product_hunt": []
+}
