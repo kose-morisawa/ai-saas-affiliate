@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-07",
+  "fetched_at": "2026-10-07T04:22:49.932Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "points": 1636,
+      "num_comments": 982
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "points": 589,
+      "num_comments": 529
+    },
+    {
+      "title": "JetBrains reports revenue growth, net financial loss for 2025",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "points": 575,
+      "num_comments": 537
+    },
+    {
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "points": 540,
+      "num_comments": 188
+    },
+    {
+      "title": "Mistral Large 4: \"Le Chonk\"",
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "points": 518,
+      "num_comments": 5
+    },
+    {
+      "title": "Polars 2.0",
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "points": 423,
+      "num_comments": 97
+    },
+    {
+      "title": "Meta’s Muse is an adorable privacy and security dumpster fire",
+      "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+      "points": 368,
+      "num_comments": 260
+    },
+    {
+      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "points": 322,
+      "num_comments": 157
+    },
+    {
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "points": 300,
+      "num_comments": 128
+    },
+    {
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "points": 257,
+      "num_comments": 31
+    },
+    {
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "points": 254,
+      "num_comments": 312
+    },
+    {
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "points": 202,
+      "num_comments": 331
+    },
+    {
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "points": 188,
+      "num_comments": 83
+    },
+    {
+      "title": "Vibecoding isn't as fun as writing code by hand",
+      "url": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
+      "points": 180,
+      "num_comments": 258
+    },
+    {
+      "title": "What's Earth's dominant species by mass?",
+      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
+      "points": 180,
+      "num_comments": 122
+    },
+    {
+      "title": "I'm the AGI that's wiping out humanity",
+      "url": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
+      "points": 162,
+      "num_comments": 105
+    },
+    {
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "points": 152,
+      "num_comments": 117
+    },
+    {
+      "title": "First enhanced geothermal power plant completed in just 23 months",
+      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "points": 151,
+      "num_comments": 69
+    },
+    {
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "points": 138,
+      "num_comments": 73
+    },
+    {
+      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "points": 127,
+      "num_comments": 61
+    }
+  ],
+  "product_hunt": []
+}
