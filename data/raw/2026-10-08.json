@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-08",
+  "fetched_at": "2026-10-08T04:34:12.200Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "points": 1026,
+      "num_comments": 116
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "points": 756,
+      "num_comments": 378
+    },
+    {
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "points": 546,
+      "num_comments": 282
+    },
+    {
+      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+      "points": 513,
+      "num_comments": 369
+    },
+    {
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "points": 509,
+      "num_comments": 345
+    },
+    {
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/",
+      "points": 416,
+      "num_comments": 121
+    },
+    {
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "points": 385,
+      "num_comments": 64
+    },
+    {
+      "title": "Animated ASCII Art for Web Pages",
+      "url": "https://ascii.rest/",
+      "points": 318,
+      "num_comments": 59
+    },
+    {
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "points": 311,
+      "num_comments": 299
+    },
+    {
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "points": 295,
+      "num_comments": 55
+    },
+    {
+      "title": "Navier–Stokes Lost in Translation",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "points": 276,
+      "num_comments": 170
+    },
+    {
+      "title": "Anti-patterns in software blogging",
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "points": 227,
+      "num_comments": 126
+    },
+    {
+      "title": "Incident with Git Operations, Pull Requests and Actions – Resolved",
+      "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
+      "points": 224,
+      "num_comments": 176
+    },
+    {
+      "title": "Docker Agent",
+      "url": "https://github.com/docker/docker-agent",
+      "points": 201,
+      "num_comments": 91
+    },
+    {
+      "title": "The Mathocalypse",
+      "url": "https://scottaaronson.blog/?p=10169",
+      "points": 191,
+      "num_comments": 227
+    },
+    {
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+      "points": 182,
+      "num_comments": 169
+    },
+    {
+      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+      "url": "https://github.com/snuri00/psp-web-recomp",
+      "points": 175,
+      "num_comments": 95
+    },
+    {
+      "title": "Across the Globe, People Increasingly Say Social Media Is Harming Democracy",
+      "url": "https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/",
+      "points": 148,
+      "num_comments": 110
+    },
+    {
+      "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
+      "url": "https://artmuseum.artfrompixels.com/",
+      "points": 146,
+      "num_comments": 61
+    },
+    {
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "points": 137,
+      "num_comments": 49
+    }
+  ],
+  "product_hunt": []
+}
