@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-10",
+  "fetched_at": "2026-10-10T04:23:30.334Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare",
+      "points": 1116,
+      "num_comments": 574
+    },
+    {
+      "title": "Sorry, I'm in a meeting",
+      "url": "https://iminafleeting.com/",
+      "points": 811,
+      "num_comments": 246
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "points": 758,
+      "num_comments": 152
+    },
+    {
+      "title": "Our $445M Series D",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "points": 621,
+      "num_comments": 284
+    },
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "points": 482,
+      "num_comments": 270
+    },
+    {
+      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+      "url": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
+      "points": 469,
+      "num_comments": 461
+    },
+    {
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "points": 454,
+      "num_comments": 233
+    },
+    {
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "points": 389,
+      "num_comments": 171
+    },
+    {
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "points": 323,
+      "num_comments": 205
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "points": 303,
+      "num_comments": 227
+    },
+    {
+      "title": "Python 3.15",
+      "url": "https://www.python.org/downloads/release/python-3150/",
+      "points": 291,
+      "num_comments": 93
+    },
+    {
+      "title": "No Man Is an Island",
+      "url": "https://borretti.me/article/no-man-is-an-island",
+      "points": 269,
+      "num_comments": 179
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "points": 240,
+      "num_comments": 31
+    },
+    {
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "url": "https://quake-srp.pages.dev/",
+      "points": 225,
+      "num_comments": 175
+    },
+    {
+      "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
+      "url": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+      "points": 208,
+      "num_comments": 290
+    },
+    {
+      "title": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
+      "points": 197,
+      "num_comments": 57
+    },
+    {
+      "title": "MXC - a sandboxed code execution system",
+      "url": "https://github.com/microsoft/mxc",
+      "points": 186,
+      "num_comments": 83
+    },
+    {
+      "title": "Programming Isn't Special",
+      "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+      "points": 185,
+      "num_comments": 210
+    },
+    {
+      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+      "url": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+      "points": 185,
+      "num_comments": 102
+    },
+    {
+      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+      "points": 180,
+      "num_comments": 163
+    }
+  ],
+  "product_hunt": []
+}
