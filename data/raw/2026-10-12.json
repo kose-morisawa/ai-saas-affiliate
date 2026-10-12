@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-12",
+  "fetched_at": "2026-10-12T04:23:38.402Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Bot traffic from Yandex",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "points": 593,
+      "num_comments": 239
+    },
+    {
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "points": 561,
+      "num_comments": 685
+    },
+    {
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "url": "https://nitter.net",
+      "points": 425,
+      "num_comments": 229
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "points": 419,
+      "num_comments": 178
+    },
+    {
+      "title": "LineageOS 24",
+      "url": "https://lineageos.org/Changelog-32/",
+      "points": 414,
+      "num_comments": 170
+    },
+    {
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "points": 397,
+      "num_comments": 196
+    },
+    {
+      "title": "Documents add to evidence in climate deception case against ExxonMobil",
+      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "points": 392,
+      "num_comments": 213
+    },
+    {
+      "title": "Passkeys are a trap",
+      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "points": 390,
+      "num_comments": 216
+    },
+    {
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "points": 378,
+      "num_comments": 190
+    },
+    {
+      "title": "IRCv3",
+      "url": "https://ircv3.net/",
+      "points": 367,
+      "num_comments": 309
+    },
+    {
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "points": 347,
+      "num_comments": 395
+    },
+    {
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "points": 338,
+      "num_comments": 154
+    },
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "points": 320,
+      "num_comments": 493
+    },
+    {
+      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "url": "https://theonion.com/archivehunt/",
+      "points": 279,
+      "num_comments": 38
+    },
+    {
+      "title": "Google is illegaly cutting forest to build data centers",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "points": 253,
+      "num_comments": 67
+    },
+    {
+      "title": "The tilde in your PATH may not be your HOME",
+      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "points": 227,
+      "num_comments": 144
+    },
+    {
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "points": 208,
+      "num_comments": 38
+    },
+    {
+      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+      "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+      "points": 186,
+      "num_comments": 144
+    },
+    {
+      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "url": "https://betterwispr.com/",
+      "points": 173,
+      "num_comments": 101
+    },
+    {
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "points": 167,
+      "num_comments": 75
+    }
+  ],
+  "product_hunt": []
+}
