@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-13",
+  "fetched_at": "2026-10-13T05:31:58.388Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "points": 596,
+      "num_comments": 199
+    },
+    {
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "points": 577,
+      "num_comments": 319
+    },
+    {
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "points": 545,
+      "num_comments": 717
+    },
+    {
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "points": 509,
+      "num_comments": 261
+    },
+    {
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "points": 498,
+      "num_comments": 290
+    },
+    {
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "points": 474,
+      "num_comments": 189
+    },
+    {
+      "title": "QGIS enacts moratorium on AI contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "points": 372,
+      "num_comments": 402
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "points": 325,
+      "num_comments": 276
+    },
+    {
+      "title": "Why aren't AI companies being charged for hacking?",
+      "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+      "points": 314,
+      "num_comments": 338
+    },
+    {
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "points": 307,
+      "num_comments": 87
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "points": 304,
+      "num_comments": 249
+    },
+    {
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "points": 297,
+      "num_comments": 334
+    },
+    {
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "points": 283,
+      "num_comments": 147
+    },
+    {
+      "title": "Thinking will become a hobby",
+      "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+      "points": 263,
+      "num_comments": 355
+    },
+    {
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "points": 247,
+      "num_comments": 122
+    },
+    {
+      "title": "Fable Took My Job",
+      "url": "https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html",
+      "points": 218,
+      "num_comments": 351
+    },
+    {
+      "title": "OpenFatigue™ – Open is the new closed",
+      "url": "https://openfatigue.ai/",
+      "points": 210,
+      "num_comments": 47
+    },
+    {
+      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "points": 192,
+      "num_comments": 96
+    },
+    {
+      "title": "RJ Mitte has died",
+      "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
+      "points": 180,
+      "num_comments": 54
+    },
+    {
+      "title": "Zod 4.6.6 compromised by malware?",
+      "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+      "points": 179,
+      "num_comments": 51
+    }
+  ],
+  "product_hunt": []
+}
