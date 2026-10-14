@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-14",
+  "fetched_at": "2026-10-14T03:35:02.961Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "points": 1089,
+      "num_comments": 798
+    },
+    {
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "points": 693,
+      "num_comments": 807
+    },
+    {
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "points": 692,
+      "num_comments": 386
+    },
+    {
+      "title": "Firefox Enterprise",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "points": 676,
+      "num_comments": 274
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "points": 593,
+      "num_comments": 569
+    },
+    {
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "points": 453,
+      "num_comments": 396
+    },
+    {
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "points": 440,
+      "num_comments": 247
+    },
+    {
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "url": "https://eg2.haku.sh/",
+      "points": 407,
+      "num_comments": 86
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "points": 369,
+      "num_comments": 162
+    },
+    {
+      "title": "Hittite royal archive found in Turkey",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "points": 343,
+      "num_comments": 83
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "points": 335,
+      "num_comments": 93
+    },
+    {
+      "title": "New Apple TV 4K",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "points": 310,
+      "num_comments": 566
+    },
+    {
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "points": 305,
+      "num_comments": 272
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "points": 274,
+      "num_comments": 154
+    },
+    {
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "points": 237,
+      "num_comments": 96
+    },
+    {
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "points": 229,
+      "num_comments": 322
+    },
+    {
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "points": 212,
+      "num_comments": 352
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "points": 205,
+      "num_comments": 48
+    },
+    {
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "points": 159,
+      "num_comments": 81
+    },
+    {
+      "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
+      "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
+      "points": 157,
+      "num_comments": 121
+    }
+  ],
+  "product_hunt": []
+}
