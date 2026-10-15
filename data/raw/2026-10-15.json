@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-15",
+  "fetched_at": "2026-10-15T03:15:14.152Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "points": 897,
+      "num_comments": 220
+    },
+    {
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "points": 848,
+      "num_comments": 458
+    },
+    {
+      "title": "How Amazon pushes up prices all across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "points": 743,
+      "num_comments": 601
+    },
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "points": 706,
+      "num_comments": 288
+    },
+    {
+      "title": "Passkeys are not a trap",
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "points": 512,
+      "num_comments": 675
+    },
+    {
+      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+      "points": 491,
+      "num_comments": 299
+    },
+    {
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "points": 489,
+      "num_comments": 241
+    },
+    {
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+      "points": 412,
+      "num_comments": 101
+    },
+    {
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "points": 367,
+      "num_comments": 149
+    },
+    {
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "points": 321,
+      "num_comments": 231
+    },
+    {
+      "title": "Suicide rates highest ever among middle-aged men",
+      "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+      "points": 305,
+      "num_comments": 398
+    },
+    {
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "points": 305,
+      "num_comments": 206
+    },
+    {
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "points": 275,
+      "num_comments": 116
+    },
+    {
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "points": 272,
+      "num_comments": 104
+    },
+    {
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "points": 264,
+      "num_comments": 277
+    },
+    {
+      "title": "Switzerland proposes banning profiling-based ads to minors",
+      "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
+      "points": 238,
+      "num_comments": 145
+    },
+    {
+      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+      "url": "https://blog.cloudflare.com/yandex-outage/",
+      "points": 230,
+      "num_comments": 75
+    },
+    {
+      "title": "Why is every rationalist blog post way too long?",
+      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+      "points": 225,
+      "num_comments": 158
+    },
+    {
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "points": 213,
+      "num_comments": 30
+    },
+    {
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "points": 212,
+      "num_comments": 72
+    }
+  ],
+  "product_hunt": []
+}
