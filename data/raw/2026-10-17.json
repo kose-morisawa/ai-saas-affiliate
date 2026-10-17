@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-17",
+  "fetched_at": "2026-10-17T03:02:11.445Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "points": 719,
+      "num_comments": 277
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "points": 420,
+      "num_comments": 358
+    },
+    {
+      "title": "I love software rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "points": 299,
+      "num_comments": 190
+    },
+    {
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "points": 289,
+      "num_comments": 393
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "points": 274,
+      "num_comments": 123
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "points": 256,
+      "num_comments": 242
+    },
+    {
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "points": 222,
+      "num_comments": 70
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "points": 217,
+      "num_comments": 57
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "points": 213,
+      "num_comments": 151
+    },
+    {
+      "title": "The Folders Programming Language",
+      "url": "https://danieltemkin.com/esolangs/folders",
+      "points": 203,
+      "num_comments": 37
+    },
+    {
+      "title": "I never authorized an integration that scans my secrets",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "points": 202,
+      "num_comments": 155
+    },
+    {
+      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+      "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+      "points": 193,
+      "num_comments": 111
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "points": 192,
+      "num_comments": 88
+    },
+    {
+      "title": "Desire to Move Permanently to U.S. at New Low",
+      "url": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx",
+      "points": 186,
+      "num_comments": 193
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "points": 182,
+      "num_comments": 147
+    },
+    {
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "points": 181,
+      "num_comments": 70
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "points": 171,
+      "num_comments": 45
+    },
+    {
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "points": 168,
+      "num_comments": 48
+    },
+    {
+      "title": "/dev/null: social network for developers",
+      "url": "https://dev-null.sh",
+      "points": 137,
+      "num_comments": 124
+    },
+    {
+      "title": "What on Earth Is Dekton?",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "points": 131,
+      "num_comments": 45
+    }
+  ],
+  "product_hunt": []
+}
