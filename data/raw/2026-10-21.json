@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-21",
+  "fetched_at": "2026-10-21T03:21:58.186Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "points": 2159,
+      "num_comments": 838
+    },
+    {
+      "title": "EMudhra Intermediate CA Compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "points": 696,
+      "num_comments": 346
+    },
+    {
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "points": 621,
+      "num_comments": 311
+    },
+    {
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "points": 550,
+      "num_comments": 145
+    },
+    {
+      "title": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "points": 507,
+      "num_comments": 265
+    },
+    {
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "points": 424,
+      "num_comments": 381
+    },
+    {
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "points": 386,
+      "num_comments": 109
+    },
+    {
+      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "points": 371,
+      "num_comments": 529
+    },
+    {
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "points": 357,
+      "num_comments": 175
+    },
+    {
+      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "points": 351,
+      "num_comments": 175
+    },
+    {
+      "title": "Ofcom concedes defeat in 4chan case",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "points": 345,
+      "num_comments": 261
+    },
+    {
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "points": 334,
+      "num_comments": 79
+    },
+    {
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "points": 325,
+      "num_comments": 192
+    },
+    {
+      "title": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "points": 298,
+      "num_comments": 364
+    },
+    {
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "points": 278,
+      "num_comments": 64
+    },
+    {
+      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "points": 215,
+      "num_comments": 127
+    },
+    {
+      "title": "My Friend Bob Cringely",
+      "url": "https://tyma.com/my-cringe-story/",
+      "points": 176,
+      "num_comments": 49
+    },
+    {
+      "title": "2026 is an exciting year for the Rust compiler (and me)",
+      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "points": 174,
+      "num_comments": 83
+    },
+    {
+      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "points": 171,
+      "num_comments": 198
+    },
+    {
+      "title": "NixOS is making me less afraid",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "points": 171,
+      "num_comments": 114
+    }
+  ],
+  "product_hunt": []
+}
