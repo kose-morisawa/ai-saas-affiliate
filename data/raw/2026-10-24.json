@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-24",
+  "fetched_at": "2026-10-24T03:20:16.421Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
+      "points": 770,
+      "num_comments": 522
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "points": 766,
+      "num_comments": 471
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "points": 627,
+      "num_comments": 204
+    },
+    {
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "points": 527,
+      "num_comments": 384
+    },
+    {
+      "title": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "url": "https://keepandroidopen.org/?",
+      "points": 483,
+      "num_comments": 335
+    },
+    {
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "points": 418,
+      "num_comments": 438
+    },
+    {
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "points": 315,
+      "num_comments": 118
+    },
+    {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "points": 309,
+      "num_comments": 160
+    },
+    {
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "points": 289,
+      "num_comments": 188
+    },
+    {
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "url": "https://block.xyz/dessa",
+      "points": 275,
+      "num_comments": 111
+    },
+    {
+      "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+      "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+      "points": 194,
+      "num_comments": 153
+    },
+    {
+      "title": "Remove pgrust: the entry is cheating (per-query kernels and result caching)",
+      "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+      "points": 183,
+      "num_comments": 144
+    },
+    {
+      "title": "OpenSSL 4.1.0",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "points": 180,
+      "num_comments": 62
+    },
+    {
+      "title": "Job loss and cortisone mania",
+      "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+      "points": 170,
+      "num_comments": 114
+    },
+    {
+      "title": "Move Slow and Fix Things (2024)",
+      "url": "https://endler.dev/2024/move-slow-and-fix-things/",
+      "points": 170,
+      "num_comments": 31
+    },
+    {
+      "title": "No Need for Retirement When Utopia Is Around the Corner",
+      "url": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+      "points": 153,
+      "num_comments": 169
+    },
+    {
+      "title": "Is this the new cyber normal?",
+      "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+      "points": 151,
+      "num_comments": 166
+    },
+    {
+      "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
+      "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+      "points": 151,
+      "num_comments": 106
+    },
+    {
+      "title": "Shitter – A Nitter Fork",
+      "url": "https://codeberg.org/shitter/shitter",
+      "points": 147,
+      "num_comments": 144
+    },
+    {
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "points": 140,
+      "num_comments": 154
+    }
+  ],
+  "product_hunt": []
+}
