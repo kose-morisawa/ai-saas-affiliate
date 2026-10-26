@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-26",
+  "fetched_at": "2026-10-26T03:16:44.065Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "points": 473,
+      "num_comments": 327
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "points": 471,
+      "num_comments": 216
+    },
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "points": 431,
+      "num_comments": 80
+    },
+    {
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "points": 416,
+      "num_comments": 109
+    },
+    {
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "points": 412,
+      "num_comments": 206
+    },
+    {
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "points": 286,
+      "num_comments": 1
+    },
+    {
+      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "points": 249,
+      "num_comments": 133
+    },
+    {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "points": 205,
+      "num_comments": 298
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2",
+      "points": 204,
+      "num_comments": 71
+    },
+    {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "points": 189,
+      "num_comments": 214
+    },
+    {
+      "title": "Lula wins election after final votes tallied",
+      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+      "points": 189,
+      "num_comments": 159
+    },
+    {
+      "title": "JetBrains Thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "points": 189,
+      "num_comments": 141
+    },
+    {
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "url": "https://github.com/slee-persis/GVS5H",
+      "points": 183,
+      "num_comments": 71
+    },
+    {
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "points": 172,
+      "num_comments": 38
+    },
+    {
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "url": "https://bigwhalehunting.com/workforce/",
+      "points": 168,
+      "num_comments": 47
+    },
+    {
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "url": "https://loeffelholz-codex.org/en/",
+      "points": 162,
+      "num_comments": 81
+    },
+    {
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "points": 153,
+      "num_comments": 56
+    },
+    {
+      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+      "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+      "points": 147,
+      "num_comments": 172
+    },
+    {
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "points": 135,
+      "num_comments": 75
+    },
+    {
+      "title": "Samsung TVs look for microphones in your house via Bluetooth and then spy events",
+      "url": "https://twitter.com/freddier/status/2114042326758867453",
+      "points": 135,
+      "num_comments": 3
+    }
+  ],
+  "product_hunt": []
+}
