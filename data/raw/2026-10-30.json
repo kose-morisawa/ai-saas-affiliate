@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-30",
+  "fetched_at": "2026-10-30T04:25:45.934Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Patrick Stewart has died",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "points": 2597,
+      "num_comments": 553
+    },
+    {
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "points": 1269,
+      "num_comments": 357
+    },
+    {
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "points": 935,
+      "num_comments": 547
+    },
+    {
+      "title": "DoorDash to acquire Instacart",
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "points": 450,
+      "num_comments": 619
+    },
+    {
+      "title": "‘You Are Done’: The letter sent to King by the F.B.I (2014)",
+      "url": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html",
+      "points": 412,
+      "num_comments": 391
+    },
+    {
+      "title": "Google Search is now less than half of Alphabet’s revenue",
+      "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+      "points": 399,
+      "num_comments": 337
+    },
+    {
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "points": 382,
+      "num_comments": 204
+    },
+    {
+      "title": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "points": 362,
+      "num_comments": 132
+    },
+    {
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "points": 329,
+      "num_comments": 240
+    },
+    {
+      "title": "Zero click, silent, remote Android DoS",
+      "url": "https://smsofdeath.com/",
+      "points": 314,
+      "num_comments": 182
+    },
+    {
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "points": 308,
+      "num_comments": 150
+    },
+    {
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "points": 302,
+      "num_comments": 211
+    },
+    {
+      "title": "I went to Mexico to test-drive the cars Americans can’t buy",
+      "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+      "points": 289,
+      "num_comments": 336
+    },
+    {
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "points": 268,
+      "num_comments": 197
+    },
+    {
+      "title": "Hackers expose the identities of more than 40k DHS employees",
+      "url": "https://text.npr.org/nx-s1-6021497",
+      "points": 260,
+      "num_comments": 75
+    },
+    {
+      "title": "If IPv4 were land",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "points": 250,
+      "num_comments": 349
+    },
+    {
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "points": 236,
+      "num_comments": 38
+    },
+    {
+      "title": "How Google determines the names for bodies of water in Google Earth (2008)",
+      "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+      "points": 223,
+      "num_comments": 181
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "points": 219,
+      "num_comments": 70
+    },
+    {
+      "title": "What we know so far about Spain train crash",
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "points": 170,
+      "num_comments": 326
+    }
+  ],
+  "product_hunt": []
+}
