@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-04",
+  "fetched_at": "2026-11-04T04:53:25.865Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "points": 1125,
+      "num_comments": 366
+    },
+    {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "points": 934,
+      "num_comments": 196
+    },
+    {
+      "title": "Google will turn off search for schools that reject AI",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "points": 582,
+      "num_comments": 420
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "points": 537,
+      "num_comments": 170
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "points": 468,
+      "num_comments": 162
+    },
+    {
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "points": 464,
+      "num_comments": 228
+    },
+    {
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "points": 459,
+      "num_comments": 449
+    },
+    {
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "points": 352,
+      "num_comments": 199
+    },
+    {
+      "title": "Mac at any scale",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "points": 342,
+      "num_comments": 200
+    },
+    {
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "points": 311,
+      "num_comments": 135
+    },
+    {
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "points": 277,
+      "num_comments": 47
+    },
+    {
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "points": 266,
+      "num_comments": 129
+    },
+    {
+      "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+      "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
+      "points": 256,
+      "num_comments": 223
+    },
+    {
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "url": "https://flipper.net/pages/flipper-one",
+      "points": 195,
+      "num_comments": 85
+    },
+    {
+      "title": "Revolut moves to self-hosted GLM",
+      "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+      "points": 188,
+      "num_comments": 156
+    },
+    {
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "points": 186,
+      "num_comments": 11
+    },
+    {
+      "title": "Just a little AI resistance, as a treat",
+      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "points": 172,
+      "num_comments": 106
+    },
+    {
+      "title": "I dumped Apple’s word list",
+      "url": "https://helgesver.re/articles/macos-vulgar-word-flags",
+      "points": 143,
+      "num_comments": 80
+    }
+  ],
+  "product_hunt": []
+}
