@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-06",
+  "fetched_at": "2026-11-06T05:10:17.295Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "points": 2471,
+      "num_comments": 608
+    },
+    {
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "points": 762,
+      "num_comments": 257
+    },
+    {
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "points": 618,
+      "num_comments": 2
+    },
+    {
+      "title": "Search for everyone",
+      "url": "https://kagi.com/changelog#11820",
+      "points": 607,
+      "num_comments": 313
+    },
+    {
+      "title": "Goodbye from Salon",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "points": 517,
+      "num_comments": 185
+    },
+    {
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "points": 429,
+      "num_comments": 317
+    },
+    {
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "points": 415,
+      "num_comments": 357
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "points": 402,
+      "num_comments": 150
+    },
+    {
+      "title": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "points": 350,
+      "num_comments": 306
+    },
+    {
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "points": 315,
+      "num_comments": 172
+    },
+    {
+      "title": "Download your favourite YouTube videos",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "points": 309,
+      "num_comments": 143
+    },
+    {
+      "title": "Awesome repositories are no longer awesome",
+      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+      "points": 283,
+      "num_comments": 116
+    },
+    {
+      "title": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "points": 278,
+      "num_comments": 92
+    },
+    {
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "points": 272,
+      "num_comments": 117
+    },
+    {
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "points": 256,
+      "num_comments": 126
+    },
+    {
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "points": 249,
+      "num_comments": 5
+    },
+    {
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "points": 213,
+      "num_comments": 24
+    },
+    {
+      "title": "Nasdaq plummets 4% into correction territory",
+      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+      "points": 210,
+      "num_comments": 167
+    },
+    {
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "points": 206,
+      "num_comments": 51
+    },
+    {
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "points": 195,
+      "num_comments": 97
+    }
+  ],
+  "product_hunt": []
+}
