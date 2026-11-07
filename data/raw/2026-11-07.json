@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-07",
+  "fetched_at": "2026-11-07T04:41:59.396Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "points": 915,
+      "num_comments": 1769
+    },
+    {
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "points": 687,
+      "num_comments": 280
+    },
+    {
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "points": 625,
+      "num_comments": 410
+    },
+    {
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "points": 570,
+      "num_comments": 431
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "points": 393,
+      "num_comments": 87
+    },
+    {
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "points": 378,
+      "num_comments": 61
+    },
+    {
+      "title": "Deus Ex",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "points": 347,
+      "num_comments": 181
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "points": 307,
+      "num_comments": 221
+    },
+    {
+      "title": "RIP Cybertruck",
+      "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+      "points": 301,
+      "num_comments": 4
+    },
+    {
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "points": 260,
+      "num_comments": 518
+    },
+    {
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "url": "https://apps.metaebene.me/en/kugelblitz",
+      "points": 246,
+      "num_comments": 65
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "points": 239,
+      "num_comments": 182
+    },
+    {
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "points": 206,
+      "num_comments": 37
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "points": 198,
+      "num_comments": 96
+    },
+    {
+      "title": "I struggle to believe that AI R&D is ingenious",
+      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "points": 184,
+      "num_comments": 192
+    },
+    {
+      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "url": "https://worldstrike.fun/",
+      "points": 167,
+      "num_comments": 119
+    },
+    {
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "url": "https://jhr.pensoft.net/articles.php?id=9096",
+      "points": 167,
+      "num_comments": 52
+    },
+    {
+      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+      "url": "https://github.com/anomalyco/rune",
+      "points": 158,
+      "num_comments": 114
+    },
+    {
+      "title": "We've built an open-source feature flag server for 11 years",
+      "url": "https://github.com/Unleash/unleash",
+      "points": 150,
+      "num_comments": 101
+    }
+  ],
+  "product_hunt": []
+}
