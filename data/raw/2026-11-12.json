@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-12",
+  "fetched_at": "2026-11-12T05:48:04.229Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "points": 1025,
+      "num_comments": 111
+    },
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "points": 957,
+      "num_comments": 350
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "points": 785,
+      "num_comments": 1123
+    },
+    {
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "points": 765,
+      "num_comments": 227
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "points": 493,
+      "num_comments": 475
+    },
+    {
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "points": 454,
+      "num_comments": 227
+    },
+    {
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "points": 351,
+      "num_comments": 109
+    },
+    {
+      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "points": 348,
+      "num_comments": 241
+    },
+    {
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "url": "https://av.github.io/safe-sand/",
+      "points": 341,
+      "num_comments": 67
+    },
+    {
+      "title": "Jensen Huang said to have had relationship with executive who reports to him",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "points": 322,
+      "num_comments": 380
+    },
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "points": 301,
+      "num_comments": 41
+    },
+    {
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "points": 284,
+      "num_comments": 115
+    },
+    {
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "points": 267,
+      "num_comments": 38
+    },
+    {
+      "title": "Apple is killing its Support Community forum next week",
+      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "points": 256,
+      "num_comments": 3
+    },
+    {
+      "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+      "url": "https://twitter.com/watcherguru/status/2120645607866188008",
+      "points": 225,
+      "num_comments": 4
+    },
+    {
+      "title": "Why are we still working this hard?",
+      "url": "https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/",
+      "points": 216,
+      "num_comments": 264
+    },
+    {
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "points": 210,
+      "num_comments": 91
+    },
+    {
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "points": 207,
+      "num_comments": 78
+    },
+    {
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "url": "https://termsheetplease.com/",
+      "points": 201,
+      "num_comments": 82
+    },
+    {
+      "title": "We need more goat sacrifices",
+      "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+      "points": 194,
+      "num_comments": 112
+    }
+  ],
+  "product_hunt": []
+}
