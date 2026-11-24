@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-24",
+  "fetched_at": "2026-11-24T08:26:41.939Z",
+  "github_trending": [],
+  "hackernews": [
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "points": 2509,
+      "num_comments": 3429
+    },
+    {
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "points": 1823,
+      "num_comments": 417
+    },
+    {
+      "title": "Jensen Huang Reinstated as Nvidia CEO",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "points": 1708,
+      "num_comments": 4
+    },
+    {
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "points": 1595,
+      "num_comments": 895
+    },
+    {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "points": 1113,
+      "num_comments": 361
+    },
+    {
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "url": "https://arm.jonpalmisc.com/",
+      "points": 1005,
+      "num_comments": 230
+    },
+    {
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "points": 565,
+      "num_comments": 130
+    },
+    {
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "points": 419,
+      "num_comments": 213
+    },
+    {
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "points": 412,
+      "num_comments": 325
+    },
+    {
+      "title": "VP ≠ VNP over Every Field",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "points": 323,
+      "num_comments": 284
+    },
+    {
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "url": "https://github.com/os6/nospeaker",
+      "points": 307,
+      "num_comments": 172
+    },
+    {
+      "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+      "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+      "points": 296,
+      "num_comments": 234
+    },
+    {
+      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "points": 294,
+      "num_comments": 82
+    },
+    {
+      "title": "Cyberleek posted the GTA 6 Xbox build executable",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+      "points": 287,
+      "num_comments": 306
+    },
+    {
+      "title": "The next circle of security hell",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+      "points": 243,
+      "num_comments": 150
+    },
+    {
+      "title": "GPUI is getting its own repository",
+      "url": "https://github.com/zed-industries/gpui",
+      "points": 241,
+      "num_comments": 93
+    },
+    {
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "url": "https://github.com/mikuta0407/win4wine",
+      "points": 229,
+      "num_comments": 120
+    },
+    {
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "url": "https://www.bored.com/",
+      "points": 225,
+      "num_comments": 49
+    },
+    {
+      "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+      "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+      "points": 197,
+      "num_comments": 72
+    },
+    {
+      "title": "Don't keep your SSH keys on disk",
+      "url": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
+      "points": 170,
+      "num_comments": 109
+    }
+  ],
+  "product_hunt": []
+}
